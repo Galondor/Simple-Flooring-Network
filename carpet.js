@@ -17,9 +17,9 @@ async function getProducts() {
     const productData = data.filter(product => product.productType === "Carpet");
     console.log(productData);
 
-      for (let i = 0; i < 14; i++) {
+      for (let i = 0; i < 17; i++) {
         products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
-        <div class="product" id="product" style="background-image: url(${data[i].image})">
+        <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
             <h4 class="product_brand">${productData[i].brand}</h4>

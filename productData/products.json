@@ -7,7 +7,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg",
+    "image": "/productImages/Carpet/Without-Limits-2/Heather.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -22,22 +22,22 @@
       {
         "colorName": "Heather",
         "colorNumber": "00100",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Heather.jpg"
       },
       {
         "colorName": "Abalone",
         "colorNumber": "00101",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Abalone.jpg"
       },
       {
         "colorName": "Macadamia",
         "colorNumber": "00102",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Macadamia.jpg"
       },
       {
         "colorName": "Sandbank",
         "colorNumber": "00103",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Sandbank.jpg"
       },
       {
         "colorName": "Travatan",
@@ -57,12 +57,12 @@
       {
         "colorName": "Stainless",
         "colorNumber": "00500",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Stainless.jpg"
       },
       {
         "colorName": "Tundra",
         "colorNumber": "00501",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Tundra.jpg"
       },
       {
         "colorName": "Granite",
@@ -108,7 +108,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Carpet/Montage-1/Painter's Canvas.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -123,7 +123,7 @@
       {
         "colorName": "Painter's Canvas",
         "colorNumber": "100S",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Painter's Canvas.jpg"
       },
       {
         "colorName": "Sculptor Clay",
@@ -229,7 +229,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Carpet/Boundless-4/White Wash.jpg",
     "price": [
       {
         "priceType": "Regular",

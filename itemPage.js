@@ -13,6 +13,8 @@ const selectedEl = document.querySelector('.selected');
 const addToCart = document.querySelector('.add_to_cart');
 const step2 = document.querySelector('.step-2');
 const productImages = document.querySelector('.product_images');
+const productWrapper = document.querySelector('.product_wrapper');
+const colorImage = document.querySelector('.color_image');
 
 getProducts();
 //Render Product Details On The Screen
@@ -31,6 +33,9 @@ async function getProducts() {
             productPrice.innerHTML = `${productData[i].price[0].priceValue}<span class="uom">/sqft</span>`;
             rating.innerHTML = `<h3 class="rating">Rating: ${productData[i].rating}</h3>`;
             color.textContent = productData[i].colors[0].colorName;
+            //Initial Color
+            currentColor = productData[i].colors[0].colorImage;
+            productWrapper.innerHTML = `<img src="${currentColor}" alt="" class="product_img">`;
 
             step2.innerHTML = `<div class="step-2">
             <h2>Order a Sample</h2>
@@ -41,18 +46,17 @@ async function getProducts() {
       }
       for (let i = 0; i < productData[product - 1].colors.length; i++) {
         menuEl.innerHTML += `<li>
-        <img class="color_image" src="productImages/LVP/VV023-Red-River-Hickory.jpg" alt="">
+        <img class="color_image" src="${productData[product - 1].colors[i].colorImage}" alt="">
         <span>${productData[product - 1].colors[i].colorName}</span>
       </li>`
+      //Dropdown Menu
+    selectedEl.innerHTML = `<img class="color_image" 
+    src="${productData[product - 1].colors[0].colorImage}" alt="">
+    <span>${color.textContent}</span>`
       }
     } catch (error) {
       console.log(error);
     }
-
-    //Dropdown Menu
-    selectedEl.innerHTML = `<img class="color_image" 
-    src="productImages/LVP/VV023-Red-River-Hickory.jpg" alt="">
-    <span>${color.textContent}</span>`
 
     for (let i = 0; i < 3; i++) {
       productImages.innerHTML += `<img class="product_image" src="productImages/LVP/VV023-Red-River-Hickory.jpg" alt="">`;
@@ -79,6 +83,8 @@ async function getProducts() {
           menu.classList.remove('menu_open');
           option.classList.remove('active');
           color.textContent = option.textContent;
+          currentColor = selectedEl.getElementsByTagName('img')[0].src = option.getElementsByTagName('img')[0].src;
+          productWrapper.innerHTML = `<img src="${currentColor}" alt="" class="product_img">`;
         });
         option.classList.add('active');
       });
