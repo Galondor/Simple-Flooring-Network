@@ -47,7 +47,7 @@
       {
         "colorName": "Misty Mica",
         "colorNumber": "00105",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Misty Mica.jpg"
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Misty-Mica.jpg"
       },
       {
         "colorName": "Organic",
@@ -65,6 +65,11 @@
         "colorImage": "/productImages/Carpet/Without-Limits-2/Tundra.jpg"
       },
       {
+        "colorName": "Silver Spoon",
+        "colorNumber": "00502",
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Silver-Spoon.jpg"
+      },
+      {
         "colorName": "Granite",
         "colorNumber": "00503",
         "colorImage": "/productImages/Carpet/Without-Limits-2/Granite.jpg"
@@ -72,7 +77,7 @@
       {
         "colorName": "Saddle Tan",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Saddle Tan.jpg"
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Saddle-Tan.jpg"
       },
       {
         "colorName": "Bountiful",
@@ -108,7 +113,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Montage-1/Painter's Canvas.jpg",
+    "image": "/productImages/Carpet/Montage-1/Painters-Canvas.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -123,92 +128,92 @@
       {
         "colorName": "Painter's Canvas",
         "colorNumber": "100S",
-        "colorImage": "/productImages/Carpet/Montage-1/Painter's Canvas.jpg"
+        "colorImage": "/productImages/Carpet/Montage-1/Painters-Canvas.jpg"
       },
       {
         "colorName": "Sculptor Clay",
         "colorNumber": "101S",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Sculptor-Clay.jpg"
       },
       {
         "colorName": "Parisian Lights",
         "colorNumber": "102S",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Parisian-Lights.jpg"
       },
       {
         "colorName": "Polished Stone",
         "colorNumber": "103S",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Polished-Stone.jpg"
       },
       {
         "colorName": "Shoreline Haze",
         "colorNumber": "120T",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Shoreline-Haze.jpg"
       },
       {
         "colorName": "Chateau",
         "colorNumber": "121T",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Chateau.jpg"
       },
       {
         "colorName": "Spun Wool",
         "colorNumber": "130A",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Spun-Wool.jpg"
       },
       {
         "colorName": "Morning Frost",
         "colorNumber": "131A",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Morning-Frost.jpg"
       },
       {
         "colorName": "Lunar Surface",
         "colorNumber": "140A",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Lunar-Surface.jpg"
       },
       {
         "colorName": "Adobe",
         "colorNumber": "141A",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Adobe.jpg"
       },
       {
         "colorName": "Classic Silver",
         "colorNumber": "500S",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Classic-Silver.jpg"
       },
       {
         "colorName": "Cosmic Quest",
         "colorNumber": "501S",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Cosmic-Quest.jpg"
       },
       {
         "colorName": "Carbon Copy",
         "colorNumber": "520T",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Carbon-Copy.jpg"
       },
       {
         "colorName": "River Rock",
         "colorNumber": "530A",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/River-Rock.jpg"
       },
       {
         "colorName": "Hidden Treasure",
         "colorNumber": "700S",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Hidden-Treasure.jpg"
       },
       {
         "colorName": "Mission",
         "colorNumber": "701S",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Mission.jpg"
       },
       {
         "colorName": "Midtown Brown",
         "colorNumber": "720T",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Midtown-Brown.jpg"
       },
       {
         "colorName": "Tempting Taupe",
         "colorNumber": "740A",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Montage-1/Tempting-Taupe.jpg"
       }
     ],
     "productSpecs": [
@@ -229,7 +234,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Boundless-4/White Wash.jpg",
+    "image": "/productImages/Carpet/Boundless-4/White-Wash.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -244,72 +249,72 @@
       {
         "colorName": "White Wash",
         "colorNumber": "00100",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/White-Wash.jpg"
       },
       {
         "colorName": "Slate Stone",
         "colorNumber": "00105",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Slate-Stone.jpg"
       },
       {
         "colorName": "Creamery",
         "colorNumber": "00130",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Creamery.jpg"
       },
       {
         "colorName": "Soft Breeze",
         "colorNumber": "00131",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Soft-Breeze.jpg"
       },
       {
         "colorName": "Morning Light",
         "colorNumber": "00140",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Morning-Light.jpg"
       },
       {
         "colorName": "Distant Star",
         "colorNumber": "00141",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Distant-Star.jpg"
       },
       {
         "colorName": "Magnetic",
         "colorNumber": "00502",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Magnetic.jpg"
       },
       {
         "colorName": "Reflection",
         "colorNumber": "00530",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Reflection.jpg"
       },
       {
         "colorName": "Woodcraft",
         "colorNumber": "00701",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Woodcraft.jpg"
       },
       {
         "colorName": "Gateway",
         "colorNumber": "00702",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Gateway.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00703",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Shadow.jpg"
       },
       {
         "colorName": "Dreamscape",
         "colorNumber": "00740",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Dreamscape.jpg"
       },
       {
         "colorName": "Chestnut Ridge",
         "colorNumber": "00751",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Chestnut-Ridge.jpg"
       },
       {
         "colorName": "Cabana",
         "colorNumber": "00752",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Boundless-4/Cabana.jpg"
       }
     ],
     "productSpecs": [
@@ -330,7 +335,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Carpet/Yes-You-Can/Seashell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -345,122 +350,122 @@
       {
         "colorName": "Seashell",
         "colorNumber": "00100",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Seashell.jpg"
       },
       {
         "colorName": "Marble",
         "colorNumber": "00103",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Marble.jpg"
       },
       {
         "colorName": "Frozen",
         "colorNumber": "00107",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Frozen.jpg"
       },
       {
         "colorName": "Natural",
         "colorNumber": "00109",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Natural.jpg"
       },
       {
         "colorName": "Glacier",
         "colorNumber": "00110",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Glacier.jpg"
       },
       {
         "colorName": "Chic Greige",
         "colorNumber": "00111",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Chic-Greige.jpg"
       },
       {
         "colorName": "Soft Sense",
         "colorNumber": "00112",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Soft-Sense.jpg"
       },
       {
         "colorName": "Cameo",
         "colorNumber": "00113",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Cameo.jpg"
       },
       {
         "colorName": "Subtle Clay",
         "colorNumber": "00114",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Subtle-Clay.jpg"
       },
       {
         "colorName": "Sculpture",
         "colorNumber": "00115",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Sculpture.jpg"
       },
       {
         "colorName": "Warm Light",
         "colorNumber": "00116",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Warm-Light.jpg"
       },
       {
         "colorName": "Honeycomb",
         "colorNumber": "00207",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Honeycomb.jpg"
       },
       {
         "colorName": "Rerooted Nature",
         "colorNumber": "00300",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Rerooted-Nature.jpg"
       },
       {
         "colorName": "Refined",
         "colorNumber": "00402",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Refined.jpg"
       },
       {
         "colorName": "Sea Ice",
         "colorNumber": "00403",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Sea-Ice.jpg"
       },
       {
         "colorName": "Alaskan Air",
         "colorNumber": "00500",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Alaskan-Air.jpg"
       },
       {
         "colorName": "Ashes",
         "colorNumber": "00501",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Ashes.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00502",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Shadow.jpg"
       },
       {
         "colorName": "Rock Crystal",
         "colorNumber": "00508",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Rock-Crystal.jpg"
       },
       {
         "colorName": "Vintage",
         "colorNumber": "00509",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Vintage.jpg"
       },
       {
-        "colorName": "Warn Path",
+        "colorName": "Worn Path",
         "colorNumber": "00700",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Worn-Path.jpg"
       },
       {
         "colorName": "Mission Ridge",
         "colorNumber": "00705",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Mission-Ridge.jpg"
       },
       {
         "colorName": "Cafe Noir",
         "colorNumber": "00706",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Cafe-Noir.jpg"
       },
       {
         "colorName": "Urban Rustic",
         "colorNumber": "00708",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Urban-Rustic.jpg"
       }
     ],
     "productSpecs": [
@@ -481,7 +486,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Carpet/Yes-You-Can/Seashell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -496,122 +501,122 @@
       {
         "colorName": "Seashell",
         "colorNumber": "00100",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Seashell.jpg"
       },
       {
         "colorName": "Marble",
         "colorNumber": "00103",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Marble.jpg"
       },
       {
         "colorName": "Frozen",
         "colorNumber": "00107",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Frozen.jpg"
       },
       {
         "colorName": "Natural",
         "colorNumber": "00109",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Natural.jpg"
       },
       {
         "colorName": "Glacier",
         "colorNumber": "00110",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Glacier.jpg"
       },
       {
         "colorName": "Chic Greige",
         "colorNumber": "00111",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Chic-Greige.jpg"
       },
       {
         "colorName": "Soft Sense",
         "colorNumber": "00112",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Soft-Sense.jpg"
       },
       {
         "colorName": "Cameo",
         "colorNumber": "00113",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Cameo.jpg"
       },
       {
         "colorName": "Subtle Clay",
         "colorNumber": "00114",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Subtle-Clay.jpg"
       },
       {
         "colorName": "Sculpture",
         "colorNumber": "00115",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Sculpture.jpg"
       },
       {
         "colorName": "Warm Light",
         "colorNumber": "00116",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Warm-Light.jpg"
       },
       {
         "colorName": "Honeycomb",
         "colorNumber": "00207",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Honeycomb.jpg"
       },
       {
         "colorName": "Rerooted Nature",
         "colorNumber": "00300",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Rerooted-Nature.jpg"
       },
       {
         "colorName": "Refined",
         "colorNumber": "00402",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Refined.jpg"
       },
       {
         "colorName": "Sea Ice",
         "colorNumber": "00403",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Sea-Ice.jpg"
       },
       {
         "colorName": "Alaskan Air",
         "colorNumber": "00500",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Alaskan-Air.jpg"
       },
       {
         "colorName": "Ashes",
         "colorNumber": "00501",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Ashes.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00502",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Shadow.jpg"
       },
       {
         "colorName": "Rock Crystal",
         "colorNumber": "00508",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Rock-Crystal.jpg"
       },
       {
         "colorName": "Vintage",
         "colorNumber": "00509",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Vintage.jpg"
       },
       {
-        "colorName": "Warn Path",
+        "colorName": "Worn Path",
         "colorNumber": "00700",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Worn-Path.jpg"
       },
       {
         "colorName": "Mission Ridge",
         "colorNumber": "00705",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Mission-Ridge.jpg"
       },
       {
         "colorName": "Cafe Noir",
         "colorNumber": "00706",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Cafe-Noir.jpg"
       },
       {
         "colorName": "Urban Rustic",
         "colorNumber": "00708",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Yes-You-Can/Urban-Rustic.jpg"
       }
     ],
     "productSpecs": [
@@ -632,7 +637,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Carpet/Run-Free/Almond-Silk.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -647,77 +652,77 @@
       {
         "colorName": "Almond Silk",
         "colorNumber": "00101",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Almond-Silk.jpg"
       },
       {
         "colorName": "Marble",
         "colorNumber": "00103",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Marble.jpg"
       },
       {
         "colorName": "Cashmere",
         "colorNumber": "00104",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Cashmere.jpg"
       },
       {
         "colorName": "River Birch",
         "colorNumber": "00106",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/River-Birch.jpg"
       },
       {
         "colorName": "Natural",
         "colorNumber": "00109",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Natural.jpg"
       },
       {
         "colorName": "Cameo",
         "colorNumber": "00113",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Cameo.jpg"
       },
       {
         "colorName": "Sculpture",
         "colorNumber": "00115",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Sculpture.jpg"
       },
       {
         "colorName": "Warm Light",
         "colorNumber": "00116",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Warm-Light.jpg"
       },
       {
         "colorName": "Snowfall",
         "colorNumber": "00150",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Snowfall.jpg"
       },
       {
         "colorName": "Refined",
         "colorNumber": "00402",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Refined.jpg"
       },
       {
         "colorName": "Ashes",
         "colorNumber": "00501",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Ashes.jpg"
       },
       {
         "colorName": "Flannel",
         "colorNumber": "00503",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Flannel.jpg"
       },
       {
         "colorName": "Rock Crystal",
         "colorNumber": "00508",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Rock-Crystal.jpg"
       },
       {
         "colorName": "Vintage",
         "colorNumber": "00509",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Vintage.jpg"
       },
       {
         "colorName": "Gravity",
         "colorNumber": "00556",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Run-Free/Gravity.jpg"
       }
     ],
     "productSpecs": [
@@ -738,7 +743,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "NPR",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Carpet/Take-The-Floor-Accent-2/Italiano.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -753,52 +758,52 @@
       {
         "colorName": "Italiano",
         "colorNumber": "00170",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Italiano.jpg"
       },
       {
         "colorName": "Riverbed",
         "colorNumber": "00171",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Riverbed.jpg"
       },
       {
         "colorName": "Desert Sunrise",
         "colorNumber": "00172",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Desert-Sunrise.jpg"
       },
       {
         "colorName": "Avalanche",
         "colorNumber": "00173",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Avalanche.jpg"
       },
       {
         "colorName": "Luna",
         "colorNumber": "00174",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Luna.jpg"
       },
       {
         "colorName": "Everest",
         "colorNumber": "00176",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Everest.jpg"
       },
       {
         "colorName": "Cold Springs",
         "colorNumber": "00570",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Cold-Springs.jpg"
       },
       {
         "colorName": "Soapstone",
         "colorNumber": "00571",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Soapstone.jpg"
       },
       {
         "colorName": "Baltic Brown",
         "colorNumber": "00770",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Baltic-Brown.jpg"
       },
       {
         "colorName": "Storm",
         "colorNumber": "00771",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Storm.jpg"
       }
     ],
     "productSpecs": [
@@ -819,7 +824,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "NPR",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/assets/noImage.jpeg",
     "price": [
       {
         "priceType": "Regular",
@@ -832,54 +837,94 @@
     ],
     "colors": [
       {
-        "colorName": "Orion",
-        "colorNumber": "00160",
-        "colorImage": ""
+        "colorName": "Shoreline Haze",
+        "colorNumber": "0128T",
+        "colorImage": "/assets/noImage.jpeg"
       },
       {
-        "colorName": "Classique",
-        "colorNumber": "00161",
-        "colorImage": ""
+        "colorName": "Star Gazing",
+        "colorNumber": "0433T",
+        "colorImage": "/assets/noImage.jpeg"
       },
       {
-        "colorName": "Fantasy",
-        "colorNumber": "00162",
-        "colorImage": ""
+        "colorName": "Sail Away",
+        "colorNumber": "0436T",
+        "colorImage": "/assets/noImage.jpeg"
       },
       {
-        "colorName": "Triumph",
-        "colorNumber": "00164",
-        "colorImage": ""
+        "colorName": "Washed Indigo",
+        "colorNumber": "0440T",
+        "colorImage": "/assets/noImage.jpeg"
       },
       {
-        "colorName": "Statuary",
-        "colorNumber": "00167",
-        "colorImage": ""
+        "colorName": "Dolphin Sighting",
+        "colorNumber": "0510T",
+        "colorImage": "/assets/noImage.jpeg"
       },
       {
-        "colorName": "Cashmere",
-        "colorNumber": "00260",
-        "colorImage": ""
+        "colorName": "Restful Day",
+        "colorNumber": "0512T",
+        "colorImage": "/assets/noImage.jpeg"
       },
       {
-        "colorName": "Mistic",
-        "colorNumber": "00560",
-        "colorImage": ""
+        "colorName": "Lighthouse Shadows",
+        "colorNumber": "0520T",
+        "colorImage": "/assets/noImage.jpeg"
       },
       {
-        "colorName": "Stellar",
-        "colorNumber": "00562",
-        "colorImage": ""
+        "colorName": "Movie Night",
+        "colorNumber": "0533T",
+        "colorImage": "/assets/noImage.jpeg"
       },
       {
-        "colorName": "Tundra",
-        "colorNumber": "00760",
-        "colorImage": ""
+        "colorName": "Whisper",
+        "colorNumber": "0536T",
+        "colorImage": "/assets/noImage.jpeg"
       },
       {
-        "colorName": "Sienna",
-        "colorNumber": "00761",
-        "colorImage": ""
+        "colorName": "Chocolate",
+        "colorNumber": "0707T",
+        "colorImage": "/assets/noImage.jpeg"
+      },
+      {
+        "colorName": "Summer House",
+        "colorNumber": "0708T",
+        "colorImage": "/assets/noImage.jpeg"
+      },
+      {
+        "colorName": "Falling Leaves",
+        "colorNumber": "0720T",
+        "colorImage": "/assets/noImage.jpeg"
+      },
+      {
+        "colorName": "Dockside View",
+        "colorNumber": "0722T",
+        "colorImage": "/assets/noImage.jpeg"
+      },
+      {
+        "colorName": "Back Patio",
+        "colorNumber": "0724T",
+        "colorImage": "/assets/noImage.jpeg"
+      },
+      {
+        "colorName": "My Haven",
+        "colorNumber": "0743T",
+        "colorImage": "/assets/noImage.jpeg"
+      },
+      {
+        "colorName": "Camping Trip",
+        "colorNumber": "0749T",
+        "colorImage": "/assets/noImage.jpeg"
+      },
+      {
+        "colorName": "Honey Tea",
+        "colorNumber": "0750T",
+        "colorImage": "/assets/noImage.jpeg"
+      },
+      {
+        "colorName": "Lilac Field",
+        "colorNumber": "0901T",
+        "colorImage": "/assets/noImage.jpeg"
       }
     ],
     "productSpecs": [
@@ -900,7 +945,10 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Better",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Clean-Linen.jpg",
+    "creatingImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Creating.jpg",
+    "makingImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Making.jpg",
+    "warmImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Warm.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -915,102 +963,102 @@
       {
         "colorName": "Clean Linen",
         "colorNumber": "122P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Clean-Linen.jpg"
       },
       {
-        "colorName": "Homeade Ice Cream",
+        "colorName": "Homemade Ice Cream",
         "colorNumber": "124P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Homemade-Ice-Cream.jpg"
       },
       {
         "colorName": "Gallery Opening",
         "colorNumber": "125P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Gallery-Opening.jpg"
       },
       {
         "colorName": "Chill In The Air",
         "colorNumber": "126P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Chill-In-The-Air.jpg"
       },
       {
         "colorName": "Shoreline Haze",
         "colorNumber": "128P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Shoreline-Haze.jpg"
       },
       {
         "colorName": "Need A Hug",
         "colorNumber": "129P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Need-A-Hug.jpg"
       },
       {
         "colorName": "Wedding Day",
         "colorNumber": "150P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Wedding-Day.jpg"
       },
       {
         "colorName": "Coming Home",
         "colorNumber": "151P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Coming-Home.jpg"
       },
       {
         "colorName": "Champagne Toast",
         "colorNumber": "153P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Champagne-Toast.jpg"
       },
       {
         "colorName": "Cake Frosting",
         "colorNumber": "155P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Cake-Frosting.jpg"
       },
       {
         "colorName": "Water's Edge",
         "colorNumber": "430P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Waters-Edge.jpg"
       },
       {
         "colorName": "Washed Indigo",
         "colorNumber": "440P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Washed-Indigo.jpg"
       },
       {
         "colorName": "Restful Day",
         "colorNumber": "512P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Restful-Day.jpg"
       },
       {
         "colorName": "Quiet Time",
         "colorNumber": "514P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Quiet-Time.jpg"
       },
       {
         "colorName": "Cool Breeze",
         "colorNumber": "525P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Cool-Breeze.jpg"
       },
       {
         "colorName": "Dockside View",
         "colorNumber": "722P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Dockside-View.jpg"
       },
       {
         "colorName": "Back Patio",
         "colorNumber": "724P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Back-Patio.jpg"
       },
       {
         "colorName": "My Haven",
         "colorNumber": "743P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/My-Haven.jpg"
       },
       {
         "colorName": "Camping Trip",
         "colorNumber": "749P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Camping-Trip.jpg"
       },
       {
         "colorName": "Subtle Blush",
         "colorNumber": "800P",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Subtle-Blush.jpg"
       }
     ],
     "productSpecs": [
@@ -1031,7 +1079,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Better",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Carpet/Artistic-Fusion-2/Sea-Shell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1046,92 +1094,92 @@
       {
         "colorName": "Sea Shell",
         "colorNumber": "00100",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Sea-Shell.jpg"
       },
       {
         "colorName": "Cashmere",
         "colorNumber": "00104",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Cashmere.jpg"
       },
       {
         "colorName": "Frozen",
         "colorNumber": "00107",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Frozen.jpg"
       },
       {
         "colorName": "Soft Sense",
         "colorNumber": "00112",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Soft-Sense.jpg"
       },
       {
         "colorName": "Cameo",
         "colorNumber": "00113",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Cameo.jpg"
       },
       {
         "colorName": "Warm Light",
         "colorNumber": "00116",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Warm-Light.jpg"
       },
       {
         "colorName": "Moonwalk",
         "colorNumber": "00118",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Moonwalk.jpg"
       },
       {
         "colorName": "Honeycomb",
         "colorNumber": "00207",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Honeycomb.jpg"
       },
       {
         "colorName": "Ocean",
         "colorNumber": "00207",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Ocean.jpg"
       },
       {
         "colorName": "Refined",
         "colorNumber": "00402",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Refined.jpg"
       },
       {
         "colorName": "Sea Ice",
         "colorNumber": "00403",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Sea-Ice.jpg"
       },
       {
         "colorName": "Ashes",
         "colorNumber": "00501",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Ashes.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00502",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Shadow.jpg"
       },
       {
         "colorName": "Vintage",
         "colorNumber": "00509",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Vintage.jpg"
       },
       {
         "colorName": "Orange Oxide",
         "colorNumber": "00651",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Orange-Oxide.jpg"
       },
       {
         "colorName": "Cafe Noir",
         "colorNumber": "00706",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Cafe-Noir.jpg"
       },
       {
         "colorName": "Urban Rustic",
         "colorNumber": "00708",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Urban-Rustic.jpg"
       },
       {
         "colorName": "Midnight Brown",
         "colorNumber": "00756",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Midnight-Brown.jpg"
       }
     ],
     "productSpecs": [
@@ -1152,7 +1200,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Carpet/Perpetual-2/Eggshell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1167,62 +1215,62 @@
       {
         "colorName": "Eggshell",
         "colorNumber": "00102",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Eggshell.jpg"
       },
       {
         "colorName": "Oatmeal",
         "colorNumber": "00108",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Oatmeal.jpg"
       },
       {
         "colorName": "Freckles",
         "colorNumber": "00109",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Freckles.jpg"
       },
       {
         "colorName": "Gold Rush",
         "colorNumber": "00200",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Gold-Rush.jpg"
       },
       {
         "colorName": "Aquamarine",
         "colorNumber": "00400",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Aquamarine.jpg"
       },
       {
         "colorName": "Fog",
         "colorNumber": "00503",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Fog.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00504",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Shadow.jpg"
       },
       {
         "colorName": "Steel",
         "colorNumber": "00505",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Steel.jpg"
       },
       {
         "colorName": "Truffle",
         "colorNumber": "00506",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Truffle.jpg"
       },
       {
         "colorName": "Khaki",
         "colorNumber": "00700",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Khaki.jpg"
       },
       {
         "colorName": "Portobello",
         "colorNumber": "00703",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Portobello.jpg"
       },
       {
         "colorName": "Leather",
         "colorNumber": "00704",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Perpetual-2/Leather.jpg"
       }
     ],
     "productSpecs": [
