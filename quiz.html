@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Flooring Network</title>
+    <link rel="icon" href="assets/SFS Logo Bg.png">
+    <link rel="stylesheet" href="/CSS/quiz.css">
+    <link rel="stylesheet" href="/CSS/global.css">
+    <script src="quiz.js" defer></script>
+    <script src="global.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,200;0,400;0,700;1,900&family=Sigmar&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <div class="row">
+            <figure class="logo"><a href="/homepage.html"><img src="assets/SFS Logo.png" alt="Logo" class="logo_img"></a></figure>
+            <div class="nav_links">
+                <a href="quiz.html" class="nav_link link_hover-effect">Flooring Quiz</a>
+                <div class="dropdown" data-dropdown="">
+                    <button class="nav_link dropdown_btn" data-dropdown-button>Products</button>
+                    <div class="dropdown_menu">
+                        <a href="productPages/Carpet/carpet.html" class="dropdown_link" data-dropdown-link>Carpet</a>
+                        <a href="productPages/LVP/LVP.html" class="dropdown_link" data-dropdown-link>Vinyl</a>
+                        <a href="store.html" class="dropdown_link" data-dropdown-link>Laminate</a>
+                        <a href="store.html" class="dropdown_link" data-dropdown-link>Tile</a>
+                    </div>
+                </div>
+                <a href="#about" class="nav_link link_hover-effect">About Us</a>
+                <a href="#contact" class="nav_link link_hover-effect">Contact</a>
+                <a href="homepage.html" class="nav_link link_hover-effect">Home</a>
+                <a href="" class="nav_link">
+                    <img class="cart_img" src="assets/shopping-cart.svg" alt="Shopping-Cart">
+                    <img class="cart_contents_img" src="assets/circle.svg" alt=""><span class="cart_amount_img">1</span>
+                </a>
+            </div>
+        </div>
+    </nav>
+    <header>
+        <div class="row">
+            <h1 class="title">Flooring Quiz</h1>
+            <p class="intro_para">The free quiz that will help you find your perfect floor. <br> Take the quiz below to being your journey!</p>
+        </div>
+    </header>
+    <section id="landing">
+        <div class="container">
+            <div class="row">
+                <div class="quiz_container" id="quiz">
+                    <div class="quiz_header">
+                        <div class="loading_container">
+                            <img src="assets/loader.svg" alt="Loader" class="loader">
+                        </div>
+                        <h2 id="question">Question Here</h2>
+                        <ul>
+                            <li>
+                                <input type="radio" name="answer" id="0" class="answer">
+                                <label for="0" id="0_text">Answer</label>
+                            </li>
+                            <li>
+                                <input type="radio" name="answer" id="5" class="answer">
+                                <label for="5" id="5_text">Answer</label>
+                            </li>
+                            <li>
+                                <input type="radio" name="answer" id="10" class="answer">
+                                <label for="10" id="10_text">Answer</label>
+                            </li>
+                            <li>
+                                <input type="radio" name="answer" id="15" class="answer">
+                                <label for="15" id="15_text">Answer</label>
+                            </li>
+                        </ul>
+                    </div>
+                    <button id="submit">Submit</button>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+<footer>
+    <div class="row">
+        <figure class="logo"><a href="homepage.html"><img src="assets/SFS Logo.png" alt="Logo" class="logo_img"></a></figure>
+        <div class="footer_links">
+            <a href="quiz.html" class="footer_link link_hover-effect">Flooring Quiz</a>
+            <a href="store.html" class="footer_link link_hover-effect">Products</a>
+            <a href="" class="footer_link link_hover-effect">About Us</a>
+            <a href="" class="footer_link link_hover-effect">Contact</a>
+            <a href="homepage.html" class="footer_link link_hover-effect">Home</a>
+    </div>
+    <p>Copyright &copy Simple Flooring Solutions. All Rights Reserved.</p>
+</footer>
+</html>

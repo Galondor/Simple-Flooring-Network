@@ -1,0 +1,226 @@
+
+/* GENERICS */
+
+* {
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,200;0,400;0,700;1,900&family=Open+Sans:wght@400;500;600;700;800&display=swap');
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container {
+    padding: 92px 0px;
+}
+
+.btn {
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: none;
+    background-color: #242424;
+    background-image: linear-gradient(315deg, #242424 0%, #5c5857 100%);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 300ms ease;
+}
+
+.btn:hover {
+    transform: scale(1.07);
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+/* NAVIGATION */
+
+nav {
+    padding: 4px;
+    background-color: #242424;
+    background-image: linear-gradient(315deg, #242424 0%, #5c5857 100%);
+}
+
+nav .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo_img {
+    height: 128px;
+    cursor: pointer;
+    transition: all 300ms ease;
+    filter: invert(100%);
+}
+
+.logo a {
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.logo_img:hover {
+    transform: scale(1.07);
+}
+
+.nav_links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    min-height: 8vh;
+}
+
+.nav_link {
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    margin-right: 16px;
+    padding-bottom: 6px;
+    transition: all 300ms ease;
+}
+
+.nav_link:hover {
+    transform: scale(1.07);
+}
+
+.link_hover-effect {
+    position: relative;
+}
+
+.link_hover-effect:after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 3px;
+    bottom: -3px;
+    right: 0;
+    background-color: #fff;
+    transition: all 300ms ease;
+}
+
+.link_hover-effect:hover:after {
+    left: 0;
+    width: 100%;
+}
+
+.cart_img {
+    position: relative;
+    z-index: 1;
+}
+
+.cart_contents_img {
+    position: absolute;
+    background-color: red;
+    border-radius: 50%;
+    height: 12px;
+    transform: translateX(-50%);
+    z-index: 1;
+}
+
+.cart_amount_img {
+    position: absolute;
+    transform: translateX(-50%);
+    font-size: 10px;
+    z-index: 100;
+    margin-top: 1px;
+}
+
+.dropdown {
+    position: relative;
+}
+
+.dropdown_menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 0;
+    top: 50px;
+    background-color: #fff;
+    padding: 12px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .1);
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-10px);
+    transition: opacity 150ms ease-in, transform 150ms ease-in-out;
+    z-index: 100;
+}
+
+.dropdown_btn {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.dropdown_link {
+    text-align: center;
+    margin: 4px;
+    text-decoration: none;
+    list-style: none;
+    color: #242424;
+    font-size: 20px;
+    transition: all 300ms ease;
+}
+
+.dropdown_link:hover {
+    transform: scale(1.07);
+}
+
+.dropdown.active > .dropdown_btn, .dropdown_link:hover {
+    color: lightgray;
+}
+
+.dropdown.active > .dropdown_btn + .dropdown_menu {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+}
+
+/* FOOTER */
+
+footer {
+    padding: 92px;
+    background-color: #242424;
+    background-image: linear-gradient(315deg, #5c5857 0%, #242424 100%);
+    color: #fff;
+}
+
+footer .row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer_links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+    min-height: 8vh;
+}
+
+.footer_link {
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    margin-top: 6px;
+    padding-bottom: 6px;
+    transition: all 300ms ease;
+}
+
+.footer_link:hover {
+    transform: scale(1.07);
+}

@@ -1,0 +1,4035 @@
+[
+  {
+    "sfnName": "Without Limits",
+    "shawName": "Without Limits 2",
+    "sfnStyleNumber": "1",
+    "shawStyleNumber": "5E483",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Good",
+    "image": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.44"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.02"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Heather",
+        "colorNumber": "00100",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Abalone",
+        "colorNumber": "00101",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Macadamia",
+        "colorNumber": "00102",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sandbank",
+        "colorNumber": "00103",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Travatan",
+        "colorNumber": "00104",
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Travatan.jpg"
+      },
+      {
+        "colorName": "Misty Mica",
+        "colorNumber": "00105",
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Misty Mica.jpg"
+      },
+      {
+        "colorName": "Organic",
+        "colorNumber": "00300",
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Organic.jpg"
+      },
+      {
+        "colorName": "Stainless",
+        "colorNumber": "00500",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Tundra",
+        "colorNumber": "00501",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Granite",
+        "colorNumber": "00503",
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Granite.jpg"
+      },
+      {
+        "colorName": "Saddle Tan",
+        "colorNumber": "00700",
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Saddle Tan.jpg"
+      },
+      {
+        "colorName": "Bountiful",
+        "colorNumber": "00701",
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Bountiful.jpg"
+      },
+      {
+        "colorName": "Boardwalk",
+        "colorNumber": "00702",
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg"
+      },
+      {
+        "colorName": "Derby",
+        "colorNumber": "00703",
+        "colorImage": "/productImages/Carpet/Without-Limits-2/Derby.jpg"
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% PET POLYESTER",
+        "rollWidth": "12'",
+        "faceWeight": "48.8 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.58 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Montage 1",
+    "shawName": "Montage 1",
+    "sfnStyleNumber": "2",
+    "shawStyleNumber": "5E081",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$2.00"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.50"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Painter's Canvas",
+        "colorNumber": "100S",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sculptor Clay",
+        "colorNumber": "101S",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Parisian Lights",
+        "colorNumber": "102S",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Polished Stone",
+        "colorNumber": "103S",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shoreline Haze",
+        "colorNumber": "120T",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Chateau",
+        "colorNumber": "121T",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Spun Wool",
+        "colorNumber": "130A",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Morning Frost",
+        "colorNumber": "131A",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Lunar Surface",
+        "colorNumber": "140A",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Adobe",
+        "colorNumber": "141A",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Classic Silver",
+        "colorNumber": "500S",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cosmic Quest",
+        "colorNumber": "501S",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Carbon Copy",
+        "colorNumber": "520T",
+        "colorImage": ""
+      },
+      {
+        "colorName": "River Rock",
+        "colorNumber": "530A",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Hidden Treasure",
+        "colorNumber": "700S",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mission",
+        "colorNumber": "701S",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Midtown Brown",
+        "colorNumber": "720T",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Tempting Taupe",
+        "colorNumber": "740A",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% PET POLYESTER",
+        "rollWidth": "12'",
+        "faceWeight": "48.8 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.48 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Boundless 4",
+    "shawName": "Boundless 4",
+    "sfnStyleNumber": "3",
+    "shawStyleNumber": "5E488",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.82"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.22"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "White Wash",
+        "colorNumber": "00100",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Slate Stone",
+        "colorNumber": "00105",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Creamery",
+        "colorNumber": "00130",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Soft Breeze",
+        "colorNumber": "00131",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Morning Light",
+        "colorNumber": "00140",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Distant Star",
+        "colorNumber": "00141",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Magnetic",
+        "colorNumber": "00502",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Reflection",
+        "colorNumber": "00530",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Woodcraft",
+        "colorNumber": "00701",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Gateway",
+        "colorNumber": "00702",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shadow",
+        "colorNumber": "00703",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Dreamscape",
+        "colorNumber": "00740",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Chestnut Ridge",
+        "colorNumber": "00751",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cabana",
+        "colorNumber": "00752",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% PET POLYESTER",
+        "rollWidth": "12'",
+        "faceWeight": "55.6 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.61 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Yes You Can 12'",
+    "shawName": "Yes You Can 2",
+    "sfnStyleNumber": "4",
+    "shawStyleNumber": "5E569",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$2.23"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.92"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Seashell",
+        "colorNumber": "00100",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Marble",
+        "colorNumber": "00103",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Frozen",
+        "colorNumber": "00107",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Natural",
+        "colorNumber": "00109",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Glacier",
+        "colorNumber": "00110",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Chic Greige",
+        "colorNumber": "00111",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Soft Sense",
+        "colorNumber": "00112",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cameo",
+        "colorNumber": "00113",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Subtle Clay",
+        "colorNumber": "00114",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sculpture",
+        "colorNumber": "00115",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Warm Light",
+        "colorNumber": "00116",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Honeycomb",
+        "colorNumber": "00207",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Rerooted Nature",
+        "colorNumber": "00300",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Refined",
+        "colorNumber": "00402",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sea Ice",
+        "colorNumber": "00403",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Alaskan Air",
+        "colorNumber": "00500",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ashes",
+        "colorNumber": "00501",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shadow",
+        "colorNumber": "00502",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Rock Crystal",
+        "colorNumber": "00508",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Vintage",
+        "colorNumber": "00509",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Warn Path",
+        "colorNumber": "00700",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mission Ridge",
+        "colorNumber": "00705",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cafe Noir",
+        "colorNumber": "00706",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Urban Rustic",
+        "colorNumber": "00708",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% ANSO High-Performance PET",
+        "rollWidth": "12'",
+        "faceWeight": "58.5 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.82 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Yes You Can 15'",
+    "shawName": "Yes You Can 2",
+    "sfnStyleNumber": "5",
+    "shawStyleNumber": "5E572",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$2.23"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.92"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Seashell",
+        "colorNumber": "00100",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Marble",
+        "colorNumber": "00103",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Frozen",
+        "colorNumber": "00107",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Natural",
+        "colorNumber": "00109",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Glacier",
+        "colorNumber": "00110",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Chic Greige",
+        "colorNumber": "00111",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Soft Sense",
+        "colorNumber": "00112",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cameo",
+        "colorNumber": "00113",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Subtle Clay",
+        "colorNumber": "00114",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sculpture",
+        "colorNumber": "00115",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Warm Light",
+        "colorNumber": "00116",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Honeycomb",
+        "colorNumber": "00207",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Rerooted Nature",
+        "colorNumber": "00300",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Refined",
+        "colorNumber": "00402",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sea Ice",
+        "colorNumber": "00403",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Alaskan Air",
+        "colorNumber": "00500",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ashes",
+        "colorNumber": "00501",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shadow",
+        "colorNumber": "00502",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Rock Crystal",
+        "colorNumber": "00508",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Vintage",
+        "colorNumber": "00509",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Warn Path",
+        "colorNumber": "00700",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mission Ridge",
+        "colorNumber": "00705",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cafe Noir",
+        "colorNumber": "00706",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Urban Rustic",
+        "colorNumber": "00708",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% ANSO High-Performance PET",
+        "rollWidth": "15'",
+        "faceWeight": "58.5 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.82 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Run Free",
+    "shawName": "Run Free",
+    "sfnStyleNumber": "6",
+    "shawStyleNumber": "5E588",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.00"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.81"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Almond Silk",
+        "colorNumber": "00101",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Marble",
+        "colorNumber": "00103",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cashmere",
+        "colorNumber": "00104",
+        "colorImage": ""
+      },
+      {
+        "colorName": "River Birch",
+        "colorNumber": "00106",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Natural",
+        "colorNumber": "00109",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cameo",
+        "colorNumber": "00113",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sculpture",
+        "colorNumber": "00115",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Warm Light",
+        "colorNumber": "00116",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Snowfall",
+        "colorNumber": "00150",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Refined",
+        "colorNumber": "00402",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ashes",
+        "colorNumber": "00501",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Flannel",
+        "colorNumber": "00503",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Rock Crystal",
+        "colorNumber": "00508",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Vintage",
+        "colorNumber": "00509",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Gravity",
+        "colorNumber": "00556",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% ANSO High-Performance PET",
+        "rollWidth": "12'",
+        "faceWeight": "43.9 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.36 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Take The Floor Accent 2",
+    "shawName": "Take The Floor Accent 2",
+    "sfnStyleNumber": "7",
+    "shawStyleNumber": "5E012",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "NPR",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$5.09"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$4.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Italiano",
+        "colorNumber": "00170",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Riverbed",
+        "colorNumber": "00171",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Desert Sunrise",
+        "colorNumber": "00172",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Avalanche",
+        "colorNumber": "00173",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Luna",
+        "colorNumber": "00174",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Everest",
+        "colorNumber": "00176",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cold Springs",
+        "colorNumber": "00570",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Soapstone",
+        "colorNumber": "00571",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Baltic Brown",
+        "colorNumber": "00770",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Storm",
+        "colorNumber": "00771",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% ANSO NYLON",
+        "rollWidth": "12'",
+        "faceWeight": "52.6 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.65 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Take The Floor Tonal 2",
+    "shawName": "Take The Floor Tonal 2",
+    "sfnStyleNumber": "8",
+    "shawStyleNumber": "5E009",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "NPR",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$5.09"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$4.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Orion",
+        "colorNumber": "00160",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Classique",
+        "colorNumber": "00161",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fantasy",
+        "colorNumber": "00162",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Triumph",
+        "colorNumber": "00164",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Statuary",
+        "colorNumber": "00167",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cashmere",
+        "colorNumber": "00260",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mistic",
+        "colorNumber": "00560",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Stellar",
+        "colorNumber": "00562",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Tundra",
+        "colorNumber": "00760",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sienna",
+        "colorNumber": "00761",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% ANSO NYLON",
+        "rollWidth": "12'",
+        "faceWeight": "53.6 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.53 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Creating-Making-Warm Memories",
+    "shawName": "Creating-Making-Warm Memories",
+    "sfnStyleNumber": "9",
+    "shawStyleNumber": "EA823 - EA825",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Better",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.09"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Clean Linen",
+        "colorNumber": "122P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Homeade Ice Cream",
+        "colorNumber": "124P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Gallery Opening",
+        "colorNumber": "125P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Chill In The Air",
+        "colorNumber": "126P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shoreline Haze",
+        "colorNumber": "128P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Need A Hug",
+        "colorNumber": "129P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wedding Day",
+        "colorNumber": "150P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Coming Home",
+        "colorNumber": "151P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Champagne Toast",
+        "colorNumber": "153P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cake Frosting",
+        "colorNumber": "155P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Water's Edge",
+        "colorNumber": "430P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Washed Indigo",
+        "colorNumber": "440P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Restful Day",
+        "colorNumber": "512P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Quiet Time",
+        "colorNumber": "514P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cool Breeze",
+        "colorNumber": "525P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Dockside View",
+        "colorNumber": "722P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Back Patio",
+        "colorNumber": "724P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "My Haven",
+        "colorNumber": "743P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Camping Trip",
+        "colorNumber": "749P",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Subtle Blush",
+        "colorNumber": "800P",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% ANSO NYLON",
+        "rollWidth": "12'",
+        "faceWeight": "39 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.43 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Artistic Fusion 2",
+    "shawName": "Artistic Fusion 2",
+    "sfnStyleNumber": "10",
+    "shawStyleNumber": "5E575",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Better",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$4.09"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$3.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Sea Shell",
+        "colorNumber": "00100",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cashmere",
+        "colorNumber": "00104",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Frozen",
+        "colorNumber": "00107",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Soft Sense",
+        "colorNumber": "00112",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cameo",
+        "colorNumber": "00113",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Warm Light",
+        "colorNumber": "00116",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Moonwalk",
+        "colorNumber": "00118",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Honeycomb",
+        "colorNumber": "00207",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ocean",
+        "colorNumber": "00207",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Refined",
+        "colorNumber": "00402",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sea Ice",
+        "colorNumber": "00403",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ashes",
+        "colorNumber": "00501",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shadow",
+        "colorNumber": "00502",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Vintage",
+        "colorNumber": "00509",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Orange Oxide",
+        "colorNumber": "00651",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cafe Noir",
+        "colorNumber": "00706",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Urban Rustic",
+        "colorNumber": "00708",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Midnight Brown",
+        "colorNumber": "00756",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% ANSO High-Performance PET",
+        "rollWidth": "12'",
+        "faceWeight": "58.5 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.63 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Perpetual 2",
+    "shawName": "Perpetual 2",
+    "sfnStyleNumber": "11",
+    "shawStyleNumber": "E9693",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$2.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Eggshell",
+        "colorNumber": "00102",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Oatmeal",
+        "colorNumber": "00108",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Freckles",
+        "colorNumber": "00109",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Gold Rush",
+        "colorNumber": "00200",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Aquamarine",
+        "colorNumber": "00400",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fog",
+        "colorNumber": "00503",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shadow",
+        "colorNumber": "00504",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Steel",
+        "colorNumber": "00505",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Truffle",
+        "colorNumber": "00506",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Khaki",
+        "colorNumber": "00700",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Portobello",
+        "colorNumber": "00703",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Leather",
+        "colorNumber": "00704",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% ANSO High-Performance PET",
+        "rollWidth": "12'",
+        "faceWeight": "58.5 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.77 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Home Within",
+    "shawName": "Home Within",
+    "sfnStyleNumber": "12",
+    "shawStyleNumber": "5E583",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$2.09"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Frozen",
+        "colorNumber": "00107",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Natural",
+        "colorNumber": "00109",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Chic Greige",
+        "colorNumber": "00111",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Soft Sense",
+        "colorNumber": "00112",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cameo",
+        "colorNumber": "00113",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Snowfall",
+        "colorNumber": "00150",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Rerooted Nature",
+        "colorNumber": "00300",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Refined",
+        "colorNumber": "00402",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Serene Blue",
+        "colorNumber": "00453",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ashes",
+        "colorNumber": "00501",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Rock Crystal",
+        "colorNumber": "00508",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Vintage",
+        "colorNumber": "00509",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Lilac",
+        "colorNumber": "00550",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Gravity",
+        "colorNumber": "00556",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Worn Path",
+        "colorNumber": "00700",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cafe Noir",
+        "colorNumber": "00706",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% ANSO High-Performance PET",
+        "rollWidth": "12'",
+        "faceWeight": "40.9 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.40 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Right Choice",
+    "shawName": "Right Choice",
+    "sfnStyleNumber": "13",
+    "shawStyleNumber": "5E442",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.00"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Gallery Opening",
+        "colorNumber": "00110",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Baltic Stone",
+        "colorNumber": "00111",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Champagne Toast",
+        "colorNumber": "00112",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sandstone",
+        "colorNumber": "00113",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mega Taupe",
+        "colorNumber": "00114",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Dove Tail",
+        "colorNumber": "00510",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Gauntlet Gray",
+        "colorNumber": "00511",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Raw Wood",
+        "colorNumber": "00710",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Folkstone",
+        "colorNumber": "00711",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% PET POLYESTER",
+        "rollWidth": "12'",
+        "faceWeight": "25 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.55 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Break Away Solid",
+    "shawName": "Break Away Solid",
+    "sfnStyleNumber": "14",
+    "shawStyleNumber": "5E243",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.09"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$0.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Gentle Breeze",
+        "colorNumber": "00100",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wheat Field",
+        "colorNumber": "00102",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Warm Sand",
+        "colorNumber": "00106",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Winter White",
+        "colorNumber": "00110",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ecru",
+        "colorNumber": "00111",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Whisper",
+        "colorNumber": "00112",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Soft Taupe",
+        "colorNumber": "00501",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Charcoal",
+        "colorNumber": "00502",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Concrete",
+        "colorNumber": "00510",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Stone",
+        "colorNumber": "00511",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Natural Tan",
+        "colorNumber": "00700",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Clay",
+        "colorNumber": "00701",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mocha",
+        "colorNumber": "00704",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Coffe Bean",
+        "colorNumber": "00705",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Weathered Wood",
+        "colorNumber": "00710",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% PET POLYESTER",
+        "rollWidth": "12'",
+        "faceWeight": "25 oz",
+        "backing": "Synthetic Fiber",
+        "thickness": "0.64 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "One Plus",
+    "shawName": "One Plus",
+    "sfnStyleNumber": "15",
+    "shawStyleNumber": "VV585",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Salton Chestnut",
+        "colorNumber": "50001",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Niland Chestnut",
+        "colorNumber": "50002",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Brawley Chestnut",
+        "colorNumber": "50003",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Deep Lake Oak",
+        "colorNumber": "50004",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Laguna Beach Oak",
+        "colorNumber": "50005",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Caspian Oak",
+        "colorNumber": "50008",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fresno Chestnut",
+        "colorNumber": "50009",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Irvine Chestnut",
+        "colorNumber": "50010",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Venture Chestnut",
+        "colorNumber": "50012",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "12 mil",
+        "thickness": "6.5 mm",
+        "dimensions": "6 X 48 in",
+        "underlayment": "Attached Cork",
+        "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Distinction Plus",
+    "shawName": "Distinction Plus",
+    "sfnStyleNumber": "16",
+    "shawStyleNumber": "2045V",
+    "brand": "Floorte",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "French Oak",
+        "colorNumber": "00257",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Timeless Oak",
+        "colorNumber": "00693",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Eucalyptus",
+        "colorNumber": "00694",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Dutch Oak",
+        "colorNumber": "01024",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wheat Oak",
+        "colorNumber": "01025",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Villa Oak",
+        "colorNumber": "01090",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Executive Oak",
+        "colorNumber": "05079",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Light Pine",
+        "colorNumber": "07064",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ash Oak",
+        "colorNumber": "07065",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Barrel Oak",
+        "colorNumber": "07066",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "12 mil",
+        "thickness": "7 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "N/A",
+        "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Plus Plank 5",
+    "shawName": "Plus Plank 5 in",
+    "sfnStyleNumber": "17",
+    "shawStyleNumber": "VV023",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Better",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$5.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$4.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Gold Coast Acacia",
+        "colorNumber": "00201",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Deep Smoked Oak",
+        "colorNumber": "00202",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Northwoods Oak",
+        "colorNumber": "00205",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Boardwalk Oak",
+        "colorNumber": "00206",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Rocky Mountain",
+        "colorNumber": "00207",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Carolina Pine",
+        "colorNumber": "00501",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Black Walnut",
+        "colorNumber": "00503",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Clear Lake Oak",
+        "colorNumber": "00504",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Norwegian Maple",
+        "colorNumber": "00505",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Corvallis Pine",
+        "colorNumber": "00506",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Dekota Walnut",
+        "colorNumber": "00507",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Red River Hickory",
+        "colorNumber": "00508",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wheldon Oak",
+        "colorNumber": "00509",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Durban Pear",
+        "colorNumber": "00511",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Brockport Oak",
+        "colorNumber": "00513",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ashton Woods Oak",
+        "colorNumber": "00570",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Baywood Oak",
+        "colorNumber": "00571",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Dodwell Oak",
+        "colorNumber": "00573",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 mil",
+        "thickness": "8 mm",
+        "dimensions": "5 X 48 in",
+        "underlayment": "Attached Cork",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Plus Plank 7",
+    "shawName": "Plus Plank 7 in",
+    "sfnStyleNumber": "18",
+    "shawStyleNumber": "VV024",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Better",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Dune",
+        "colorNumber": "00105",
+        "colorImage": ""
+      },
+      {
+        "colorName": "St Andrew's Oak",
+        "colorNumber": "00209",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Kingswood Oak",
+        "colorNumber": "00210",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Nantucket Oak",
+        "colorNumber": "00211",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Georgetown Oak",
+        "colorNumber": "00701",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Waterfront Oak",
+        "colorNumber": "00703",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Saginaw Oak",
+        "colorNumber": "00704",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ivory Coast Oak",
+        "colorNumber": "00705",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Alabaster Oak",
+        "colorNumber": "00706",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Blackstone Oak",
+        "colorNumber": "00707",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Hudson Valley Oak",
+        "colorNumber": "00708",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Amelia Oak",
+        "colorNumber": "00712",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Marsh Oak",
+        "colorNumber": "00714",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fidalgo Oak",
+        "colorNumber": "00715",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Midway Oak",
+        "colorNumber": "00716",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 mil",
+        "thickness": "8 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "Attached Cork",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Plus Enhanced Plank 7",
+    "shawName": "Plus Enhanced Plank 7 in",
+    "sfnStyleNumber": "19",
+    "shawStyleNumber": "VV012",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Better",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Axial Oak",
+        "colorNumber": "00753",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Nares Oak",
+        "colorNumber": "00756",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Marianas Oak",
+        "colorNumber": "00757",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Galathea Oak",
+        "colorNumber": "00795",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Manila Oak",
+        "colorNumber": "00760",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Calypso Oak",
+        "colorNumber": "00761",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mornington Oak",
+        "colorNumber": "00762",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Enderbury Oak",
+        "colorNumber": "00763",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Aden Oak",
+        "colorNumber": "00765",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Explorer Oak",
+        "colorNumber": "00766",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Aurora Oak",
+        "colorNumber": "00771",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Pasadena Oak",
+        "colorNumber": "00772",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Tulsa Oak",
+        "colorNumber": "00773",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Bay Oak",
+        "colorNumber": "04036",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Jerome Oak",
+        "colorNumber": "04033",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Miles Oak",
+        "colorNumber": "08006",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 mil",
+        "thickness": "8 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "Attached Cork",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Ascent Natural Bevel",
+    "shawName": "Ascent Natural Bevel",
+    "sfnStyleNumber": "20",
+    "shawStyleNumber": "2832V",
+    "brand": "Floorte",
+    "productType": "LVP",
+    "rating": "Better",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Sierra",
+        "colorNumber": "00931",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Alpine",
+        "colorNumber": "01134",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Tundra",
+        "colorNumber": "01135",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wander",
+        "colorNumber": "01136",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Escape",
+        "colorNumber": "02069",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Lodge",
+        "colorNumber": "02070",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Journal",
+        "colorNumber": "05179",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Dwell",
+        "colorNumber": "05180",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Legend",
+        "colorNumber": "06036",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Habitat",
+        "colorNumber": "07259",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 mil",
+        "thickness": "8 mm",
+        "dimensions": "9 X 72 in",
+        "underlayment": "",
+	   "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Advanced 7",
+    "shawName": "Advanced 7 in",
+    "sfnStyleNumber": "21",
+    "shawStyleNumber": "VV674",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "NPR",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Ansley Walnut",
+        "colorNumber": "03013",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cleverton Pine",
+        "colorNumber": "03014",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Hastings Walnut",
+        "colorNumber": "04014",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Garamond Oak",
+        "colorNumber": "04015",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Morningside Oak",
+        "colorNumber": "05014",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Pierpoint Walnut",
+        "colorNumber": "05015",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Telford Pine",
+        "colorNumber": "06009",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Privet Pine",
+        "colorNumber": "07014",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Norwood Oak",
+        "colorNumber": "07016",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Charter Oak",
+        "colorNumber": "08003",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "Scratch Resistant",
+        "thickness": "9 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "Attached Cork",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Prodigy HDR Plus",
+    "shawName": "Prodigy HDR Plus",
+    "sfnStyleNumber": "22",
+    "shawStyleNumber": "2038V",
+    "brand": "Shaw Floors",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Nomad",
+        "colorNumber": "01066",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ethereal",
+        "colorNumber": "01069",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Hygge",
+        "colorNumber": "02025",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mangata",
+        "colorNumber": "02031",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cobblestone",
+        "colorNumber": "05102",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Lagom",
+        "colorNumber": "05103",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mindful",
+        "colorNumber": "06007",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Simplicity",
+        "colorNumber": "07095",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fika",
+        "colorNumber": "07202",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Glogg",
+        "colorNumber": "07203",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "N/A",
+        "thickness": "9 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "N/A",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Galaxy",
+    "shawName": "Galaxy",
+    "sfnStyleNumber": "23",
+    "shawStyleNumber": "VV465",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Whirlpool Oak",
+        "colorNumber": "02060",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cartwheel Oak",
+        "colorNumber": "02061",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Elliptical Oak",
+        "colorNumber": "02062",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cigar Oak",
+        "colorNumber": "02063",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Andromeda Pine",
+        "colorNumber": "02064",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sunflower Pine",
+        "colorNumber": "02065",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Spiral Pine",
+        "colorNumber": "02066",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Magellanic Oak",
+        "colorNumber": "02080",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Maffei Cherry",
+        "colorNumber": "02081",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Solstice Cherry",
+        "colorNumber": "02082",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Centaurus Oak",
+        "colorNumber": "02083",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "12 mil",
+        "thickness": "4.4 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "Attached Cork",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Anvil Plus",
+    "shawName": "Anvil Plus",
+    "sfnStyleNumber": "24",
+    "shawStyleNumber": "2357V",
+    "brand": "Floorte",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Chatter Oak",
+        "colorNumber": "00295",
+        "colorImage": ""
+      },
+      {
+        "colorName": "River Bend Oak",
+        "colorNumber": "00296",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mineral Maple",
+        "colorNumber": "00297",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Dark Elm",
+        "colorNumber": "00915",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Beach Oak",
+        "colorNumber": "01023",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Clean Pine",
+        "colorNumber": "05077",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Greige Walnut",
+        "colorNumber": "05078",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Highlight Oak",
+        "colorNumber": "07061",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Grey Chestnut",
+        "colorNumber": "07062",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Accent Pine",
+        "colorNumber": "07063",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 or 12 mil",
+        "thickness": "4.4 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "N/A",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "In The Grain 2",
+    "shawName": "In The Grain 2",
+    "sfnStyleNumber": "25",
+    "shawStyleNumber": "5525V",
+    "brand": "Philadelphia Commerical", 
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Rye",
+        "colorNumber": "00116",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Hemp",
+        "colorNumber": "00216",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Elmwood",
+        "colorNumber": "00170",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Millet",
+        "colorNumber": "00256",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Nutshell",
+        "colorNumber": "00173",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Frosted Oats",
+        "colorNumber": "00559",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fir",
+        "colorNumber": "00174",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Freekeh",
+        "colorNumber": "00564",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Flaxseed",
+        "colorNumber": "00568",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Milo",
+        "colorNumber": "00572",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Farro",
+        "colorNumber": "00684",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Barley",
+        "colorNumber": "00740",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Amaranth",
+        "colorNumber": "00769",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wheat",
+        "colorNumber": "00774",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Spelt",
+        "colorNumber": "00775",
+        "colorImage": ""
+      },
+      {
+        "colorName": "English Grey",
+        "colorNumber": "05012",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Drift",
+        "colorNumber": "05013",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ember",
+        "colorNumber": "05016",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Briarwood",
+        "colorNumber": "05019",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sandlewood",
+        "colorNumber": "07003",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cotton Seed",
+        "colorNumber": "07004",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Oakwood",
+        "colorNumber": "07007",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Burlwood",
+        "colorNumber": "07008",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 mil",
+        "thickness": "2.5 mm",
+        "dimensions": "6 X 48 in",
+        "underlayment": "N/A",
+	    "installation": "Gluedown"
+      }
+    ]
+  },
+  {
+    "sfnName": "In The Grain 2",
+    "shawName": "In The Grain 2",
+    "sfnStyleNumber": "26",
+    "shawStyleNumber": "5524V",
+    "brand": "Philadelphia Commerical",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Rye",
+        "colorNumber": "00116",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Hemp",
+        "colorNumber": "00216",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Elmwood",
+        "colorNumber": "00170",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Millet",
+        "colorNumber": "00256",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Nutshell",
+        "colorNumber": "00173",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Frosted Oats",
+        "colorNumber": "00559",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fir",
+        "colorNumber": "00174",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Freekeh",
+        "colorNumber": "00564",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Flaxseed",
+        "colorNumber": "00568",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Milo",
+        "colorNumber": "00572",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Farro",
+        "colorNumber": "00684",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Barley",
+        "colorNumber": "00740",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Amaranth",
+        "colorNumber": "00769",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wheat",
+        "colorNumber": "00774",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Spelt",
+        "colorNumber": "00775",
+        "colorImage": ""
+      },
+      {
+        "colorName": "English Grey",
+        "colorNumber": "05012",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Drift",
+        "colorNumber": "05013",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ember",
+        "colorNumber": "05016",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Briarwood",
+        "colorNumber": "05019",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sandlewood",
+        "colorNumber": "07003",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cotton Seed",
+        "colorNumber": "07004",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Oakwood",
+        "colorNumber": "07007",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Burlwood",
+        "colorNumber": "07008",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "12 mil",
+        "thickness": "2.5 mm",
+        "dimensions": "6 X 48 in",
+        "underlayment": "N/A",
+	    "installation": "Gluedown"
+      }
+    ]
+  },
+  {
+    "sfnName": "Stone 12 X 24 Matte",
+    "shawName": "Stone 12 X 24 Matte",
+    "sfnStyleNumber": "27",
+    "shawStyleNumber": "VV566",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Freonia",
+        "colorNumber": "12241",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Arubani",
+        "colorNumber": "12243",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mari",
+        "colorNumber": "12245",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Harmonia",
+        "colorNumber": "12247",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ashani",
+        "colorNumber": "12249",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "N/A",
+        "thickness": "8 mm",
+        "dimensions": "12 X 24 in",
+        "underlayment": "Attached Cork",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Stone 18 X 24 Matte",
+    "shawName": "Stone 18 X 24 Matte",
+    "sfnStyleNumber": "28",
+    "shawStyleNumber": "VV567",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Egeria",
+        "colorNumber": "18241",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Iona",
+        "colorNumber": "18242",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Murcia",
+        "colorNumber": "18247",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Russa",
+        "colorNumber": "18250",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Ambienta",
+        "colorNumber": "18251",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Lucetta",
+        "colorNumber": "18252",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "N/A",
+        "thickness": "8 mm",
+        "dimensions": "18 X 24 in",
+        "underlayment": "Attached Cork",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Stone 18 X 36",
+    "shawName": "Stone 18 X 36",
+    "sfnStyleNumber": "29",
+    "shawStyleNumber": "VV568",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Semonia",
+        "colorNumber": "18361",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Pellonia",
+        "colorNumber": "18362",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Vesta",
+        "colorNumber": "18363",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sirius",
+        "colorNumber": "18366",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "N/A",
+        "thickness": "8 mm",
+        "dimensions": " 18 X 36 in",
+        "underlayment": "Attached Cork",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Northern Voyage 9",
+    "shawName": "Northern Voyage 9",
+    "sfnStyleNumber": "30",
+    "shawStyleNumber": "3363V",
+    "brand": "Floorte",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Petaluma",
+        "colorNumber": "01158",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Napa",
+        "colorNumber": "02082",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Rutherford",
+        "colorNumber": "07291",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Calistoga",
+        "colorNumber": "07292",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 mil",
+        "thickness": "7.5 mm",
+        "dimensions": "9 X 60 in",
+        "underlayment": "N/A",
+	    "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Infinite SPC",
+    "shawName": "Infinite SPC",
+    "sfnStyleNumber": "31",
+    "shawStyleNumber": "3100V",
+    "brand": "Floorte",
+    "productType": "LVP",
+    "rating": "Good",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Raw Sienna",
+        "colorNumber": "00825",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Grand Canyon",
+        "colorNumber": "02027",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Salt River",
+        "colorNumber": "02028",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Pampas",
+        "colorNumber": "02029",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Drift",
+        "colorNumber": "05100",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Boheme Brown",
+        "colorNumber": "07099",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Route 66",
+        "colorNumber": "07100",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Vista",
+        "colorNumber": "07192",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Barley Field",
+        "colorNumber": "07194",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Raconteur",
+        "colorNumber": "07195",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 mil",
+        "thickness": "4.4 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "N/A",
+	      "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Endura Plus",
+    "shawName": "Endura Plus",
+    "sfnStyleNumber": "32",
+    "shawStyleNumber": "0736V",
+    "brand": "Floorte",
+    "productType": "LVP",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Ivory Oak",
+        "colorNumber": "00138",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cinnamon Walnut",
+        "colorNumber": "00150",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Almond Oak",
+        "colorNumber": "00154",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Tawny Oak",
+        "colorNumber": "00203",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Smoky Oak",
+        "colorNumber": "00556",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Oyster Oak",
+        "colorNumber": "00591",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shadow Oak",
+        "colorNumber": "00592",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Umber Oak",
+        "colorNumber": "00734",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Amber Oak",
+        "colorNumber": "00820",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Silver Dollar",
+        "colorNumber": "01055",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Driftwood",
+        "colorNumber": "01056",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fresh Driftwood",
+        "colorNumber": "01160",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Oceanfront",
+        "colorNumber": "02012",
+        "colorImage": ""
+      },
+      {
+        "colorName": "White Sand",
+        "colorNumber": "02013",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Marina",
+        "colorNumber": "02014",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Simple Wash",
+        "colorNumber": "02083",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Spalted Maple",
+        "colorNumber": "020084",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Lighthouse",
+        "colorNumber": "05091",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sea Glass",
+        "colorNumber": "05092",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Castaway",
+        "colorNumber": "07087",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Boardwalk",
+        "colorNumber": "07088",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wild Dunes",
+        "colorNumber": "07089",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Casual Comfort",
+        "colorNumber": "07294",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Modern Classic",
+        "colorNumber": "07295",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "12 mil",
+        "thickness": "4.8 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "N/A",
+	      "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "CT PREMIUM",
+    "shawName": "CT PREM9X72INTG",
+    "sfnStyleNumber": "33",
+    "shawStyleNumber": "VV810",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Conch Ash",
+        "colorNumber": "01024",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Midnight Oak",
+        "colorNumber": "03019",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Vintage Taupe Ash",
+        "colorNumber": "03021",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cerith Oak",
+        "colorNumber": "04027",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mist Oak",
+        "colorNumber": "04028",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sand Dollar Oak",
+        "colorNumber": "05024",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Flaxen Ash",
+        "colorNumber": "05025",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Blonde Oak",
+        "colorNumber": "05026",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Parchment Oak",
+        "colorNumber": "05027",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sea Salt Oak",
+        "colorNumber": "05028",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 mil",
+        "thickness": "10 mm",
+        "dimensions": "9 X 72 in",
+        "underlayment": "Attached Soft Step",
+	      "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "PP HD INTEGR",
+    "shawName": "PP HD INTEGR 7",
+    "sfnStyleNumber": "34",
+    "shawStyleNumber": "VV800",
+    "brand": "COREtec",
+    "productType": "LVP",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Essex Maple",
+        "colorNumber": "02035",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fairhaven Oak",
+        "colorNumber": "02036",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Warwick Maple",
+        "colorNumber": "03023",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Stonehaven Maple",
+        "colorNumber": "03024",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Brookfield Maple",
+        "colorNumber": "04039",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Hatfield Maple",
+        "colorNumber": "05034",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Douglas Maple",
+        "colorNumber": "05035",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Lawrence Maple",
+        "colorNumber": "07026",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Norfolk Maple",
+        "colorNumber": "08007",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mercer Oak",
+        "colorNumber": "08008",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "wearLayer": "20 mil",
+        "thickness": "6 mm",
+        "dimensions": "7 X 48 in",
+        "underlayment": "Attached Cork",
+	      "installation": "Floating"
+      }
+    ]
+  },
+  {
+    "sfnName": "Expressions",
+    "shawName": "Expressions",
+    "sfnStyleNumber": "35",
+    "shawStyleNumber": "SW707",
+    "brand": "Shaw Floors",
+    "productType": "Hardwood",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Poetry",
+        "colorNumber": "01071",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Lyric",
+        "colorNumber": "01072",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Melody",
+        "colorNumber": "01077",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Alla Prima",
+        "colorNumber": "01094",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fresco",
+        "colorNumber": "02048",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Harmony",
+        "colorNumber": "02050",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Watercolor",
+        "colorNumber": "02053",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mural",
+        "colorNumber": "05080",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Artistry",
+        "colorNumber": "07063",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Prose",
+        "colorNumber": "07067",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sonnet",
+        "colorNumber": "07076",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Muse",
+        "colorNumber": "07078",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Coda",
+        "colorNumber": "09045",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Freeform",
+        "colorNumber": "09047",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "species": "White Oak",
+        "thickness": "5/8 in",
+        "finish": "UV Aluminum Oxide",
+	      "installation": "Floating, Glue, Staple, Nail"
+      }
+    ]
+  },
+  {
+    "sfnName": "Cornerstone Oak",
+    "shawName": "Cornerstone Oak 7.5",
+    "sfnStyleNumber": "36",
+    "shawStyleNumber": "SW755",
+    "brand": "Shaw Floors",
+    "productType": "Hardwood",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Slate",
+        "colorNumber": "05056",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Alabaster",
+        "colorNumber": "11070",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Limestone",
+        "colorNumber": "12020",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shale",
+        "colorNumber": "17050",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Basalt",
+        "colorNumber": "19016",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "species": "White Oak",
+        "thickness": "3/8 in",
+        "finish": "UV Aluminum Oxide",
+	      "installation": "Floating, Glue, Staple, Nail"
+      }
+    ]
+  },
+  {
+    "sfnName": "Utmost",
+    "shawName": "Utmost",
+    "sfnStyleNumber": "37",
+    "shawStyleNumber": "SW753",
+    "brand": "Shaw Floors",
+    "productType": "Hardwood",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Base",
+        "colorNumber": "11066",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Endeavor",
+        "colorNumber": "11068",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Perpetual",
+        "colorNumber": "12019",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mindful",
+        "colorNumber": "17046",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Grounded",
+        "colorNumber": "17047",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Intent",
+        "colorNumber": "17048",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "species": "White Oak",
+        "thickness": "1/2 in",
+        "finish": "UV Aluminum Oxide",
+	      "installation": "Floating, Glue, Staple, Nail"
+      }
+    ]
+  },
+  {
+    "sfnName": "Imperial Pecan",
+    "shawName": "Imperial Pecan",
+    "sfnStyleNumber": "38",
+    "shawStyleNumber": "AA828",
+    "brand": "Anderson Tuftex",
+    "productType": "Hardwood",
+    "rating": "Value",
+    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$3.59"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$2.32"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Antique",
+        "colorNumber": "11054",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fawn",
+        "colorNumber": "11055",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Barley",
+        "colorNumber": "11061",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Harvest",
+        "colorNumber": "11063",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Flaxen",
+        "colorNumber": "12014",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Origin",
+        "colorNumber": "15030",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Dove",
+        "colorNumber": "15031",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Umber",
+        "colorNumber": "17033",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Hazel",
+        "colorNumber": "17036",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Chestnut",
+        "colorNumber": "17040",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "species": "Pecan",
+        "thickness": "1/2 in",
+        "finish": "UV Aluminum Oxide",
+	      "installation": "Floating, Glue, Staple, Nail"
+      }
+    ]
+  },
+  {
+    "sfnName": "QS854",
+    "shawName": "QS854",
+    "sfnStyleNumber": "39",
+    "shawStyleNumber": "QS854",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Value",
+    "image": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.44"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.02"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Bali Sand",
+        "colorNumber": "00110",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shooting Star",
+        "colorNumber": "00111",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wind Chill",
+        "colorNumber": "00510",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Meteor",
+        "colorNumber": "00511",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Castle Wall",
+        "colorNumber": "00512",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Pier",
+        "colorNumber": "00513",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Pecan Sandie",
+        "colorNumber": "00710",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Desert Dune",
+        "colorNumber": "00711",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Afternoon Tea",
+        "colorNumber": "00712",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% SD PET",
+        "rollWidth": "12'",
+        "faceWeight": "44.9 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.51 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "QS858",
+    "shawName": "QS858",
+    "sfnStyleNumber": "40",
+    "shawStyleNumber": "QS858",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Value",
+    "image": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.44"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.02"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Sea Salt",
+        "colorNumber": "00100",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cottage",
+        "colorNumber": "00103",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Parchment",
+        "colorNumber": "00104",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Cork",
+        "colorNumber": "00110",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Woodcraft",
+        "colorNumber": "00112",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sterling",
+        "colorNumber": "00500",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Graphite",
+        "colorNumber": "00510",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Nantucket",
+        "colorNumber": "00520",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Jamestown",
+        "colorNumber": "00521",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% PET POLYESTER",
+        "rollWidth": "12'",
+        "faceWeight": "37 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.79 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Chiseled-Crackled-Fractured",
+    "shawName": "Chiseled-Crackled-Fractured",
+    "sfnStyleNumber": "41",
+    "shawStyleNumber": "54870 - 54872",
+    "brand": "Philadelphia Commerical",
+    "productType": "Carpet Tile",
+    "rating": "Good",
+    "image": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.44"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.02"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Compose",
+        "colorNumber": "00200",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Imagine",
+        "colorNumber": "00300",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sculpt",
+        "colorNumber": "00400",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Shape",
+        "colorNumber": "00500",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Model",
+        "colorNumber": "00505",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Construct",
+        "colorNumber": "00700",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Form",
+        "colorNumber": "00705",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Produce",
+        "colorNumber": "00800",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "dimensions": "24 X 24 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Biotic-Esthetic",
+    "shawName": "Biotic-Esthetic",
+    "sfnStyleNumber": "42",
+    "shawStyleNumber": "54917 - 54918",
+    "brand": "Philadelphia Commerical",
+    "productType": "Carpet Tile",
+    "rating": "Good",
+    "image": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.44"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.02"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Character",
+        "colorNumber": "00400",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Biomimicry",
+        "colorNumber": "00500",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Composition",
+        "colorNumber": "00505",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Inherent",
+        "colorNumber": "00515",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Distinction",
+        "colorNumber": "00700",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "dimensions": "24 X 24 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Sort-Stack",
+    "shawName": "Sort-Stack",
+    "sfnStyleNumber": "43",
+    "shawStyleNumber": "54919 - 54920",
+    "brand": "Philadelphia Commerical",
+    "productType": "Carpet Tile",
+    "rating": "Good",
+    "image": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.44"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.02"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Twist",
+        "colorNumber": "00210",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Bunch",
+        "colorNumber": "00400",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Bind",
+        "colorNumber": "00510",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Fold",
+        "colorNumber": "00700",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Wrap",
+        "colorNumber": "00706",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "dimensions": "24 X 24 in"
+      }
+    ]
+  },
+  {
+    "sfnName": "Parallel",
+    "shawName": "Parallel",
+    "sfnStyleNumber": "44",
+    "shawStyleNumber": "E9413",
+    "brand": "Shaw Floors",
+    "productType": "Carpet",
+    "rating": "Good",
+    "image": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg",
+    "price": [
+      {
+        "priceType": "Regular",
+        "priceValue": "$1.44"
+      },
+      {
+        "priceType": "Sale",
+        "priceValue": "$1.02"
+      }
+    ],
+    "colors": [
+      {
+        "colorName": "Cream",
+        "colorNumber": "00101",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Oat",
+        "colorNumber": "00105",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Flax",
+        "colorNumber": "00116",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Silver",
+        "colorNumber": "00530",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Mineral",
+        "colorNumber": "00532",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Iron",
+        "colorNumber": "00555",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Sandalwood",
+        "colorNumber": "00722",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Walnut",
+        "colorNumber": "00752",
+        "colorImage": ""
+      },
+      {
+        "colorName": "Bronze",
+        "colorNumber": "00761",
+        "colorImage": ""
+      }
+    ],
+    "productSpecs": [
+      {
+        "fiber": "100% PET POLYESTER",
+        "rollWidth": "12'",
+        "faceWeight": "25 oz",
+        "backing": "Polypropylene",
+        "thickness": "0.28 in"
+      }
+    ]
+  }
+]
