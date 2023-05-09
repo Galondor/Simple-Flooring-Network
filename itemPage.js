@@ -46,7 +46,7 @@ async function getProducts() {
       }
       for (let i = 0; i < productData[product - 1].colors.length; i++) {
         menuEl.innerHTML += `<li>
-        <img class="color_image" src="${productData[product - 1].colors[i].colorImage}" alt="">
+        <img class="color_image" src="${productData[product - 1].colors[i].colorImage}" alt="No Image">
         <span>${productData[product - 1].colors[i].colorName}</span>
       </li>`
       //Dropdown Menu
