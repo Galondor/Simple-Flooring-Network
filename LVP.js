@@ -16,9 +16,9 @@ async function getProducts() {
     const productData = data.filter(product => product.productType === "LVP");
     console.log(productData);
 
-      for (let i = 0; i < 18; i++) {
+      for (let i = 0; i < 19; i++) {
         products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
-        <div class="product" id="product" style="background-image: url(${data[i].image})">
+        <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
             <h4 class="product_brand">${productData[i].brand}</h4>
@@ -28,11 +28,11 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
-            <figure class="color_wrapper"><img src="${data[0].colors[4].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${data[0].colors[5].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${data[0].colors[6].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${data[0].colors[13].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${data[0].colors[9].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[4].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[5].colorImage}" alt=""></figure>
         </div>
         </div>
     </div></a>`;

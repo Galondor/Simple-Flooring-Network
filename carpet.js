@@ -6,7 +6,6 @@ const productImg = document.getElementById('product_img');
 
 getProducts();
 
-
 async function getProducts() {
   products.innerHTML = "";
   localStorage.removeItem('selectedProduct');
@@ -29,11 +28,11 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
-            <figure class="color_wrapper"><img src="${data[i].colors[1].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${data[i].colors[2].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${data[i].colors[3].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${data[i].colors[4].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${data[i].colors[5].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[4].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[5].colorImage}" alt=""></figure>
         </div>
         </div>
     </div></a>`;

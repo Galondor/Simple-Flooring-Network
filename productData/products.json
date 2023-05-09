@@ -1584,7 +1584,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/One-Plus/Salton-Chestnut.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1599,47 +1599,47 @@
       {
         "colorName": "Salton Chestnut",
         "colorNumber": "50001",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/One-Plus/Salton-Chestnut.jpg"
       },
       {
         "colorName": "Niland Chestnut",
         "colorNumber": "50002",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/One-Plus/Niland-Chestnut.jpg"
       },
       {
         "colorName": "Brawley Chestnut",
         "colorNumber": "50003",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/One-Plus/Brawley-Chestnut.jpg"
       },
       {
         "colorName": "Deep Lake Oak",
         "colorNumber": "50004",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/One-Plus/Deep-Lake-Oak.jpg"
       },
       {
         "colorName": "Laguna Beach Oak",
         "colorNumber": "50005",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/One-Plus/Laguna-Beach-Oak.jpg"
       },
       {
         "colorName": "Caspian Oak",
         "colorNumber": "50008",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/One-Plus/Caspian-Oak.jpg"
       },
       {
         "colorName": "Fresno Chestnut",
         "colorNumber": "50009",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/One-Plus/Fresno-Chestnut.jpg"
       },
       {
         "colorName": "Irvine Chestnut",
         "colorNumber": "50010",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/One-Plus/Irvine-Chestnut.jpg"
       },
       {
         "colorName": "Venture Chestnut",
         "colorNumber": "50012",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/One-Plus/Venture-Chestnut.jpg"
       }
     ],
     "productSpecs": [
@@ -1660,7 +1660,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/Distinction/Timeless-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1680,12 +1680,12 @@
       {
         "colorName": "Timeless Oak",
         "colorNumber": "00693",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Distinction/Timeless-Oak.jpg"
       },
       {
         "colorName": "Eucalyptus",
         "colorNumber": "00694",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Distinction/Eucalyptus.jpg"
       },
       {
         "colorName": "Dutch Oak",
@@ -1700,7 +1700,7 @@
       {
         "colorName": "Villa Oak",
         "colorNumber": "01090",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Distinction/Villa-Oak.jpg"
       },
       {
         "colorName": "Executive Oak",
@@ -1715,7 +1715,7 @@
       {
         "colorName": "Ash Oak",
         "colorNumber": "07065",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Distinction/Ash-Oak.jpg"
       },
       {
         "colorName": "Barrel Oak",
@@ -1741,7 +1741,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Better",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/VV023/Gold-Coast-Acacia.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1756,17 +1756,17 @@
       {
         "colorName": "Gold Coast Acacia",
         "colorNumber": "00201",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Gold-Coast-Acacia.jpg"
       },
       {
         "colorName": "Deep Smoked Oak",
         "colorNumber": "00202",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Deep-Smoked-Oak.jpg"
       },
       {
         "colorName": "Northwoods Oak",
         "colorNumber": "00205",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Northwoods-Oak.jpg"
       },
       {
         "colorName": "Boardwalk Oak",
@@ -1774,14 +1774,14 @@
         "colorImage": ""
       },
       {
-        "colorName": "Rocky Mountain",
+        "colorName": "Rocky Mountain Oak",
         "colorNumber": "00207",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Rocky-Mountain-Oak.jpg"
       },
       {
         "colorName": "Carolina Pine",
         "colorNumber": "00501",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Carolina-Pine.jpg"
       },
       {
         "colorName": "Black Walnut",
@@ -1796,7 +1796,7 @@
       {
         "colorName": "Norwegian Maple",
         "colorNumber": "00505",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Norwegian-Maple.jpg"
       },
       {
         "colorName": "Corvallis Pine",
@@ -1804,44 +1804,44 @@
         "colorImage": ""
       },
       {
-        "colorName": "Dekota Walnut",
+        "colorName": "Dakota Walnut",
         "colorNumber": "00507",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Dakota-Walnut.jpg"
       },
       {
         "colorName": "Red River Hickory",
         "colorNumber": "00508",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Red-River-Hickory.jpg"
       },
       {
         "colorName": "Wheldon Oak",
         "colorNumber": "00509",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Wheldon-Oak.jpg"
       },
       {
         "colorName": "Durban Pear",
         "colorNumber": "00511",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Durban-Pear.jpg"
       },
       {
         "colorName": "Brockport Oak",
         "colorNumber": "00513",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Brockport-Oak.jpg"
       },
       {
         "colorName": "Ashton Woods Oak",
         "colorNumber": "00570",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Ashton-Woods-Oak.jpg"
       },
       {
         "colorName": "Baywood Oak",
         "colorNumber": "00571",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Baywood-Oak.jpg"
       },
       {
         "colorName": "Dodwell Oak",
         "colorNumber": "00573",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV023/Dodwell-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -1862,7 +1862,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Better",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/VV024/Kingswood-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1887,12 +1887,12 @@
       {
         "colorName": "Kingswood Oak",
         "colorNumber": "00210",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Kingswood-Oak.jpg"
       },
       {
         "colorName": "Nantucket Oak",
         "colorNumber": "00211",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Nantucket-Oak.jpg"
       },
       {
         "colorName": "Georgetown Oak",
@@ -1912,42 +1912,42 @@
       {
         "colorName": "Ivory Coast Oak",
         "colorNumber": "00705",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Ivory-Coast-Oak.jpg"
       },
       {
         "colorName": "Alabaster Oak",
         "colorNumber": "00706",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Alabaster-Oak.jpg"
       },
       {
         "colorName": "Blackstone Oak",
         "colorNumber": "00707",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Blackstone-Oak.jpg"
       },
       {
         "colorName": "Hudson Valley Oak",
         "colorNumber": "00708",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Hudson-Valley-Oak.jpg"
       },
       {
         "colorName": "Amelia Oak",
         "colorNumber": "00712",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Amelia-Oak.jpg"
       },
       {
         "colorName": "Marsh Oak",
         "colorNumber": "00714",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Marsh-Oak.jpg"
       },
       {
         "colorName": "Fidalgo Oak",
         "colorNumber": "00715",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Fidalgo-Oak.jpg"
       },
       {
         "colorName": "Midway Oak",
         "colorNumber": "00716",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV024/Midway-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -1968,7 +1968,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Better",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/VV012/Axial-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1983,37 +1983,37 @@
       {
         "colorName": "Axial Oak",
         "colorNumber": "00753",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Axial-Oak.jpg"
       },
       {
         "colorName": "Nares Oak",
         "colorNumber": "00756",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Nares-Oak.jpg"
       },
       {
         "colorName": "Marianas Oak",
         "colorNumber": "00757",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Marianas-Oak.jpg"
       },
       {
         "colorName": "Galathea Oak",
         "colorNumber": "00795",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Galathea-Oak.jpg"
       },
       {
         "colorName": "Manila Oak",
         "colorNumber": "00760",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Manila-Oak.jpg"
       },
       {
         "colorName": "Calypso Oak",
         "colorNumber": "00761",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Calypso-Oak.jpg"
       },
       {
         "colorName": "Mornington Oak",
         "colorNumber": "00762",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Mornington-Oak.jpg"
       },
       {
         "colorName": "Enderbury Oak",
@@ -2023,7 +2023,7 @@
       {
         "colorName": "Aden Oak",
         "colorNumber": "00765",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Aden-Oak.jpg"
       },
       {
         "colorName": "Explorer Oak",
@@ -2033,32 +2033,32 @@
       {
         "colorName": "Aurora Oak",
         "colorNumber": "00771",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Aurora-Oak.jpg"
       },
       {
         "colorName": "Pasadena Oak",
         "colorNumber": "00772",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Pasadena-Oak.jpg"
       },
       {
         "colorName": "Tulsa Oak",
         "colorNumber": "00773",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Tulsa-Oak.jpg"
       },
       {
         "colorName": "Bay Oak",
         "colorNumber": "04036",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Bay-Oak.jpg"
       },
       {
         "colorName": "Jerome Oak",
         "colorNumber": "04033",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Jerome-Oak.jpg"
       },
       {
         "colorName": "Miles Oak",
         "colorNumber": "08006",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV012/Miles-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -2079,7 +2079,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Better",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/Ascent/Sierra.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2094,52 +2094,52 @@
       {
         "colorName": "Sierra",
         "colorNumber": "00931",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Sierra.jpg"
       },
       {
         "colorName": "Alpine",
         "colorNumber": "01134",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Alpine.jpg"
       },
       {
         "colorName": "Tundra",
         "colorNumber": "01135",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Tundra.jpg"
       },
       {
         "colorName": "Wander",
         "colorNumber": "01136",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Wander.jpg"
       },
       {
         "colorName": "Escape",
         "colorNumber": "02069",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Escape.jpg"
       },
       {
         "colorName": "Lodge",
         "colorNumber": "02070",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Lodge.jpg"
       },
       {
         "colorName": "Journal",
         "colorNumber": "05179",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Journal.jpg"
       },
       {
         "colorName": "Dwell",
         "colorNumber": "05180",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Dwell.jpg"
       },
       {
         "colorName": "Legend",
         "colorNumber": "06036",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Legend.jpg"
       },
       {
         "colorName": "Habitat",
         "colorNumber": "07259",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Ascent/Habitat.jpg"
       }
     ],
     "productSpecs": [
@@ -2160,7 +2160,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "NPR",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/Advanced/Ansley-Walnut.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2175,52 +2175,52 @@
       {
         "colorName": "Ansley Walnut",
         "colorNumber": "03013",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Ansley-Walnut.jpg"
       },
       {
-        "colorName": "Cleverton Pine",
+        "colorName": "Claverton Pine",
         "colorNumber": "03014",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Claverton-Pine.jpg"
       },
       {
         "colorName": "Hastings Walnut",
         "colorNumber": "04014",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Hastings-Walnut.jpg"
       },
       {
         "colorName": "Garamond Oak",
         "colorNumber": "04015",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Garamond-Oak.jpg"
       },
       {
         "colorName": "Morningside Oak",
         "colorNumber": "05014",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Morningside-Oak.jpg"
       },
       {
         "colorName": "Pierpoint Walnut",
         "colorNumber": "05015",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Pierpoint-Walnut.jpg"
       },
       {
         "colorName": "Telford Pine",
         "colorNumber": "06009",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Telford-Pine.jpg"
       },
       {
         "colorName": "Privet Pine",
         "colorNumber": "07014",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Privet-Pine.jpg"
       },
       {
         "colorName": "Norwood Oak",
         "colorNumber": "07016",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Norwood-Oak.jpg"
       },
       {
         "colorName": "Charter Oak",
         "colorNumber": "08003",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Advanced/Charter-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -2241,7 +2241,7 @@
     "brand": "Shaw Floors",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/Prodigy-HDR/Nomad.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2256,12 +2256,12 @@
       {
         "colorName": "Nomad",
         "colorNumber": "01066",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Prodigy-HDR/Nomad.jpg"
       },
       {
         "colorName": "Ethereal",
         "colorNumber": "01069",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Prodigy-HDR/Ethereal.jpg"
       },
       {
         "colorName": "Hygge",
@@ -2271,7 +2271,7 @@
       {
         "colorName": "Mangata",
         "colorNumber": "02031",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Prodigy-HDR/Mangata.jpg"
       },
       {
         "colorName": "Cobblestone",
@@ -2286,17 +2286,17 @@
       {
         "colorName": "Mindful",
         "colorNumber": "06007",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Prodigy-HDR/Mindful.jpg"
       },
       {
         "colorName": "Simplicity",
         "colorNumber": "07095",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Prodigy-HDR/Simplicity.jpg"
       },
       {
         "colorName": "Fika",
         "colorNumber": "07202",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Prodigy-HDR/Fika.jpg"
       },
       {
         "colorName": "Glogg",
@@ -2322,7 +2322,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Value",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/Galaxy/Whirlpool-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2337,57 +2337,57 @@
       {
         "colorName": "Whirlpool Oak",
         "colorNumber": "02060",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Whirlpool-Oak.jpg"
       },
       {
         "colorName": "Cartwheel Oak",
         "colorNumber": "02061",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Cartwheel-Oak.jpg"
       },
       {
         "colorName": "Elliptical Oak",
         "colorNumber": "02062",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Elliptical-Oak.jpg"
       },
       {
         "colorName": "Cigar Oak",
         "colorNumber": "02063",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Cigar-Oak.jpg"
       },
       {
         "colorName": "Andromeda Pine",
         "colorNumber": "02064",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Andromeda-Pine.jpg"
       },
       {
         "colorName": "Sunflower Pine",
         "colorNumber": "02065",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Sunflower-Pine.jpg"
       },
       {
         "colorName": "Spiral Pine",
         "colorNumber": "02066",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Spiral-Pine.jpg"
       },
       {
         "colorName": "Magellanic Oak",
         "colorNumber": "02080",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Magellanic-Oak.jpg"
       },
       {
         "colorName": "Maffei Cherry",
         "colorNumber": "02081",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Maffei-Cherry.jpg"
       },
       {
         "colorName": "Solstice Cherry",
         "colorNumber": "02082",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Solstice-Cherry.jpg"
       },
       {
         "colorName": "Centaurus Oak",
         "colorNumber": "02083",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Galaxy/Centaurus-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -2408,7 +2408,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/Anvil/Chatter-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2423,52 +2423,52 @@
       {
         "colorName": "Chatter Oak",
         "colorNumber": "00295",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/Chatter-Oak.jpg"
       },
       {
         "colorName": "River Bend Oak",
         "colorNumber": "00296",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/River-Bend-Oak.jpg"
       },
       {
         "colorName": "Mineral Maple",
         "colorNumber": "00297",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/Mineral-Maple.jpg"
       },
       {
         "colorName": "Dark Elm",
         "colorNumber": "00915",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/Dark-Elm.jpg"
       },
       {
         "colorName": "Beach Oak",
         "colorNumber": "01023",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/Beach-Oak.jpg"
       },
       {
         "colorName": "Clean Pine",
         "colorNumber": "05077",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/Clean-Pine.jpg"
       },
       {
         "colorName": "Greige Walnut",
         "colorNumber": "05078",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/Greige-Walnut.jpg"
       },
       {
         "colorName": "Highlight Oak",
         "colorNumber": "07061",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/Highlight-Oak.jpg"
       },
       {
         "colorName": "Grey Chestnut",
         "colorNumber": "07062",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/Grey-Chestnut.jpg"
       },
       {
         "colorName": "Accent Pine",
         "colorNumber": "07063",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Anvil/Accent-Pine.jpg"
       }
     ],
     "productSpecs": [
@@ -2489,7 +2489,7 @@
     "brand": "Philadelphia Commerical", 
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/In-The-Grain-2/Rye.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2504,268 +2504,122 @@
       {
         "colorName": "Rye",
         "colorNumber": "00116",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Rye.jpg"
       },
       {
         "colorName": "Hemp",
         "colorNumber": "00216",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Hemp.jpg"
       },
       {
         "colorName": "Elmwood",
         "colorNumber": "00170",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Elmwood.jpg"
       },
       {
         "colorName": "Millet",
         "colorNumber": "00256",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Millet.jpg"
       },
       {
         "colorName": "Nutshell",
         "colorNumber": "00173",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Nutshell.jpg"
       },
       {
         "colorName": "Frosted Oats",
         "colorNumber": "00559",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Frosted-Oats.jpg"
       },
       {
         "colorName": "Fir",
         "colorNumber": "00174",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Fir.jpg"
       },
       {
         "colorName": "Freekeh",
         "colorNumber": "00564",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Freekeh.jpg"
       },
       {
         "colorName": "Flaxseed",
         "colorNumber": "00568",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Flaxseed.jpg"
       },
       {
         "colorName": "Milo",
         "colorNumber": "00572",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Milo.jpg"
       },
       {
         "colorName": "Farro",
         "colorNumber": "00684",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Farro.jpg"
       },
       {
         "colorName": "Barley",
         "colorNumber": "00740",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Barley.jpg"
       },
       {
         "colorName": "Amaranth",
         "colorNumber": "00769",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Amaranth.jpg"
       },
       {
         "colorName": "Wheat",
         "colorNumber": "00774",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Wheat.jpg"
       },
       {
         "colorName": "Spelt",
         "colorNumber": "00775",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Spelt.jpg"
       },
       {
         "colorName": "English Grey",
         "colorNumber": "05012",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/English-Grey.jpg"
       },
       {
         "colorName": "Drift",
         "colorNumber": "05013",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Drift.jpg"
       },
       {
         "colorName": "Ember",
         "colorNumber": "05016",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Ember.jpg"
       },
       {
         "colorName": "Briarwood",
         "colorNumber": "05019",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Briarwood.jpg"
       },
       {
-        "colorName": "Sandlewood",
+        "colorName": "Sandalwood",
         "colorNumber": "07003",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Sandalwood.jpg"
       },
       {
         "colorName": "Cotton Seed",
         "colorNumber": "07004",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Cotton-Seed.jpg"
       },
       {
         "colorName": "Oakwood",
         "colorNumber": "07007",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Oakwood.jpg"
       },
       {
         "colorName": "Burlwood",
         "colorNumber": "07008",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/In-The-Grain-2/Burlwood.jpg"
       }
     ],
     "productSpecs": [
       {
-        "wearLayer": "20 mil",
-        "thickness": "2.5 mm",
-        "dimensions": "6 X 48 in",
-        "underlayment": "N/A",
-	    "installation": "Gluedown"
-      }
-    ]
-  },
-  {
-    "sfnName": "In The Grain 2",
-    "shawName": "In The Grain 2",
-    "sfnStyleNumber": "26",
-    "shawStyleNumber": "5524V",
-    "brand": "Philadelphia Commerical",
-    "productType": "LVP",
-    "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
-    "price": [
-      {
-        "priceType": "Regular",
-        "priceValue": "$3.59"
-      },
-      {
-        "priceType": "Sale",
-        "priceValue": "$2.32"
-      }
-    ],
-    "colors": [
-      {
-        "colorName": "Rye",
-        "colorNumber": "00116",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Hemp",
-        "colorNumber": "00216",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Elmwood",
-        "colorNumber": "00170",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Millet",
-        "colorNumber": "00256",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Nutshell",
-        "colorNumber": "00173",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Frosted Oats",
-        "colorNumber": "00559",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Fir",
-        "colorNumber": "00174",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Freekeh",
-        "colorNumber": "00564",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Flaxseed",
-        "colorNumber": "00568",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Milo",
-        "colorNumber": "00572",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Farro",
-        "colorNumber": "00684",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Barley",
-        "colorNumber": "00740",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Amaranth",
-        "colorNumber": "00769",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Wheat",
-        "colorNumber": "00774",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Spelt",
-        "colorNumber": "00775",
-        "colorImage": ""
-      },
-      {
-        "colorName": "English Grey",
-        "colorNumber": "05012",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Drift",
-        "colorNumber": "05013",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Ember",
-        "colorNumber": "05016",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Briarwood",
-        "colorNumber": "05019",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Sandlewood",
-        "colorNumber": "07003",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Cotton Seed",
-        "colorNumber": "07004",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Oakwood",
-        "colorNumber": "07007",
-        "colorImage": ""
-      },
-      {
-        "colorName": "Burlwood",
-        "colorNumber": "07008",
-        "colorImage": ""
-      }
-    ],
-    "productSpecs": [
-      {
-        "wearLayer": "12 mil",
+        "wearLayer": "12 or 20 mil",
         "thickness": "2.5 mm",
         "dimensions": "6 X 48 in",
         "underlayment": "N/A",
@@ -2776,7 +2630,7 @@
   {
     "sfnName": "Stone 12 X 24 Matte",
     "shawName": "Stone 12 X 24 Matte",
-    "sfnStyleNumber": "27",
+    "sfnStyleNumber": "26",
     "shawStyleNumber": "VV566",
     "brand": "COREtec",
     "productType": "LVP",
@@ -2832,7 +2686,7 @@
   {
     "sfnName": "Stone 18 X 24 Matte",
     "shawName": "Stone 18 X 24 Matte",
-    "sfnStyleNumber": "28",
+    "sfnStyleNumber": "27",
     "shawStyleNumber": "VV567",
     "brand": "COREtec",
     "productType": "LVP",
@@ -2893,7 +2747,7 @@
   {
     "sfnName": "Stone 18 X 36",
     "shawName": "Stone 18 X 36",
-    "sfnStyleNumber": "29",
+    "sfnStyleNumber": "28",
     "shawStyleNumber": "VV568",
     "brand": "COREtec",
     "productType": "LVP",
@@ -2944,7 +2798,7 @@
   {
     "sfnName": "Northern Voyage 9",
     "shawName": "Northern Voyage 9",
-    "sfnStyleNumber": "30",
+    "sfnStyleNumber": "29",
     "shawStyleNumber": "3363V",
     "brand": "Floorte",
     "productType": "LVP",
@@ -2995,7 +2849,7 @@
   {
     "sfnName": "Infinite SPC",
     "shawName": "Infinite SPC",
-    "sfnStyleNumber": "31",
+    "sfnStyleNumber": "30",
     "shawStyleNumber": "3100V",
     "brand": "Floorte",
     "productType": "LVP",
@@ -3076,7 +2930,7 @@
   {
     "sfnName": "Endura Plus",
     "shawName": "Endura Plus",
-    "sfnStyleNumber": "32",
+    "sfnStyleNumber": "31",
     "shawStyleNumber": "0736V",
     "brand": "Floorte",
     "productType": "LVP",
@@ -3227,7 +3081,7 @@
   {
     "sfnName": "CT PREMIUM",
     "shawName": "CT PREM9X72INTG",
-    "sfnStyleNumber": "33",
+    "sfnStyleNumber": "32",
     "shawStyleNumber": "VV810",
     "brand": "COREtec",
     "productType": "LVP",
@@ -3308,7 +3162,7 @@
   {
     "sfnName": "PP HD INTEGR",
     "shawName": "PP HD INTEGR 7",
-    "sfnStyleNumber": "34",
+    "sfnStyleNumber": "33",
     "shawStyleNumber": "VV800",
     "brand": "COREtec",
     "productType": "LVP",
@@ -3389,7 +3243,7 @@
   {
     "sfnName": "Expressions",
     "shawName": "Expressions",
-    "sfnStyleNumber": "35",
+    "sfnStyleNumber": "34",
     "shawStyleNumber": "SW707",
     "brand": "Shaw Floors",
     "productType": "Hardwood",
@@ -3489,7 +3343,7 @@
   {
     "sfnName": "Cornerstone Oak",
     "shawName": "Cornerstone Oak 7.5",
-    "sfnStyleNumber": "36",
+    "sfnStyleNumber": "35",
     "shawStyleNumber": "SW755",
     "brand": "Shaw Floors",
     "productType": "Hardwood",
@@ -3544,7 +3398,7 @@
   {
     "sfnName": "Utmost",
     "shawName": "Utmost",
-    "sfnStyleNumber": "37",
+    "sfnStyleNumber": "36",
     "shawStyleNumber": "SW753",
     "brand": "Shaw Floors",
     "productType": "Hardwood",
@@ -3604,7 +3458,7 @@
   {
     "sfnName": "Imperial Pecan",
     "shawName": "Imperial Pecan",
-    "sfnStyleNumber": "38",
+    "sfnStyleNumber": "37",
     "shawStyleNumber": "AA828",
     "brand": "Anderson Tuftex",
     "productType": "Hardwood",
@@ -3684,7 +3538,7 @@
   {
     "sfnName": "QS854",
     "shawName": "QS854",
-    "sfnStyleNumber": "39",
+    "sfnStyleNumber": "38",
     "shawStyleNumber": "QS854",
     "brand": "Shaw Floors",
     "productType": "Carpet",
@@ -3760,7 +3614,7 @@
   {
     "sfnName": "QS858",
     "shawName": "QS858",
-    "sfnStyleNumber": "40",
+    "sfnStyleNumber": "39",
     "shawStyleNumber": "QS858",
     "brand": "Shaw Floors",
     "productType": "Carpet",
@@ -3836,7 +3690,7 @@
   {
     "sfnName": "Chiseled-Crackled-Fractured",
     "shawName": "Chiseled-Crackled-Fractured",
-    "sfnStyleNumber": "41",
+    "sfnStyleNumber": "40",
     "shawStyleNumber": "54870 - 54872",
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
@@ -3903,7 +3757,7 @@
   {
     "sfnName": "Biotic-Esthetic",
     "shawName": "Biotic-Esthetic",
-    "sfnStyleNumber": "42",
+    "sfnStyleNumber": "41",
     "shawStyleNumber": "54917 - 54918",
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
@@ -3955,7 +3809,7 @@
   {
     "sfnName": "Sort-Stack",
     "shawName": "Sort-Stack",
-    "sfnStyleNumber": "43",
+    "sfnStyleNumber": "42",
     "shawStyleNumber": "54919 - 54920",
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
@@ -4007,7 +3861,7 @@
   {
     "sfnName": "Parallel",
     "shawName": "Parallel",
-    "sfnStyleNumber": "44",
+    "sfnStyleNumber": "43",
     "shawStyleNumber": "E9413",
     "brand": "Shaw Floors",
     "productType": "Carpet",
