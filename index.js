@@ -79,3 +79,9 @@ rightArrow.addEventListener('click', function() {
     indicatorParents.children[sectionIndex].classList.add('selected');
     slider.style.transform = 'translate(' + (sectionIndex) * -25 +'%)';
 });
+
+//Pop-up
+
+function togglePopup(){
+    document.getElementById("popup-1").classList.toggle("active");
+}

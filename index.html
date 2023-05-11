@@ -39,6 +39,20 @@
     <header>
         <h2 id="motd">The Simplest Way To Buy Flooring Online!</h2>
     </header>
+    <div class="popup" id="popup-1">
+        <div class="overlay"></div>
+        <div class="content">
+            <div class="close-btn" onclick="togglePopup()">&times;</div>
+            <div class="content_wrapper">
+                <h1>Get 3 Free <span class="diff-color">Samples!</span></h1>
+                <p>If you take our <span class="diff-color">Flooring Quiz</span> your first 3 samples are on us!</p>
+            </div>
+            <div class="btn-wrapper">
+                <a href="quiz.html" class="btn">Take The Quiz</a>
+                <a href="#" class="btn"  onclick="togglePopup()">I Like Paying For Samples</a>
+            </div>
+        </div>
+    </div>
     <section id="carousel">
         <div class="carousel">
             <div class="slider" id="slider">
@@ -106,7 +120,7 @@
                         </a>
                     </figure>
                     <figure class="quick_nav_link samples">
-                        <a href="" onclick="">
+                        <a href="#" onclick="togglePopup()">
                             <img src="" alt="">
                             <span>Get Samples</span>
                             <p>Delivered straight to your doorstep!</p>

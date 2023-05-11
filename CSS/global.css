@@ -38,6 +38,10 @@
     flex-direction: column;
 }
 
+.diff-color {
+    color:#b8c6db;
+}
+
 /* NAVIGATION */
 
 nav {
