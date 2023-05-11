@@ -3859,14 +3859,14 @@
     ]
   },
   {
-    "sfnName": "Parallel",
-    "shawName": "Parallel",
+    "sfnName": "Blocking-Parallel-Lattice",
+    "shawName": "Blocking-Parallel-Lattice",
     "sfnStyleNumber": "43",
     "shawStyleNumber": "E9413",
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "",
+    "image": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Cream.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3881,47 +3881,47 @@
       {
         "colorName": "Cream",
         "colorNumber": "00101",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Cream.jpg"
       },
       {
         "colorName": "Oat",
         "colorNumber": "00105",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Oat.jpg"
       },
       {
         "colorName": "Flax",
         "colorNumber": "00116",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Flax.jpg"
       },
       {
         "colorName": "Silver",
         "colorNumber": "00530",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Silver.jpg"
       },
       {
         "colorName": "Mineral",
         "colorNumber": "00532",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Mineral.jpg"
       },
       {
         "colorName": "Iron",
         "colorNumber": "00555",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Iron.jpg"
       },
       {
         "colorName": "Sandalwood",
         "colorNumber": "00722",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Sandalwood.jpg"
       },
       {
         "colorName": "Walnut",
         "colorNumber": "00752",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Walnut.jpg"
       },
       {
         "colorName": "Bronze",
         "colorNumber": "00761",
-        "colorImage": ""
+        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Bronze.jpg"
       }
     ],
     "productSpecs": [
