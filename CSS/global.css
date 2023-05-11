@@ -142,13 +142,14 @@ nav .row {
     display: flex;
     flex-direction: column;
     position: absolute;
-    left: 0;
+    left: -30px;
     top: 50px;
     background-color: #fff;
     padding: 12px;
     border-radius: 4px;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .1);
     opacity: 0;
+    width: 152px;
     pointer-events: none;
     transform: translateY(-10px);
     transition: opacity 150ms ease-in, transform 150ms ease-in-out;

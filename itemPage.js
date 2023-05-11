@@ -59,7 +59,7 @@ async function getProducts() {
     }
 
     for (let i = 0; i < 3; i++) {
-      productImages.innerHTML += `<img class="product_image" src="productImages/LVP/VV023-Red-River-Hickory.jpg" alt="">`;
+      productImages.innerHTML += `<img class="product_image" src="productImages/Default-Image.jpg" alt="">`;
     }
 
     dropdowns.forEach(dropdown => {
