@@ -36,6 +36,7 @@ async function getProducts() {
         </div>
         </div>
     </div></a>`;
+    console.log(i)
     }
   } catch (error) {
     console.log(error);

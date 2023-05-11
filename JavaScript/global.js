@@ -18,7 +18,7 @@ document.addEventListener("click", e => {
 updateCart();
 
 function updateCart() {
-    const cartAmount = document.querySelector(".cart_amount_img");
+const cartAmount = document.querySelector(".cart_amount_img");
 const cartCircle = document.querySelector(".cart_contents_img");
 const cart = JSON.parse(localStorage.getItem("cart")) || [];
 cartAmount.textContent = cart.length;

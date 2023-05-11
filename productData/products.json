@@ -2635,7 +2635,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/VV566/Arubani.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2650,27 +2650,27 @@
       {
         "colorName": "Freonia",
         "colorNumber": "12241",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV566/Mari.jpg"
       },
       {
         "colorName": "Arubani",
         "colorNumber": "12243",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV566/Arubani.jpg"
       },
       {
         "colorName": "Mari",
         "colorNumber": "12245",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV566/Mari.jpg"
       },
       {
         "colorName": "Harmonia",
         "colorNumber": "12247",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV566/Mari.jpg"
       },
       {
         "colorName": "Ashani",
         "colorNumber": "12249",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV566/Mari.jpg"
       }
     ],
     "productSpecs": [
@@ -2691,7 +2691,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "",
     "price": [
       {
         "priceType": "Regular",
@@ -2752,7 +2752,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/VV568/Semonia.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2767,22 +2767,22 @@
       {
         "colorName": "Semonia",
         "colorNumber": "18361",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV568/Semonia.jpg"
       },
       {
         "colorName": "Pellonia",
         "colorNumber": "18362",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV568/Pellonia.jpg"
       },
       {
         "colorName": "Vesta",
         "colorNumber": "18363",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV568/Vesta.jpg"
       },
       {
         "colorName": "Sirius",
         "colorNumber": "18366",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/VV568/Sirius.jpg"
       }
     ],
     "productSpecs": [
@@ -2803,7 +2803,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/Northern-Voyage/Petaluma.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2818,22 +2818,22 @@
       {
         "colorName": "Petaluma",
         "colorNumber": "01158",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Northern-Voyage/Petaluma.jpg"
       },
       {
         "colorName": "Napa",
         "colorNumber": "02082",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Northern-Voyage/Napa.jpg"
       },
       {
         "colorName": "Rutherford",
         "colorNumber": "07291",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Northern-Voyage/Rutherford.jpg"
       },
       {
         "colorName": "Calistoga",
         "colorNumber": "07292",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Northern-Voyage/Calistoga.jpg"
       }
     ],
     "productSpecs": [
@@ -2854,7 +2854,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/Infinite/Raw-Sienna.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2869,52 +2869,52 @@
       {
         "colorName": "Raw Sienna",
         "colorNumber": "00825",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Raw-Sienna.jpg"
       },
       {
         "colorName": "Grand Canyon",
         "colorNumber": "02027",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Grand-Canyon.jpg"
       },
       {
         "colorName": "Salt River",
         "colorNumber": "02028",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Salt-River.jpg"
       },
       {
         "colorName": "Pampas",
         "colorNumber": "02029",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Pampas.jpg"
       },
       {
         "colorName": "Drift",
         "colorNumber": "05100",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Drift.jpg"
       },
       {
         "colorName": "Boheme Brown",
         "colorNumber": "07099",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Boheme-Brown.jpg"
       },
       {
         "colorName": "Route 66",
         "colorNumber": "07100",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Route-66.jpg"
       },
       {
         "colorName": "Vista",
         "colorNumber": "07192",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Vista.jpg"
       },
       {
         "colorName": "Barley Field",
         "colorNumber": "07194",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Barley-Field.jpg"
       },
       {
         "colorName": "Raconteur",
         "colorNumber": "07195",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Infinite/Raconteur.jpg"
       }
     ],
     "productSpecs": [
