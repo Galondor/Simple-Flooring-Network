@@ -20,8 +20,8 @@
               <div class="dropdown" data-dropdown="">
                   <button class="nav_link dropdown_btn" data-dropdown-button>Products</button>
                   <div class="dropdown_menu">
-                      <a href="productPages/Carpet/carpet.html" class="dropdown_link" data-dropdown-link>Carpet</a>
-                      <a href="productPages/LVP/LVP.html" class="dropdown_link" data-dropdown-link>Vinyl</a>
+                      <a href="productPages/carpet.html" class="dropdown_link" data-dropdown-link>Carpet</a>
+                      <a href="productPages/LVP.html" class="dropdown_link" data-dropdown-link>Vinyl</a>
                       <a href="store.html" class="dropdown_link" data-dropdown-link>Carpet Tile</a>
                       <a href="store.html" class="dropdown_link" data-dropdown-link>Hardwood</a>
                       <a href="store.html" class="dropdown_link" data-dropdown-link>All Products</a>
@@ -47,13 +47,13 @@
             <div class="products" id="products"></div>
           <div class="navigation">
             <ul>
-                <button class="nav_btn" onclick="prevPage()"><img src="assets/arrow-left.svg" alt=""></button>
+                <button class="nav_btn prev" onclick="prevPage()"><img src="assets/arrow-left.svg" alt=""></button>
                 <li><button class="nav_page-btn page" id="1" onclick="changePage()">1</button></li>
                 <li><button class="nav_page-btn page" id="2" onclick="changePage()">2</button></li>
                 <li><button class="nav_page-btn page" id="3" onclick="changePage()">3</button></li>
                 <li><button class="nav_page-btn page" id="4" onclick="changePage()">4</button></li>
-                <li><button class="nav_page-btn page" id="5" onclick="changePage()">5</button></li>
-                <button class="nav_btn" onclick="nextPage()"><img src="assets/arrow-right.svg" alt=""></button>
+                <li><button class="nav_page-btn page removal" id="5" onclick="changePage()">5</button></li>
+                <button class="nav_btn next" onclick="nextPage()"><img src="assets/arrow-right.svg" alt=""></button>
             </ul>
           </div>
         </div>

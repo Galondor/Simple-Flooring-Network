@@ -255,5 +255,8 @@
     color: #CAC5C5;
     margin-left: 12px;
     font-size: 18px;
+}
 
+.removal {
+    display: none;
 }

@@ -23,24 +23,32 @@ async function getProducts() {
         page3.style.color = "black";
         page4.style.color = "black";
         page5.style.color = "black";
+        document.querySelector('.prev').style.display = "none";
+        document.querySelector('.next').style.display = "flex";
     } else if (currentPage == 2) {
         page2.style.color = "red";
         page1.style.color = "black";
         page3.style.color = "black";
         page4.style.color = "black";
         page5.style.color = "black";
+        document.querySelector('.prev').style.display = "flex";
+        document.querySelector('.next').style.display = "flex";
     } else if (currentPage == 3) {
         page3.style.color = "red";
         page2.style.color = "black";
         page1.style.color = "black";
         page4.style.color = "black";
         page5.style.color = "black";
+        document.querySelector('.prev').style.display = "flex";
+        document.querySelector('.next').style.display = "flex";
     } else if (currentPage == 4) {
         page4.style.color = "red";
         page2.style.color = "black";
         page3.style.color = "black";
         page1.style.color = "black";
         page5.style.color = "black";
+        document.querySelector('.prev').style.display = "flex";
+        document.querySelector('.next').style.display = "none";
     } else if (currentPage == 5) {
         page5.style.color = "red";
         page2.style.color = "black";
@@ -56,7 +64,7 @@ async function getProducts() {
     console.log(productData);
 
     if (currentPage == 1) {
-      for (let i = 0; i < 9; i++) {
+      for (let i = 0; i < 12; i++) {
         products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
@@ -68,17 +76,16 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
+            <figure class="color_wrapper"><img src="${productData[i].colors[0].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[4].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[5].colorImage}" alt=""></figure>
         </div>
         </div>
     </div></a>`;
     }
     } else if (currentPage == 2) {
-      for (let i = 9; i < 17; i++) {
+      for (let i = 12; i < 24; i++) {
         products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
@@ -90,17 +97,16 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
+            <figure class="color_wrapper"><img src="${productData[i].colors[0].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[4].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[5].colorImage}" alt=""></figure>
         </div>
         </div>
     </div></a>`;
     }
     } else if (currentPage == 3) {
-      for (let i = 17; i < 26; i++) {
+      for (let i = 24; i < 36; i++) {
         products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
@@ -112,17 +118,16 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
+            <figure class="color_wrapper"><img src="${productData[i].colors[0].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[4].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[5].colorImage}" alt=""></figure>
         </div>
         </div>
     </div></a>`;
     }
     } else if (currentPage == 4) {
-      for (let i = 26; i < 35; i++) {
+      for (let i = 36; i < 48; i++) {
         products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
@@ -134,17 +139,16 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
+            <figure class="color_wrapper"><img src="${productData[i].colors[0].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[4].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[5].colorImage}" alt=""></figure>
         </div>
         </div>
     </div></a>`;
     }
     } else if (currentPage == 5) {
-      for (let i = 35; i < 43; i++) {
+      for (let i = 48; i < 60; i++) {
         products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
@@ -156,11 +160,10 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
+            <figure class="color_wrapper"><img src="${productData[i].colors[0].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt=""></figure>
             <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[4].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[5].colorImage}" alt=""></figure>
         </div>
         </div>
     </div></a>`;

@@ -2650,7 +2650,7 @@
       {
         "colorName": "Freonia",
         "colorNumber": "12241",
-        "colorImage": "/productImages/LVP/VV566/Mari.jpg"
+        "colorImage": ""
       },
       {
         "colorName": "Arubani",
@@ -2665,12 +2665,12 @@
       {
         "colorName": "Harmonia",
         "colorNumber": "12247",
-        "colorImage": "/productImages/LVP/VV566/Mari.jpg"
+        "colorImage": ""
       },
       {
         "colorName": "Ashani",
         "colorNumber": "12249",
-        "colorImage": "/productImages/LVP/VV566/Mari.jpg"
+        "colorImage": ""
       }
     ],
     "productSpecs": [
@@ -2691,7 +2691,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "",
+    "image": "/productImages/LVP/VV566/Arubani.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2935,7 +2935,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Value",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/Endura/Ivory-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2950,57 +2950,57 @@
       {
         "colorName": "Ivory Oak",
         "colorNumber": "00138",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Ivory-Oak.jpg"
       },
       {
         "colorName": "Cinnamon Walnut",
         "colorNumber": "00150",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Cinnamon-Walnut.jpg"
       },
       {
         "colorName": "Almond Oak",
         "colorNumber": "00154",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Almond-Oak.jpg"
       },
       {
         "colorName": "Tawny Oak",
         "colorNumber": "00203",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Tawny-Oak.jpg"
       },
       {
         "colorName": "Smoky Oak",
         "colorNumber": "00556",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Smoky-Oak.jpg"
       },
       {
         "colorName": "Oyster Oak",
         "colorNumber": "00591",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Oyster-Oak.jpg"
       },
       {
         "colorName": "Shadow Oak",
         "colorNumber": "00592",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Shadow-Oak.jpg"
       },
       {
         "colorName": "Umber Oak",
         "colorNumber": "00734",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Umber-Oak.jpg"
       },
       {
         "colorName": "Amber Oak",
         "colorNumber": "00820",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Amber-Oak.jpg"
       },
       {
         "colorName": "Silver Dollar",
         "colorNumber": "01055",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Silver-Dollar.jpg"
       },
       {
         "colorName": "Driftwood",
         "colorNumber": "01056",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Driftwood.jpg"
       },
       {
         "colorName": "Fresh Driftwood",
@@ -3010,17 +3010,17 @@
       {
         "colorName": "Oceanfront",
         "colorNumber": "02012",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Oceanfront.jpg"
       },
       {
         "colorName": "White Sand",
         "colorNumber": "02013",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/White-Sand.jpg"
       },
       {
         "colorName": "Marina",
         "colorNumber": "02014",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Marina.jpg"
       },
       {
         "colorName": "Simple Wash",
@@ -3035,27 +3035,27 @@
       {
         "colorName": "Lighthouse",
         "colorNumber": "05091",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Lighthouse.jpg"
       },
       {
         "colorName": "Sea Glass",
         "colorNumber": "05092",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Sea-Glass.jpg"
       },
       {
         "colorName": "Castaway",
         "colorNumber": "07087",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Castaway.jpg"
       },
       {
         "colorName": "Boardwalk",
         "colorNumber": "07088",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Boardwalk.jpg"
       },
       {
         "colorName": "Wild Dunes",
         "colorNumber": "07089",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/Endura/Wild-Dunes.jpg"
       },
       {
         "colorName": "Casual Comfort",
@@ -3086,7 +3086,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Value",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/CT-PREM/Conch-Ash.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3101,52 +3101,52 @@
       {
         "colorName": "Conch Ash",
         "colorNumber": "01024",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Conch-Ash.jpg"
       },
       {
         "colorName": "Midnight Oak",
         "colorNumber": "03019",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Midnight-Oak.jpg"
       },
       {
         "colorName": "Vintage Taupe Ash",
         "colorNumber": "03021",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Vintage-Taupe-Ash.jpg"
       },
       {
         "colorName": "Cerith Oak",
         "colorNumber": "04027",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Cerith-Oak.jpg"
       },
       {
         "colorName": "Mist Oak",
         "colorNumber": "04028",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Mist-Oak.jpg"
       },
       {
         "colorName": "Sand Dollar Oak",
         "colorNumber": "05024",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Sand-Dollar-Oak.jpg"
       },
       {
         "colorName": "Flaxen Ash",
         "colorNumber": "05025",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Flaxen-Ash.jpg"
       },
       {
         "colorName": "Blonde Oak",
         "colorNumber": "05026",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Blonde-Oak.jpg"
       },
       {
         "colorName": "Parchment Oak",
         "colorNumber": "05027",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Parchment-Oak.jpg"
       },
       {
         "colorName": "Sea Salt Oak",
         "colorNumber": "05028",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/CT-PREM/Sea-Salt-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -3167,7 +3167,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Value",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3182,52 +3182,52 @@
       {
         "colorName": "Essex Maple",
         "colorNumber": "02035",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg"
       },
       {
         "colorName": "Fairhaven Oak",
         "colorNumber": "02036",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Fairhaven-Oak.jpg"
       },
       {
         "colorName": "Warwick Maple",
         "colorNumber": "03023",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Warwick-Maple.jpg"
       },
       {
         "colorName": "Stonehaven Maple",
         "colorNumber": "03024",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Stonehaven-Maple.jpg"
       },
       {
         "colorName": "Brookfield Maple",
         "colorNumber": "04039",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Brookfield-Maple.jpg"
       },
       {
         "colorName": "Hatfield Maple",
         "colorNumber": "05034",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Hatfield-Maple.jpg"
       },
       {
         "colorName": "Douglas Maple",
         "colorNumber": "05035",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Douglas-Maple.jpg"
       },
       {
         "colorName": "Lawrence Maple",
         "colorNumber": "07026",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Lawrence-Maple.jpg"
       },
       {
         "colorName": "Norfolk Maple",
         "colorNumber": "08007",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Norfolk-Maple.jpg"
       },
       {
         "colorName": "Mercer Oak",
         "colorNumber": "08008",
-        "colorImage": ""
+        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Mercer-Oak.jpg"
       }
     ],
     "productSpecs": [
