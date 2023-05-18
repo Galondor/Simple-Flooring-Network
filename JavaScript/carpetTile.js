@@ -16,7 +16,7 @@ async function getProducts() {
     const productData = data.filter(product => product.productType === "Carpet Tile");
     console.log(productData);
 
-      for (let i = 0; i < 3; i++) {
+      for (let i = 0; i < productData.length; i++) {
         products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper cptTile_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">

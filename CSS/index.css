@@ -148,6 +148,12 @@ body {
     font-weight: 700;
     text-align: left;
     color: #fff;
+    transition: all 300ms ease;
+    text-align: center;
+}
+
+.panel_title:hover {
+    color: lightgray;
 }
 
 .carpet_panel {
