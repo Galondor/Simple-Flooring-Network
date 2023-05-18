@@ -3248,7 +3248,7 @@
     "brand": "Shaw Floors",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Hardwood/Expressions/Poetry.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3263,72 +3263,72 @@
       {
         "colorName": "Poetry",
         "colorNumber": "01071",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Poetry.jpg"
       },
       {
         "colorName": "Lyric",
         "colorNumber": "01072",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Lyric.jpg"
       },
       {
         "colorName": "Melody",
         "colorNumber": "01077",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Melody.jpg"
       },
       {
         "colorName": "Alla Prima",
         "colorNumber": "01094",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Alla-Prima.jpg"
       },
       {
         "colorName": "Fresco",
         "colorNumber": "02048",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Fresco.jpg"
       },
       {
         "colorName": "Harmony",
         "colorNumber": "02050",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Harmony.jpg"
       },
       {
         "colorName": "Watercolor",
         "colorNumber": "02053",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Watercolor.jpg"
       },
       {
         "colorName": "Mural",
         "colorNumber": "05080",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Mural.jpg"
       },
       {
         "colorName": "Artistry",
         "colorNumber": "07063",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Artistry.jpg"
       },
       {
         "colorName": "Prose",
         "colorNumber": "07067",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Prose.jpg"
       },
       {
         "colorName": "Sonnet",
         "colorNumber": "07076",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Sonnet.jpg"
       },
       {
         "colorName": "Muse",
         "colorNumber": "07078",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Muse.jpg"
       },
       {
         "colorName": "Coda",
         "colorNumber": "09045",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Coda.jpg"
       },
       {
         "colorName": "Freeform",
         "colorNumber": "09047",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Expressions/Freeform.jpg"
       }
     ],
     "productSpecs": [
@@ -3348,7 +3348,7 @@
     "brand": "Shaw Floors",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Hardwood/Cornerstone-Oak/Slate.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3363,27 +3363,27 @@
       {
         "colorName": "Slate",
         "colorNumber": "05056",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Slate.jpg"
       },
       {
         "colorName": "Alabaster",
         "colorNumber": "11070",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Alabaster.jpg"
       },
       {
         "colorName": "Limestone",
         "colorNumber": "12020",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Limestone.jpg"
       },
       {
         "colorName": "Shale",
         "colorNumber": "17050",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Shale.jpg"
       },
       {
         "colorName": "Basalt",
         "colorNumber": "19016",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Basalt.jpg"
       }
     ],
     "productSpecs": [
@@ -3403,7 +3403,7 @@
     "brand": "Shaw Floors",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Hardwood/Utmost/Base.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3418,32 +3418,32 @@
       {
         "colorName": "Base",
         "colorNumber": "11066",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Utmost/Base.jpg"
       },
       {
         "colorName": "Endeavor",
         "colorNumber": "11068",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Utmost/Endeavor.jpg"
       },
       {
         "colorName": "Perpetual",
         "colorNumber": "12019",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Utmost/Perpetual.jpg"
       },
       {
         "colorName": "Mindful",
         "colorNumber": "17046",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Utmost/Mindful.jpg"
       },
       {
         "colorName": "Grounded",
         "colorNumber": "17047",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Utmost/Grounded.jpg"
       },
       {
         "colorName": "Intent",
         "colorNumber": "17048",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Utmost/Intent.jpg"
       }
     ],
     "productSpecs": [
@@ -3463,7 +3463,7 @@
     "brand": "Anderson Tuftex",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "/productImages/LVP/VV023-Red-River-Hickory.jpg",
+    "image": "/productImages/Hardwood/Imperial-Pecan/Fawn.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3483,17 +3483,17 @@
       {
         "colorName": "Fawn",
         "colorNumber": "11055",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Fawn.jpg"
       },
       {
         "colorName": "Barley",
         "colorNumber": "11061",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Barley.jpg"
       },
       {
         "colorName": "Harvest",
         "colorNumber": "11063",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Harvest.jpg"
       },
       {
         "colorName": "Flaxen",
@@ -3503,27 +3503,27 @@
       {
         "colorName": "Origin",
         "colorNumber": "15030",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Origin.jpg"
       },
       {
         "colorName": "Dove",
         "colorNumber": "15031",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Dove.jpg"
       },
       {
         "colorName": "Umber",
         "colorNumber": "17033",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Umber.jpg"
       },
       {
         "colorName": "Hazel",
         "colorNumber": "17036",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Hazel.jpg"
       },
       {
         "colorName": "Chestnut",
         "colorNumber": "17040",
-        "colorImage": ""
+        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Chestnut.jpg"
       }
     ],
     "productSpecs": [
