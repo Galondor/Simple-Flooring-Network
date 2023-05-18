@@ -17,7 +17,7 @@ async function getProducts() {
     console.log(productData);
 
       for (let i = 0; i < 3; i++) {
-        products.innerHTML += `<a href="/itemPage.html" class="product_wrapper cptTile_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
+        products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper cptTile_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>

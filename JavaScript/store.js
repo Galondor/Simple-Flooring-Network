@@ -65,7 +65,7 @@ async function getProducts() {
 
     if (currentPage == 1) {
       for (let i = 0; i < 12; i++) {
-        products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
+        products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
@@ -86,7 +86,7 @@ async function getProducts() {
     }
     } else if (currentPage == 2) {
       for (let i = 12; i < 24; i++) {
-        products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
+        products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
@@ -107,7 +107,7 @@ async function getProducts() {
     }
     } else if (currentPage == 3) {
       for (let i = 24; i < 36; i++) {
-        products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
+        products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
@@ -128,7 +128,7 @@ async function getProducts() {
     }
     } else if (currentPage == 4) {
       for (let i = 36; i < 48; i++) {
-        products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
+        products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
@@ -149,7 +149,7 @@ async function getProducts() {
     }
     } else if (currentPage == 5) {
       for (let i = 48; i < 60; i++) {
-        products.innerHTML += `<a href="/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
+        products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
@@ -188,4 +188,9 @@ function changePage() {
  let page = event.target.id;
   currentPage = page;
   getProducts();
+}
+
+function selectedProduct(product) {
+  //Get the poduct data from the clicked product
+  localStorage.setItem('selectedProduct', product);
 }

@@ -13,11 +13,11 @@ async function getProducts() {
   try {
     const response = await fetch('/productData/products.json');
     const data = await response.json();
-    const productData = data.filter(product => product.productType === "LVP");
+    const productData = data.filter(product => product.productType === "Hardwood");
     console.log(productData);
 
-      for (let i = 0; i < 19; i++) {
-        products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
+      for (let i = 0; i < 3; i++) {
+        products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper cptTile_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
@@ -35,7 +35,6 @@ async function getProducts() {
         </div>
         </div>
     </div></a>`;
-    console.log(i)
     }
   } catch (error) {
     console.log(error);
