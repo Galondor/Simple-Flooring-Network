@@ -264,3 +264,7 @@
 .cptTile_wrapper {
     width: calc(100% / 3);
 }
+
+.cptTile_container {
+    padding: 12px;
+}
