@@ -142,7 +142,7 @@ submitBtn.addEventListener("click", () => {
                             <h3 class="npr">NO PET REGRET: 85+</h3>
                             <p>Superior cleanability & waterproof backing</p>
                         </div>
-            <button onclick="location.reload()">Reload</button>
+            <button id="submit" onclick="location.reload()">Reload</button>
             </div>
             `;
             results();
