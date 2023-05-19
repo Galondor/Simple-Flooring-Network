@@ -1675,7 +1675,7 @@
       {
         "colorName": "French Oak",
         "colorNumber": "00257",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Timeless Oak",
@@ -1690,12 +1690,12 @@
       {
         "colorName": "Dutch Oak",
         "colorNumber": "01024",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Wheat Oak",
         "colorNumber": "01025",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Villa Oak",
@@ -1705,12 +1705,12 @@
       {
         "colorName": "Executive Oak",
         "colorNumber": "05079",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Light Pine",
         "colorNumber": "07064",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Ash Oak",
@@ -1720,7 +1720,7 @@
       {
         "colorName": "Barrel Oak",
         "colorNumber": "07066",
-        "colorImage": ".."
+        "colorImage": ""
       }
     ],
     "productSpecs": [
@@ -1771,7 +1771,7 @@
       {
         "colorName": "Boardwalk Oak",
         "colorNumber": "00206",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Rocky Mountain Oak",
@@ -1786,12 +1786,12 @@
       {
         "colorName": "Black Walnut",
         "colorNumber": "00503",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Clear Lake Oak",
         "colorNumber": "00504",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Norwegian Maple",
@@ -1801,7 +1801,7 @@
       {
         "colorName": "Corvallis Pine",
         "colorNumber": "00506",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Dakota Walnut",
@@ -1877,12 +1877,12 @@
       {
         "colorName": "Dune",
         "colorNumber": "00105",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "St Andrew's Oak",
         "colorNumber": "00209",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Kingswood Oak",
@@ -1897,17 +1897,17 @@
       {
         "colorName": "Georgetown Oak",
         "colorNumber": "00701",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Waterfront Oak",
         "colorNumber": "00703",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Saginaw Oak",
         "colorNumber": "00704",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Ivory Coast Oak",
@@ -2018,7 +2018,7 @@
       {
         "colorName": "Enderbury Oak",
         "colorNumber": "00763",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Aden Oak",
@@ -2028,7 +2028,7 @@
       {
         "colorName": "Explorer Oak",
         "colorNumber": "00766",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Aurora Oak",
@@ -2266,7 +2266,7 @@
       {
         "colorName": "Hygge",
         "colorNumber": "02025",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Mangata",
@@ -2276,12 +2276,12 @@
       {
         "colorName": "Cobblestone",
         "colorNumber": "05102",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Lagom",
         "colorNumber": "05103",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Mindful",
@@ -2301,7 +2301,7 @@
       {
         "colorName": "Glogg",
         "colorNumber": "07203",
-        "colorImage": ".."
+        "colorImage": ""
       }
     ],
     "productSpecs": [
@@ -2650,7 +2650,7 @@
       {
         "colorName": "Freonia",
         "colorNumber": "12241",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Arubani",
@@ -2665,12 +2665,12 @@
       {
         "colorName": "Harmonia",
         "colorNumber": "12247",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Ashani",
         "colorNumber": "12249",
-        "colorImage": ".."
+        "colorImage": ""
       }
     ],
     "productSpecs": [
@@ -2706,32 +2706,32 @@
       {
         "colorName": "Egeria",
         "colorNumber": "18241",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Iona",
         "colorNumber": "18242",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Murcia",
         "colorNumber": "18247",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Russa",
         "colorNumber": "18250",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Ambienta",
         "colorNumber": "18251",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Lucetta",
         "colorNumber": "18252",
-        "colorImage": ".."
+        "colorImage": ""
       }
     ],
     "productSpecs": [
@@ -3005,7 +3005,7 @@
       {
         "colorName": "Fresh Driftwood",
         "colorNumber": "01160",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Oceanfront",
@@ -3025,12 +3025,12 @@
       {
         "colorName": "Simple Wash",
         "colorNumber": "02083",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Spalted Maple",
         "colorNumber": "020084",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Lighthouse",
@@ -3060,12 +3060,12 @@
       {
         "colorName": "Casual Comfort",
         "colorNumber": "07294",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Modern Classic",
         "colorNumber": "07295",
-        "colorImage": ".."
+        "colorImage": ""
       }
     ],
     "productSpecs": [
@@ -3478,7 +3478,7 @@
       {
         "colorName": "Antique",
         "colorNumber": "11054",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Fawn",
@@ -3498,7 +3498,7 @@
       {
         "colorName": "Flaxen",
         "colorNumber": "12014",
-        "colorImage": ".."
+        "colorImage": ""
       },
       {
         "colorName": "Origin",
