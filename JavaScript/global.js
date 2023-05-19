@@ -17,7 +17,7 @@ document.addEventListener("click", e => {
 
 const navBar = document.getElementById("nav_bar");
 if (navBar) {
-    navBar.innerHTML = `
+navBar.innerHTML = `
 <div class="row">
     <figure class="logo"><a href="../index.html"><img src="../assets/SFS Logo.png" alt="Logo" class="logo_img"></a></figure>
     <div class="nav_links">
@@ -35,13 +35,14 @@ if (navBar) {
         <a href="#about" class="nav_link link_hover-effect">About Us</a>
         <a href="#contact" class="nav_link link_hover-effect">Contact</a>
         <a href="../index.html" class="nav_link link_hover-effect">Home</a>
-        <a href="" class="nav_link">
+        <a href="" class="tooltip">
             <img class="cart_img" src="../assets/shopping-cart.svg" alt="Shopping-Cart">
             <img class="cart_contents_img" src="../assets/circle.svg" alt=""><span class="cart_amount_img">1</span>
+            <div class="tooltip_container" id="bottom">
+            </div>
         </a>
     </div>
-</div>`;
-}
+</div>`;}
 
 const footer = document.getElementById("footer");
 if (footer) {
@@ -58,6 +59,7 @@ if (footer) {
 <p>Copyright &copy Simple Flooring Solutions. All Rights Reserved.</p>`;
 }
 
+
 updateCart();
 
 function updateCart() {
@@ -72,4 +74,35 @@ if (cart.length === 0) {
     cartAmount.style.opacity = "1"
     cartCircle.style.opacity = "1"
 } 
+renderCart();
+}
+
+function clearCart() {
+    localStorage.removeItem("cart");
+    updateCart();
+}
+
+function renderCart() {
+cartContents = document.querySelector(".tooltip_container");
+const cart = JSON.parse(localStorage.getItem("cart")) || [];
+cartContents.innerHTML = "";
+if (cart.length > 0) {
+    for (let i = 0; i < cart.length; i++) {
+        cartContents.innerHTML += `
+    <span>Cart</span>
+        <div class="cart_products">
+            <div class="cart_product">
+                <span>${cart[i].name}</span>
+                <span>${cart[i].color}</span>
+                <img src"${cart[i].image}"> 
+            </div>
+        </div>
+    <button onclick="clearCart()">Clear Cart</button>
+    `;
+    }
+} 
+
+if (cart.length <= 0) {
+    cartContents.innerHTML = `<span>Your Cart is Empty :(</span>`;
+}
 }

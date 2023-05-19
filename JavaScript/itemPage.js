@@ -102,6 +102,7 @@ async function addProductToCart() {
     name: productData[product - 1].sfnName,
     price: productData[product - 1].price[0].priceValue,
     color: color.textContent,
+    image: currentColor,
   };
 
   cart.push(newItem);
