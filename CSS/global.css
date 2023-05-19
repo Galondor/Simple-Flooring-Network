@@ -247,31 +247,65 @@ footer .row {
     position: absolute;
     background-color: #fff;
     color: #242424;
-    width: 100px;
+    width: 200px;
     font-size: 12px;
     border-radius: 10px;
     padding: 10px 15px 10px 15px;
-    left: 89%;
+    left: 75%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-}
-
-#bottom::before {
-    top: -5%;
-    left: 45%;
-}
-
-.tooltip_container::before {
-    content: "";
-    position: absolute;
-    transform: rotate(45deg);
-    background-color: #fff;
-    padding: 5px;
-    z-index: 1;
+    max-height: 400px;
+    overflow-y: hidden;
 }
 
 .tooltip:hover .tooltip_container {
     visibility: visible;
+}
+
+.cart_product_name {
+    font-size: 16px;
+    font-weight: 800;
+    margin-bottom: 4px;
+    margin-right: 4px;
+}
+
+.cart_product_color {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 4px;
+}
+
+.cart_product_image {
+    height: 40px;
+    width: 40px;
+    margin-right: 16px;
+    border-radius: 8px;
+    transition: all 300ms ease;
+}
+
+.cart_product_image:hover {
+    transform: scale(1.17);
+}
+
+.cart_btn {
+    margin: 8px;
+}
+
+.cart_overflow {
+    font-size: 16px;
+    text-decoration: none;
+    color: #5c5857;
+}
+
+.cart_product {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 8px;
+}
+
+.cart_product_wrapper {
+    display: flex;
+    flex-direction: column;
 }

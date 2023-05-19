@@ -87,20 +87,27 @@ cartContents = document.querySelector(".tooltip_container");
 const cart = JSON.parse(localStorage.getItem("cart")) || [];
 cartContents.innerHTML = "";
 if (cart.length > 0) {
-    for (let i = 0; i < cart.length; i++) {
+    for (let i = 0; i < 3; i++) {
         cartContents.innerHTML += `
-    <span>Cart</span>
         <div class="cart_products">
             <div class="cart_product">
-                <span>${cart[i].name}</span>
-                <span>${cart[i].color}</span>
-                <img src"${cart[i].image}"> 
+                <div class="cart_product_wrapper">
+                    <span class="cart_product_name">${cart[i].name}</span>
+                    <span class="cart_product_color">${cart[i].color}</span>
+                </div>
+                <img src="${cart[i].image}" alt="No Image" class="cart_product_image"> 
             </div>
         </div>
-    <button onclick="clearCart()">Clear Cart</button>
     `;
     }
-} 
+    cartContents.innerHTML += `
+    <button onclick="clearCart()" class="btn cart_btn">Clear Cart</button>
+    <button onclick="" class="btn cart_btn">Checkout</button>
+    `;
+    if (cart.length > 3) {
+        cartContents.innerHTML += `<a href="#" class="cart_overflow" >See (${cart.length - 3}) More Items</a>`;
+    }
+}
 
 if (cart.length <= 0) {
     cartContents.innerHTML = `<span>Your Cart is Empty :(</span>`;
