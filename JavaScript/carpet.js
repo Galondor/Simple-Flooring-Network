@@ -11,13 +11,13 @@ async function getProducts() {
   localStorage.removeItem('selectedProduct');
 
   try {
-    const response = await fetch('/productData/products.json');
+    const response = await fetch('../productData/products.json');
     const data = await response.json();
     const productData = data.filter(product => product.productType === "Carpet");
     console.log(productData);
 
       for (let i = 0; i < productData.length; i++) {
-        products.innerHTML += `<a href="/HTML/itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
+        products.innerHTML += `<a href="itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
         <div class="product" id="product" style="background-image: url(${productData[i].image})">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
