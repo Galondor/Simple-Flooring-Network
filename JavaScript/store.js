@@ -60,7 +60,7 @@ async function getProducts() {
     // };
 
   try {
-    const response = await fetch('../productData/products.json');
+    const response = await fetch('../products.json');
     const data = await response.json();
     productData = data;
     filters.forEach((filter) => {

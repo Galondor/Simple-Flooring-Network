@@ -11,7 +11,7 @@ async function getProducts() {
   localStorage.removeItem('selectedProduct');
 
   try {
-    const response = await fetch('../productData/products.json');
+    const response = await fetch('../products.json');
     const data = await response.json();
     const productData = data.filter(product => product.productType === "Carpet Tile");
     console.log(productData);

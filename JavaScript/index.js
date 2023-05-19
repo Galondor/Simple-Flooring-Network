@@ -1,6 +1,6 @@
 async function getMonthlyProduct() {
     try {
-        const response = await fetch('/productData/products.json');
+        const response = await fetch('../products.json');
         const data = await response.json();
 
         localStorage.setItem("selectedProduct", data[16].sfnStyleNumber);

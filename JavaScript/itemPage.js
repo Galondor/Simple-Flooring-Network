@@ -20,7 +20,7 @@ getProducts();
 //Render Product Details On The Screen
 async function getProducts() {
     try {
-      const response = await fetch('/productData/products.json');
+      const response = await fetch('../products.json');
       const data = await response.json();
       const productData = data;
       console.log(productData);
@@ -93,7 +93,7 @@ async function getProducts() {
 
   //Add Product To Cart
 async function addProductToCart() {
-  const response = await fetch('/productData/products.json');
+  const response = await fetch('../products.json');
   const data = await response.json();
   const productData = data;
 
