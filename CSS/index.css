@@ -29,7 +29,6 @@ body {
 
 #deals {
     height: 100vh;
-    background-image: url(/productImages/Room-Scene/VV023-508-LIFESTYLE.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -117,7 +116,6 @@ body {
 
 #material {
     height: 80vh;
-    background-image: url(/productImages/Room-Scene/VV023-511-ROOM.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -157,13 +155,11 @@ body {
 }
 
 .carpet_panel {
-    background-image: url(/productImages/Room-Scene/Carpet-Panel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .lvp_panel {
-    background-image: url(/productImages/Room-Scene/LVP-Panel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -175,13 +171,11 @@ body {
 }
 
 .wood_panel {
-    background-image: url(/productImages/Room-Scene/Hardwood-Panel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .carpet_tile_panel {
-    background-image: url(/productImages/Room-Scene/Carpet-Tile-Panel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -467,7 +461,6 @@ body {
 
 .carousel_section {
     height: 360px;
-    background-image: url(/productImages/Room-Scene/Ancestry-ROOM.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -565,7 +558,6 @@ header {
 }
 
 .content {
-    background-image: url(/productImages/Room-Scene/VV023-508-ROOM.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
