@@ -18,7 +18,7 @@ async function getProducts() {
 
       for (let i = 0; i < productData.length; i++) {
         products.innerHTML += `<a href="itemPage.html" class="product_wrapper cptTile_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
-        <div class="product" id="product" style="background-image: url(${productData[i].image})">
+        <div class="product" id="product" style="background-image: url(${productData[i].image})" type="jpeg">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
             <h4 class="product_brand">${productData[i].brand}</h4>
@@ -28,10 +28,10 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
-            <figure class="color_wrapper"><img src="${productData[i].colors[0].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt=""></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt=""></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[0].colorImage}" alt="" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt="" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt="" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt="" type="jpeg"></figure>
         </div>
         </div>
     </div></a>`;
