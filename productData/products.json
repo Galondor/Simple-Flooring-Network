@@ -7,7 +7,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Without-Limits-2/Heather.jpg",
+    "image": "../productImages/Carpet/Without-Limits-2/Heather.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -22,77 +22,77 @@
       {
         "colorName": "Heather",
         "colorNumber": "00100",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Heather.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Heather.jpg"
       },
       {
         "colorName": "Abalone",
         "colorNumber": "00101",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Abalone.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Abalone.jpg"
       },
       {
         "colorName": "Macadamia",
         "colorNumber": "00102",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Macadamia.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Macadamia.jpg"
       },
       {
         "colorName": "Sandbank",
         "colorNumber": "00103",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Sandbank.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Sandbank.jpg"
       },
       {
         "colorName": "Travatan",
         "colorNumber": "00104",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Travatan.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Travatan.jpg"
       },
       {
         "colorName": "Misty Mica",
         "colorNumber": "00105",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Misty-Mica.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Misty-Mica.jpg"
       },
       {
         "colorName": "Organic",
         "colorNumber": "00300",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Organic.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Organic.jpg"
       },
       {
         "colorName": "Stainless",
         "colorNumber": "00500",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Stainless.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Stainless.jpg"
       },
       {
         "colorName": "Tundra",
         "colorNumber": "00501",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Tundra.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Tundra.jpg"
       },
       {
         "colorName": "Silver Spoon",
         "colorNumber": "00502",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Silver-Spoon.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Silver-Spoon.jpg"
       },
       {
         "colorName": "Granite",
         "colorNumber": "00503",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Granite.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Granite.jpg"
       },
       {
         "colorName": "Saddle Tan",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Saddle-Tan.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Saddle-Tan.jpg"
       },
       {
         "colorName": "Bountiful",
         "colorNumber": "00701",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Bountiful.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Bountiful.jpg"
       },
       {
         "colorName": "Boardwalk",
         "colorNumber": "00702",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Boardwalk.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Boardwalk.jpg"
       },
       {
         "colorName": "Derby",
         "colorNumber": "00703",
-        "colorImage": "/productImages/Carpet/Without-Limits-2/Derby.jpg"
+        "colorImage": "../productImages/Carpet/Without-Limits-2/Derby.jpg"
       }
     ],
     "productSpecs": [
@@ -113,7 +113,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Montage-1/Painters-Canvas.jpg",
+    "image": "../productImages/Carpet/Montage-1/Painters-Canvas.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -128,92 +128,92 @@
       {
         "colorName": "Painter's Canvas",
         "colorNumber": "100S",
-        "colorImage": "/productImages/Carpet/Montage-1/Painters-Canvas.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Painters-Canvas.jpg"
       },
       {
         "colorName": "Sculptor Clay",
         "colorNumber": "101S",
-        "colorImage": "/productImages/Carpet/Montage-1/Sculptor-Clay.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Sculptor-Clay.jpg"
       },
       {
         "colorName": "Parisian Lights",
         "colorNumber": "102S",
-        "colorImage": "/productImages/Carpet/Montage-1/Parisian-Lights.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Parisian-Lights.jpg"
       },
       {
         "colorName": "Polished Stone",
         "colorNumber": "103S",
-        "colorImage": "/productImages/Carpet/Montage-1/Polished-Stone.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Polished-Stone.jpg"
       },
       {
         "colorName": "Shoreline Haze",
         "colorNumber": "120T",
-        "colorImage": "/productImages/Carpet/Montage-1/Shoreline-Haze.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Shoreline-Haze.jpg"
       },
       {
         "colorName": "Chateau",
         "colorNumber": "121T",
-        "colorImage": "/productImages/Carpet/Montage-1/Chateau.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Chateau.jpg"
       },
       {
         "colorName": "Spun Wool",
         "colorNumber": "130A",
-        "colorImage": "/productImages/Carpet/Montage-1/Spun-Wool.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Spun-Wool.jpg"
       },
       {
         "colorName": "Morning Frost",
         "colorNumber": "131A",
-        "colorImage": "/productImages/Carpet/Montage-1/Morning-Frost.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Morning-Frost.jpg"
       },
       {
         "colorName": "Lunar Surface",
         "colorNumber": "140A",
-        "colorImage": "/productImages/Carpet/Montage-1/Lunar-Surface.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Lunar-Surface.jpg"
       },
       {
         "colorName": "Adobe",
         "colorNumber": "141A",
-        "colorImage": "/productImages/Carpet/Montage-1/Adobe.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Adobe.jpg"
       },
       {
         "colorName": "Classic Silver",
         "colorNumber": "500S",
-        "colorImage": "/productImages/Carpet/Montage-1/Classic-Silver.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Classic-Silver.jpg"
       },
       {
         "colorName": "Cosmic Quest",
         "colorNumber": "501S",
-        "colorImage": "/productImages/Carpet/Montage-1/Cosmic-Quest.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Cosmic-Quest.jpg"
       },
       {
         "colorName": "Carbon Copy",
         "colorNumber": "520T",
-        "colorImage": "/productImages/Carpet/Montage-1/Carbon-Copy.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Carbon-Copy.jpg"
       },
       {
         "colorName": "River Rock",
         "colorNumber": "530A",
-        "colorImage": "/productImages/Carpet/Montage-1/River-Rock.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/River-Rock.jpg"
       },
       {
         "colorName": "Hidden Treasure",
         "colorNumber": "700S",
-        "colorImage": "/productImages/Carpet/Montage-1/Hidden-Treasure.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Hidden-Treasure.jpg"
       },
       {
         "colorName": "Mission",
         "colorNumber": "701S",
-        "colorImage": "/productImages/Carpet/Montage-1/Mission.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Mission.jpg"
       },
       {
         "colorName": "Midtown Brown",
         "colorNumber": "720T",
-        "colorImage": "/productImages/Carpet/Montage-1/Midtown-Brown.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Midtown-Brown.jpg"
       },
       {
         "colorName": "Tempting Taupe",
         "colorNumber": "740A",
-        "colorImage": "/productImages/Carpet/Montage-1/Tempting-Taupe.jpg"
+        "colorImage": "../productImages/Carpet/Montage-1/Tempting-Taupe.jpg"
       }
     ],
     "productSpecs": [
@@ -234,7 +234,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Boundless-4/White-Wash.jpg",
+    "image": "../productImages/Carpet/Boundless-4/White-Wash.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -249,72 +249,72 @@
       {
         "colorName": "White Wash",
         "colorNumber": "00100",
-        "colorImage": "/productImages/Carpet/Boundless-4/White-Wash.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/White-Wash.jpg"
       },
       {
         "colorName": "Slate Stone",
         "colorNumber": "00105",
-        "colorImage": "/productImages/Carpet/Boundless-4/Slate-Stone.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Slate-Stone.jpg"
       },
       {
         "colorName": "Creamery",
         "colorNumber": "00130",
-        "colorImage": "/productImages/Carpet/Boundless-4/Creamery.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Creamery.jpg"
       },
       {
         "colorName": "Soft Breeze",
         "colorNumber": "00131",
-        "colorImage": "/productImages/Carpet/Boundless-4/Soft-Breeze.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Soft-Breeze.jpg"
       },
       {
         "colorName": "Morning Light",
         "colorNumber": "00140",
-        "colorImage": "/productImages/Carpet/Boundless-4/Morning-Light.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Morning-Light.jpg"
       },
       {
         "colorName": "Distant Star",
         "colorNumber": "00141",
-        "colorImage": "/productImages/Carpet/Boundless-4/Distant-Star.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Distant-Star.jpg"
       },
       {
         "colorName": "Magnetic",
         "colorNumber": "00502",
-        "colorImage": "/productImages/Carpet/Boundless-4/Magnetic.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Magnetic.jpg"
       },
       {
         "colorName": "Reflection",
         "colorNumber": "00530",
-        "colorImage": "/productImages/Carpet/Boundless-4/Reflection.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Reflection.jpg"
       },
       {
         "colorName": "Woodcraft",
         "colorNumber": "00701",
-        "colorImage": "/productImages/Carpet/Boundless-4/Woodcraft.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Woodcraft.jpg"
       },
       {
         "colorName": "Gateway",
         "colorNumber": "00702",
-        "colorImage": "/productImages/Carpet/Boundless-4/Gateway.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Gateway.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00703",
-        "colorImage": "/productImages/Carpet/Boundless-4/Shadow.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Shadow.jpg"
       },
       {
         "colorName": "Dreamscape",
         "colorNumber": "00740",
-        "colorImage": "/productImages/Carpet/Boundless-4/Dreamscape.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Dreamscape.jpg"
       },
       {
         "colorName": "Chestnut Ridge",
         "colorNumber": "00751",
-        "colorImage": "/productImages/Carpet/Boundless-4/Chestnut-Ridge.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Chestnut-Ridge.jpg"
       },
       {
         "colorName": "Cabana",
         "colorNumber": "00752",
-        "colorImage": "/productImages/Carpet/Boundless-4/Cabana.jpg"
+        "colorImage": "../productImages/Carpet/Boundless-4/Cabana.jpg"
       }
     ],
     "productSpecs": [
@@ -335,7 +335,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Yes-You-Can/Seashell.jpg",
+    "image": "../productImages/Carpet/Yes-You-Can/Seashell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -350,122 +350,122 @@
       {
         "colorName": "Seashell",
         "colorNumber": "00100",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Seashell.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Seashell.jpg"
       },
       {
         "colorName": "Marble",
         "colorNumber": "00103",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Marble.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Marble.jpg"
       },
       {
         "colorName": "Frozen",
         "colorNumber": "00107",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Frozen.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Frozen.jpg"
       },
       {
         "colorName": "Natural",
         "colorNumber": "00109",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Natural.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Natural.jpg"
       },
       {
         "colorName": "Glacier",
         "colorNumber": "00110",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Glacier.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Glacier.jpg"
       },
       {
         "colorName": "Chic Greige",
         "colorNumber": "00111",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Chic-Greige.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Chic-Greige.jpg"
       },
       {
         "colorName": "Soft Sense",
         "colorNumber": "00112",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Soft-Sense.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Soft-Sense.jpg"
       },
       {
         "colorName": "Cameo",
         "colorNumber": "00113",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Cameo.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Cameo.jpg"
       },
       {
         "colorName": "Subtle Clay",
         "colorNumber": "00114",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Subtle-Clay.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Subtle-Clay.jpg"
       },
       {
         "colorName": "Sculpture",
         "colorNumber": "00115",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Sculpture.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Sculpture.jpg"
       },
       {
         "colorName": "Warm Light",
         "colorNumber": "00116",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Warm-Light.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Warm-Light.jpg"
       },
       {
         "colorName": "Honeycomb",
         "colorNumber": "00207",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Honeycomb.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Honeycomb.jpg"
       },
       {
         "colorName": "Rerooted Nature",
         "colorNumber": "00300",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Rerooted-Nature.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Rerooted-Nature.jpg"
       },
       {
         "colorName": "Refined",
         "colorNumber": "00402",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Refined.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Refined.jpg"
       },
       {
         "colorName": "Sea Ice",
         "colorNumber": "00403",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Sea-Ice.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Sea-Ice.jpg"
       },
       {
         "colorName": "Alaskan Air",
         "colorNumber": "00500",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Alaskan-Air.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Alaskan-Air.jpg"
       },
       {
         "colorName": "Ashes",
         "colorNumber": "00501",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Ashes.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Ashes.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00502",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Shadow.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Shadow.jpg"
       },
       {
         "colorName": "Rock Crystal",
         "colorNumber": "00508",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Rock-Crystal.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Rock-Crystal.jpg"
       },
       {
         "colorName": "Vintage",
         "colorNumber": "00509",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Vintage.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Vintage.jpg"
       },
       {
         "colorName": "Worn Path",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Worn-Path.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Worn-Path.jpg"
       },
       {
         "colorName": "Mission Ridge",
         "colorNumber": "00705",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Mission-Ridge.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Mission-Ridge.jpg"
       },
       {
         "colorName": "Cafe Noir",
         "colorNumber": "00706",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Cafe-Noir.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Cafe-Noir.jpg"
       },
       {
         "colorName": "Urban Rustic",
         "colorNumber": "00708",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Urban-Rustic.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Urban-Rustic.jpg"
       }
     ],
     "productSpecs": [
@@ -486,7 +486,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Yes-You-Can/Seashell.jpg",
+    "image": "../productImages/Carpet/Yes-You-Can/Seashell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -501,122 +501,122 @@
       {
         "colorName": "Seashell",
         "colorNumber": "00100",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Seashell.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Seashell.jpg"
       },
       {
         "colorName": "Marble",
         "colorNumber": "00103",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Marble.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Marble.jpg"
       },
       {
         "colorName": "Frozen",
         "colorNumber": "00107",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Frozen.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Frozen.jpg"
       },
       {
         "colorName": "Natural",
         "colorNumber": "00109",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Natural.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Natural.jpg"
       },
       {
         "colorName": "Glacier",
         "colorNumber": "00110",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Glacier.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Glacier.jpg"
       },
       {
         "colorName": "Chic Greige",
         "colorNumber": "00111",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Chic-Greige.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Chic-Greige.jpg"
       },
       {
         "colorName": "Soft Sense",
         "colorNumber": "00112",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Soft-Sense.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Soft-Sense.jpg"
       },
       {
         "colorName": "Cameo",
         "colorNumber": "00113",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Cameo.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Cameo.jpg"
       },
       {
         "colorName": "Subtle Clay",
         "colorNumber": "00114",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Subtle-Clay.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Subtle-Clay.jpg"
       },
       {
         "colorName": "Sculpture",
         "colorNumber": "00115",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Sculpture.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Sculpture.jpg"
       },
       {
         "colorName": "Warm Light",
         "colorNumber": "00116",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Warm-Light.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Warm-Light.jpg"
       },
       {
         "colorName": "Honeycomb",
         "colorNumber": "00207",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Honeycomb.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Honeycomb.jpg"
       },
       {
         "colorName": "Rerooted Nature",
         "colorNumber": "00300",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Rerooted-Nature.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Rerooted-Nature.jpg"
       },
       {
         "colorName": "Refined",
         "colorNumber": "00402",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Refined.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Refined.jpg"
       },
       {
         "colorName": "Sea Ice",
         "colorNumber": "00403",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Sea-Ice.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Sea-Ice.jpg"
       },
       {
         "colorName": "Alaskan Air",
         "colorNumber": "00500",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Alaskan-Air.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Alaskan-Air.jpg"
       },
       {
         "colorName": "Ashes",
         "colorNumber": "00501",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Ashes.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Ashes.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00502",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Shadow.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Shadow.jpg"
       },
       {
         "colorName": "Rock Crystal",
         "colorNumber": "00508",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Rock-Crystal.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Rock-Crystal.jpg"
       },
       {
         "colorName": "Vintage",
         "colorNumber": "00509",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Vintage.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Vintage.jpg"
       },
       {
         "colorName": "Worn Path",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Worn-Path.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Worn-Path.jpg"
       },
       {
         "colorName": "Mission Ridge",
         "colorNumber": "00705",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Mission-Ridge.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Mission-Ridge.jpg"
       },
       {
         "colorName": "Cafe Noir",
         "colorNumber": "00706",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Cafe-Noir.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Cafe-Noir.jpg"
       },
       {
         "colorName": "Urban Rustic",
         "colorNumber": "00708",
-        "colorImage": "/productImages/Carpet/Yes-You-Can/Urban-Rustic.jpg"
+        "colorImage": "../productImages/Carpet/Yes-You-Can/Urban-Rustic.jpg"
       }
     ],
     "productSpecs": [
@@ -637,7 +637,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Run-Free/Almond-Silk.jpg",
+    "image": "../productImages/Carpet/Run-Free/Almond-Silk.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -652,77 +652,77 @@
       {
         "colorName": "Almond Silk",
         "colorNumber": "00101",
-        "colorImage": "/productImages/Carpet/Run-Free/Almond-Silk.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Almond-Silk.jpg"
       },
       {
         "colorName": "Marble",
         "colorNumber": "00103",
-        "colorImage": "/productImages/Carpet/Run-Free/Marble.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Marble.jpg"
       },
       {
         "colorName": "Cashmere",
         "colorNumber": "00104",
-        "colorImage": "/productImages/Carpet/Run-Free/Cashmere.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Cashmere.jpg"
       },
       {
         "colorName": "River Birch",
         "colorNumber": "00106",
-        "colorImage": "/productImages/Carpet/Run-Free/River-Birch.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/River-Birch.jpg"
       },
       {
         "colorName": "Natural",
         "colorNumber": "00109",
-        "colorImage": "/productImages/Carpet/Run-Free/Natural.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Natural.jpg"
       },
       {
         "colorName": "Cameo",
         "colorNumber": "00113",
-        "colorImage": "/productImages/Carpet/Run-Free/Cameo.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Cameo.jpg"
       },
       {
         "colorName": "Sculpture",
         "colorNumber": "00115",
-        "colorImage": "/productImages/Carpet/Run-Free/Sculpture.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Sculpture.jpg"
       },
       {
         "colorName": "Warm Light",
         "colorNumber": "00116",
-        "colorImage": "/productImages/Carpet/Run-Free/Warm-Light.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Warm-Light.jpg"
       },
       {
         "colorName": "Snowfall",
         "colorNumber": "00150",
-        "colorImage": "/productImages/Carpet/Run-Free/Snowfall.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Snowfall.jpg"
       },
       {
         "colorName": "Refined",
         "colorNumber": "00402",
-        "colorImage": "/productImages/Carpet/Run-Free/Refined.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Refined.jpg"
       },
       {
         "colorName": "Ashes",
         "colorNumber": "00501",
-        "colorImage": "/productImages/Carpet/Run-Free/Ashes.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Ashes.jpg"
       },
       {
         "colorName": "Flannel",
         "colorNumber": "00503",
-        "colorImage": "/productImages/Carpet/Run-Free/Flannel.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Flannel.jpg"
       },
       {
         "colorName": "Rock Crystal",
         "colorNumber": "00508",
-        "colorImage": "/productImages/Carpet/Run-Free/Rock-Crystal.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Rock-Crystal.jpg"
       },
       {
         "colorName": "Vintage",
         "colorNumber": "00509",
-        "colorImage": "/productImages/Carpet/Run-Free/Vintage.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Vintage.jpg"
       },
       {
         "colorName": "Gravity",
         "colorNumber": "00556",
-        "colorImage": "/productImages/Carpet/Run-Free/Gravity.jpg"
+        "colorImage": "../productImages/Carpet/Run-Free/Gravity.jpg"
       }
     ],
     "productSpecs": [
@@ -743,7 +743,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "NPR",
-    "image": "/productImages/Carpet/Take-The-Floor-Accent-2/Italiano.jpg",
+    "image": "../productImages/Carpet/Take-The-Floor-Accent-2/Italiano.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -758,52 +758,52 @@
       {
         "colorName": "Italiano",
         "colorNumber": "00170",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Italiano.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Italiano.jpg"
       },
       {
         "colorName": "Riverbed",
         "colorNumber": "00171",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Riverbed.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Riverbed.jpg"
       },
       {
         "colorName": "Desert Sunrise",
         "colorNumber": "00172",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Desert-Sunrise.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Desert-Sunrise.jpg"
       },
       {
         "colorName": "Avalanche",
         "colorNumber": "00173",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Avalanche.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Avalanche.jpg"
       },
       {
         "colorName": "Luna",
         "colorNumber": "00174",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Luna.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Luna.jpg"
       },
       {
         "colorName": "Everest",
         "colorNumber": "00176",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Everest.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Everest.jpg"
       },
       {
         "colorName": "Cold Springs",
         "colorNumber": "00570",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Cold-Springs.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Cold-Springs.jpg"
       },
       {
         "colorName": "Soapstone",
         "colorNumber": "00571",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Soapstone.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Soapstone.jpg"
       },
       {
         "colorName": "Baltic Brown",
         "colorNumber": "00770",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Baltic-Brown.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Baltic-Brown.jpg"
       },
       {
         "colorName": "Storm",
         "colorNumber": "00771",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Accent-2/Storm.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Accent-2/Storm.jpg"
       }
     ],
     "productSpecs": [
@@ -824,7 +824,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "NPR",
-    "image": "/productImages/Carpet/Take-The-Floor-Tonal-2/Shoreline-Haze.jpg",
+    "image": "../productImages/Carpet/Take-The-Floor-Tonal-2/Shoreline-Haze.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -839,92 +839,92 @@
       {
         "colorName": "Shoreline Haze",
         "colorNumber": "0128T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Shoreline-Haze.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Shoreline-Haze.jpg"
       },
       {
         "colorName": "Star Gazing",
         "colorNumber": "0433T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Star-Gazing.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Star-Gazing.jpg"
       },
       {
         "colorName": "Sail Away",
         "colorNumber": "0436T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Sail-Away.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Sail-Away.jpg"
       },
       {
         "colorName": "Washed Indigo",
         "colorNumber": "0440T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Washed-Indigo.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Washed-Indigo.jpg"
       },
       {
         "colorName": "Dolphin Sighting",
         "colorNumber": "0510T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Dolphin-Sighting.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Dolphin-Sighting.jpg"
       },
       {
         "colorName": "Restful Day",
         "colorNumber": "0512T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Restful-Day.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Restful-Day.jpg"
       },
       {
         "colorName": "Lighthouse Shadows",
         "colorNumber": "0520T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Lighthouse-Shadows.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Lighthouse-Shadows.jpg"
       },
       {
         "colorName": "Movie Night",
         "colorNumber": "0533T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Movie-Night.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Movie-Night.jpg"
       },
       {
         "colorName": "Whisper",
         "colorNumber": "0536T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Whisper.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Whisper.jpg"
       },
       {
         "colorName": "Chocolate Treat",
         "colorNumber": "0707T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Chocolate-Treat.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Chocolate-Treat.jpg"
       },
       {
         "colorName": "Summer House",
         "colorNumber": "0708T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Summer-House.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Summer-House.jpg"
       },
       {
         "colorName": "Falling Leaves",
         "colorNumber": "0720T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Falling-Leaves.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Falling-Leaves.jpg"
       },
       {
         "colorName": "Dockside View",
         "colorNumber": "0722T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Dockside-View.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Dockside-View.jpg"
       },
       {
         "colorName": "Back Patio",
         "colorNumber": "0724T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Back-Patio.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Back-Patio.jpg"
       },
       {
         "colorName": "My Haven",
         "colorNumber": "0743T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/My-Haven.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/My-Haven.jpg"
       },
       {
         "colorName": "Camping Trip",
         "colorNumber": "0749T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Camping-Trip.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Camping-Trip.jpg"
       },
       {
         "colorName": "Honey Tea",
         "colorNumber": "0750T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Honey-Tea.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Honey-Tea.jpg"
       },
       {
         "colorName": "Lilac Field",
         "colorNumber": "0901T",
-        "colorImage": "/productImages/Carpet/Take-The-Floor-Tonal-2/Lilac-Field.jpg"
+        "colorImage": "../productImages/Carpet/Take-The-Floor-Tonal-2/Lilac-Field.jpg"
       }
     ],
     "productSpecs": [
@@ -945,7 +945,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Better",
-    "image": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Clean-Linen.jpg",
+    "image": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Clean-Linen.jpg",
     "creatingImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Creating.jpg",
     "makingImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Making.jpg",
     "warmImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Warm.jpg",
@@ -963,102 +963,102 @@
       {
         "colorName": "Clean Linen",
         "colorNumber": "122P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Clean-Linen.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Clean-Linen.jpg"
       },
       {
         "colorName": "Homemade Ice Cream",
         "colorNumber": "124P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Homemade-Ice-Cream.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Homemade-Ice-Cream.jpg"
       },
       {
         "colorName": "Gallery Opening",
         "colorNumber": "125P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Gallery-Opening.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Gallery-Opening.jpg"
       },
       {
         "colorName": "Chill In The Air",
         "colorNumber": "126P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Chill-In-The-Air.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Chill-In-The-Air.jpg"
       },
       {
         "colorName": "Shoreline Haze",
         "colorNumber": "128P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Shoreline-Haze.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Shoreline-Haze.jpg"
       },
       {
         "colorName": "Need A Hug",
         "colorNumber": "129P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Need-A-Hug.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Need-A-Hug.jpg"
       },
       {
         "colorName": "Wedding Day",
         "colorNumber": "150P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Wedding-Day.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Wedding-Day.jpg"
       },
       {
         "colorName": "Coming Home",
         "colorNumber": "151P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Coming-Home.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Coming-Home.jpg"
       },
       {
         "colorName": "Champagne Toast",
         "colorNumber": "153P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Champagne-Toast.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Champagne-Toast.jpg"
       },
       {
         "colorName": "Cake Frosting",
         "colorNumber": "155P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Cake-Frosting.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Cake-Frosting.jpg"
       },
       {
         "colorName": "Water's Edge",
         "colorNumber": "430P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Waters-Edge.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Waters-Edge.jpg"
       },
       {
         "colorName": "Washed Indigo",
         "colorNumber": "440P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Washed-Indigo.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Washed-Indigo.jpg"
       },
       {
         "colorName": "Restful Day",
         "colorNumber": "512P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Restful-Day.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Restful-Day.jpg"
       },
       {
         "colorName": "Quiet Time",
         "colorNumber": "514P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Quiet-Time.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Quiet-Time.jpg"
       },
       {
         "colorName": "Cool Breeze",
         "colorNumber": "525P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Cool-Breeze.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Cool-Breeze.jpg"
       },
       {
         "colorName": "Dockside View",
         "colorNumber": "722P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Dockside-View.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Dockside-View.jpg"
       },
       {
         "colorName": "Back Patio",
         "colorNumber": "724P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Back-Patio.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Back-Patio.jpg"
       },
       {
         "colorName": "My Haven",
         "colorNumber": "743P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/My-Haven.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/My-Haven.jpg"
       },
       {
         "colorName": "Camping Trip",
         "colorNumber": "749P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Camping-Trip.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Camping-Trip.jpg"
       },
       {
         "colorName": "Subtle Blush",
         "colorNumber": "800P",
-        "colorImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Colors/Subtle-Blush.jpg"
+        "colorImage": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Subtle-Blush.jpg"
       }
     ],
     "productSpecs": [
@@ -1079,7 +1079,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Better",
-    "image": "/productImages/Carpet/Artistic-Fusion-2/Sea-Shell.jpg",
+    "image": "../productImages/Carpet/Artistic-Fusion-2/Sea-Shell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1094,92 +1094,92 @@
       {
         "colorName": "Sea Shell",
         "colorNumber": "00100",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Sea-Shell.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Sea-Shell.jpg"
       },
       {
         "colorName": "Cashmere",
         "colorNumber": "00104",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Cashmere.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Cashmere.jpg"
       },
       {
         "colorName": "Frozen",
         "colorNumber": "00107",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Frozen.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Frozen.jpg"
       },
       {
         "colorName": "Soft Sense",
         "colorNumber": "00112",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Soft-Sense.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Soft-Sense.jpg"
       },
       {
         "colorName": "Cameo",
         "colorNumber": "00113",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Cameo.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Cameo.jpg"
       },
       {
         "colorName": "Warm Light",
         "colorNumber": "00116",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Warm-Light.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Warm-Light.jpg"
       },
       {
         "colorName": "Moonwalk",
         "colorNumber": "00118",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Moonwalk.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Moonwalk.jpg"
       },
       {
         "colorName": "Honeycomb",
         "colorNumber": "00207",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Honeycomb.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Honeycomb.jpg"
       },
       {
         "colorName": "Ocean",
         "colorNumber": "00207",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Ocean.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Ocean.jpg"
       },
       {
         "colorName": "Refined",
         "colorNumber": "00402",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Refined.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Refined.jpg"
       },
       {
         "colorName": "Sea Ice",
         "colorNumber": "00403",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Sea-Ice.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Sea-Ice.jpg"
       },
       {
         "colorName": "Ashes",
         "colorNumber": "00501",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Ashes.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Ashes.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00502",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Shadow.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Shadow.jpg"
       },
       {
         "colorName": "Vintage",
         "colorNumber": "00509",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Vintage.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Vintage.jpg"
       },
       {
         "colorName": "Orange Oxide",
         "colorNumber": "00651",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Orange-Oxide.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Orange-Oxide.jpg"
       },
       {
         "colorName": "Cafe Noir",
         "colorNumber": "00706",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Cafe-Noir.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Cafe-Noir.jpg"
       },
       {
         "colorName": "Urban Rustic",
         "colorNumber": "00708",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Urban-Rustic.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Urban-Rustic.jpg"
       },
       {
         "colorName": "Midnight Brown",
         "colorNumber": "00756",
-        "colorImage": "/productImages/Carpet/Artistic-Fusion-2/Midnight-Brown.jpg"
+        "colorImage": "../productImages/Carpet/Artistic-Fusion-2/Midnight-Brown.jpg"
       }
     ],
     "productSpecs": [
@@ -1200,7 +1200,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Perpetual-2/Eggshell.jpg",
+    "image": "../productImages/Carpet/Perpetual-2/Eggshell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1215,62 +1215,62 @@
       {
         "colorName": "Eggshell",
         "colorNumber": "00102",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Eggshell.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Eggshell.jpg"
       },
       {
         "colorName": "Oatmeal",
         "colorNumber": "00108",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Oatmeal.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Oatmeal.jpg"
       },
       {
         "colorName": "Freckles",
         "colorNumber": "00109",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Freckles.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Freckles.jpg"
       },
       {
         "colorName": "Gold Rush",
         "colorNumber": "00200",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Gold-Rush.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Gold-Rush.jpg"
       },
       {
         "colorName": "Aquamarine",
         "colorNumber": "00400",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Aquamarine.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Aquamarine.jpg"
       },
       {
         "colorName": "Fog",
         "colorNumber": "00503",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Fog.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Fog.jpg"
       },
       {
         "colorName": "Shadow",
         "colorNumber": "00504",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Shadow.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Shadow.jpg"
       },
       {
         "colorName": "Steel",
         "colorNumber": "00505",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Steel.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Steel.jpg"
       },
       {
         "colorName": "Truffle",
         "colorNumber": "00506",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Truffle.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Truffle.jpg"
       },
       {
         "colorName": "Khaki",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Khaki.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Khaki.jpg"
       },
       {
         "colorName": "Portobello",
         "colorNumber": "00703",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Portobello.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Portobello.jpg"
       },
       {
         "colorName": "Leather",
         "colorNumber": "00704",
-        "colorImage": "/productImages/Carpet/Perpetual-2/Leather.jpg"
+        "colorImage": "../productImages/Carpet/Perpetual-2/Leather.jpg"
       }
     ],
     "productSpecs": [
@@ -1291,7 +1291,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Home-Within/Frozen.jpg",
+    "image": "../productImages/Carpet/Home-Within/Frozen.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1306,82 +1306,82 @@
       {
         "colorName": "Frozen",
         "colorNumber": "00107",
-        "colorImage": "/productImages/Carpet/Home-Within/Frozen.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Frozen.jpg"
       },
       {
         "colorName": "Natural",
         "colorNumber": "00109",
-        "colorImage": "/productImages/Carpet/Home-Within/Natural.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Natural.jpg"
       },
       {
         "colorName": "Chic Greige",
         "colorNumber": "00111",
-        "colorImage": "/productImages/Carpet/Home-Within/Chic-Greige.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Chic-Greige.jpg"
       },
       {
         "colorName": "Soft Sense",
         "colorNumber": "00112",
-        "colorImage": "/productImages/Carpet/Home-Within/Soft-Sense.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Soft-Sense.jpg"
       },
       {
         "colorName": "Cameo",
         "colorNumber": "00113",
-        "colorImage": "/productImages/Carpet/Home-Within/Cameo.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Cameo.jpg"
       },
       {
         "colorName": "Snowfall",
         "colorNumber": "00150",
-        "colorImage": "/productImages/Carpet/Home-Within/Snowfall.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Snowfall.jpg"
       },
       {
         "colorName": "Rerooted Nature",
         "colorNumber": "00300",
-        "colorImage": "/productImages/Carpet/Home-Within/Rerooted-Nature.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Rerooted-Nature.jpg"
       },
       {
         "colorName": "Refined",
         "colorNumber": "00402",
-        "colorImage": "/productImages/Carpet/Home-Within/Refined.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Refined.jpg"
       },
       {
         "colorName": "Serene Blue",
         "colorNumber": "00453",
-        "colorImage": "/productImages/Carpet/Home-Within/Serene-Blue.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Serene-Blue.jpg"
       },
       {
         "colorName": "Ashes",
         "colorNumber": "00501",
-        "colorImage": "/productImages/Carpet/Home-Within/Ashes.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Ashes.jpg"
       },
       {
         "colorName": "Rock Crystal",
         "colorNumber": "00508",
-        "colorImage": "/productImages/Carpet/Home-Within/Rock-Crystal.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Rock-Crystal.jpg"
       },
       {
         "colorName": "Vintage",
         "colorNumber": "00509",
-        "colorImage": "/productImages/Carpet/Home-Within/Vintage.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Vintage.jpg"
       },
       {
         "colorName": "Lilac",
         "colorNumber": "00550",
-        "colorImage": "/productImages/Carpet/Home-Within/Lilac.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Lilac.jpg"
       },
       {
         "colorName": "Gravity",
         "colorNumber": "00556",
-        "colorImage": "/productImages/Carpet/Home-Within/Gravity.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Gravity.jpg"
       },
       {
         "colorName": "Worn Path",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet/Home-Within/Worn-Path.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Worn-Path.jpg"
       },
       {
         "colorName": "Cafe Noir",
         "colorNumber": "00706",
-        "colorImage": "/productImages/Carpet/Home-Within/Cafe-Noir.jpg"
+        "colorImage": "../productImages/Carpet/Home-Within/Cafe-Noir.jpg"
       }
     ],
     "productSpecs": [
@@ -1402,7 +1402,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Value",
-    "image": "/productImages/Carpet/Right-Choice/Gallery-Opening.jpg",
+    "image": "../productImages/Carpet/Right-Choice/Gallery-Opening.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1417,47 +1417,47 @@
       {
         "colorName": "Gallery Opening",
         "colorNumber": "00110",
-        "colorImage": "/productImages/Carpet/Right-Choice/Gallery-Opening.jpg"
+        "colorImage": "../productImages/Carpet/Right-Choice/Gallery-Opening.jpg"
       },
       {
         "colorName": "Baltic Stone",
         "colorNumber": "00111",
-        "colorImage": "/productImages/Carpet/Right-Choice/Baltic-Stone.jpg"
+        "colorImage": "../productImages/Carpet/Right-Choice/Baltic-Stone.jpg"
       },
       {
         "colorName": "Champagne Toast",
         "colorNumber": "00112",
-        "colorImage": "/productImages/Carpet/Right-Choice/Champagne-Toast.jpg"
+        "colorImage": "../productImages/Carpet/Right-Choice/Champagne-Toast.jpg"
       },
       {
         "colorName": "Sandstone",
         "colorNumber": "00113",
-        "colorImage": "/productImages/Carpet/Right-Choice/Sandstone.jpg"
+        "colorImage": "../productImages/Carpet/Right-Choice/Sandstone.jpg"
       },
       {
         "colorName": "Mega Taupe",
         "colorNumber": "00114",
-        "colorImage": "/productImages/Carpet/Right-Choice/Mega-Taupe.jpg"
+        "colorImage": "../productImages/Carpet/Right-Choice/Mega-Taupe.jpg"
       },
       {
         "colorName": "DoveTail",
         "colorNumber": "00510",
-        "colorImage": "/productImages/Carpet/Right-Choice/DoveTail.jpg"
+        "colorImage": "../productImages/Carpet/Right-Choice/DoveTail.jpg"
       },
       {
         "colorName": "Gauntlet Gray",
         "colorNumber": "00511",
-        "colorImage": "/productImages/Carpet/Right-Choice/Gauntlet-Gray.jpg"
+        "colorImage": "../productImages/Carpet/Right-Choice/Gauntlet-Gray.jpg"
       },
       {
         "colorName": "Raw Wood",
         "colorNumber": "00710",
-        "colorImage": "/productImages/Carpet/Right-Choice/Raw-Wood.jpg"
+        "colorImage": "../productImages/Carpet/Right-Choice/Raw-Wood.jpg"
       },
       {
         "colorName": "Folkstone",
         "colorNumber": "00711",
-        "colorImage": "/productImages/Carpet/Right-Choice/Folkstone.jpg"
+        "colorImage": "../productImages/Carpet/Right-Choice/Folkstone.jpg"
       }
     ],
     "productSpecs": [
@@ -1478,7 +1478,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Value",
-    "image": "/productImages/Carpet/Break-Away-S/Gentle-Breeze.jpg",
+    "image": "../productImages/Carpet/Break-Away-S/Gentle-Breeze.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1493,77 +1493,77 @@
       {
         "colorName": "Gentle Breeze",
         "colorNumber": "00100",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Gentle-Breeze.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Gentle-Breeze.jpg"
       },
       {
         "colorName": "Wheat Field",
         "colorNumber": "00102",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Wheat-Field.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Wheat-Field.jpg"
       },
       {
         "colorName": "Warm Sand",
         "colorNumber": "00106",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Warm-Sand.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Warm-Sand.jpg"
       },
       {
         "colorName": "Winter White",
         "colorNumber": "00110",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Winter-White.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Winter-White.jpg"
       },
       {
         "colorName": "Ecru",
         "colorNumber": "00111",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Ecru.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Ecru.jpg"
       },
       {
         "colorName": "Whisper",
         "colorNumber": "00112",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Whisper.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Whisper.jpg"
       },
       {
         "colorName": "Soft Taupe",
         "colorNumber": "00501",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Soft-Taupe.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Soft-Taupe.jpg"
       },
       {
         "colorName": "Charcoal",
         "colorNumber": "00502",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Charcoal.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Charcoal.jpg"
       },
       {
         "colorName": "Concrete",
         "colorNumber": "00510",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Concrete.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Concrete.jpg"
       },
       {
         "colorName": "Stone",
         "colorNumber": "00511",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Stone.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Stone.jpg"
       },
       {
         "colorName": "Natural Tan",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Natural-Tan.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Natural-Tan.jpg"
       },
       {
         "colorName": "Clay",
         "colorNumber": "00701",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Clay.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Clay.jpg"
       },
       {
         "colorName": "Mocha",
         "colorNumber": "00704",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Mocha.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Mocha.jpg"
       },
       {
         "colorName": "Coffe Bean",
         "colorNumber": "00705",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Coffe-Bean.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Coffe-Bean.jpg"
       },
       {
         "colorName": "Weathered Wood",
         "colorNumber": "00710",
-        "colorImage": "/productImages/Carpet/Break-Away-S/Weathered-Wood.jpg"
+        "colorImage": "../productImages/Carpet/Break-Away-S/Weathered-Wood.jpg"
       }
     ],
     "productSpecs": [
@@ -1584,7 +1584,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/One-Plus/Salton-Chestnut.jpg",
+    "image": "../productImages/LVP/One-Plus/Salton-Chestnut.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1599,47 +1599,47 @@
       {
         "colorName": "Salton Chestnut",
         "colorNumber": "50001",
-        "colorImage": "/productImages/LVP/One-Plus/Salton-Chestnut.jpg"
+        "colorImage": "../productImages/LVP/One-Plus/Salton-Chestnut.jpg"
       },
       {
         "colorName": "Niland Chestnut",
         "colorNumber": "50002",
-        "colorImage": "/productImages/LVP/One-Plus/Niland-Chestnut.jpg"
+        "colorImage": "../productImages/LVP/One-Plus/Niland-Chestnut.jpg"
       },
       {
         "colorName": "Brawley Chestnut",
         "colorNumber": "50003",
-        "colorImage": "/productImages/LVP/One-Plus/Brawley-Chestnut.jpg"
+        "colorImage": "../productImages/LVP/One-Plus/Brawley-Chestnut.jpg"
       },
       {
         "colorName": "Deep Lake Oak",
         "colorNumber": "50004",
-        "colorImage": "/productImages/LVP/One-Plus/Deep-Lake-Oak.jpg"
+        "colorImage": "../productImages/LVP/One-Plus/Deep-Lake-Oak.jpg"
       },
       {
         "colorName": "Laguna Beach Oak",
         "colorNumber": "50005",
-        "colorImage": "/productImages/LVP/One-Plus/Laguna-Beach-Oak.jpg"
+        "colorImage": "../productImages/LVP/One-Plus/Laguna-Beach-Oak.jpg"
       },
       {
         "colorName": "Caspian Oak",
         "colorNumber": "50008",
-        "colorImage": "/productImages/LVP/One-Plus/Caspian-Oak.jpg"
+        "colorImage": "../productImages/LVP/One-Plus/Caspian-Oak.jpg"
       },
       {
         "colorName": "Fresno Chestnut",
         "colorNumber": "50009",
-        "colorImage": "/productImages/LVP/One-Plus/Fresno-Chestnut.jpg"
+        "colorImage": "../productImages/LVP/One-Plus/Fresno-Chestnut.jpg"
       },
       {
         "colorName": "Irvine Chestnut",
         "colorNumber": "50010",
-        "colorImage": "/productImages/LVP/One-Plus/Irvine-Chestnut.jpg"
+        "colorImage": "../productImages/LVP/One-Plus/Irvine-Chestnut.jpg"
       },
       {
         "colorName": "Venture Chestnut",
         "colorNumber": "50012",
-        "colorImage": "/productImages/LVP/One-Plus/Venture-Chestnut.jpg"
+        "colorImage": "../productImages/LVP/One-Plus/Venture-Chestnut.jpg"
       }
     ],
     "productSpecs": [
@@ -1660,7 +1660,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/Distinction/Timeless-Oak.jpg",
+    "image": "../productImages/LVP/Distinction/Timeless-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1675,52 +1675,52 @@
       {
         "colorName": "French Oak",
         "colorNumber": "00257",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Timeless Oak",
         "colorNumber": "00693",
-        "colorImage": "/productImages/LVP/Distinction/Timeless-Oak.jpg"
+        "colorImage": "../productImages/LVP/Distinction/Timeless-Oak.jpg"
       },
       {
         "colorName": "Eucalyptus",
         "colorNumber": "00694",
-        "colorImage": "/productImages/LVP/Distinction/Eucalyptus.jpg"
+        "colorImage": "../productImages/LVP/Distinction/Eucalyptus.jpg"
       },
       {
         "colorName": "Dutch Oak",
         "colorNumber": "01024",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Wheat Oak",
         "colorNumber": "01025",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Villa Oak",
         "colorNumber": "01090",
-        "colorImage": "/productImages/LVP/Distinction/Villa-Oak.jpg"
+        "colorImage": "../productImages/LVP/Distinction/Villa-Oak.jpg"
       },
       {
         "colorName": "Executive Oak",
         "colorNumber": "05079",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Light Pine",
         "colorNumber": "07064",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Ash Oak",
         "colorNumber": "07065",
-        "colorImage": "/productImages/LVP/Distinction/Ash-Oak.jpg"
+        "colorImage": "../productImages/LVP/Distinction/Ash-Oak.jpg"
       },
       {
         "colorName": "Barrel Oak",
         "colorNumber": "07066",
-        "colorImage": ""
+        "colorImage": ".."
       }
     ],
     "productSpecs": [
@@ -1741,7 +1741,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Better",
-    "image": "/productImages/LVP/VV023/Gold-Coast-Acacia.jpg",
+    "image": "../productImages/LVP/VV023/Gold-Coast-Acacia.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1756,92 +1756,92 @@
       {
         "colorName": "Gold Coast Acacia",
         "colorNumber": "00201",
-        "colorImage": "/productImages/LVP/VV023/Gold-Coast-Acacia.jpg"
+        "colorImage": "../productImages/LVP/VV023/Gold-Coast-Acacia.jpg"
       },
       {
         "colorName": "Deep Smoked Oak",
         "colorNumber": "00202",
-        "colorImage": "/productImages/LVP/VV023/Deep-Smoked-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV023/Deep-Smoked-Oak.jpg"
       },
       {
         "colorName": "Northwoods Oak",
         "colorNumber": "00205",
-        "colorImage": "/productImages/LVP/VV023/Northwoods-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV023/Northwoods-Oak.jpg"
       },
       {
         "colorName": "Boardwalk Oak",
         "colorNumber": "00206",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Rocky Mountain Oak",
         "colorNumber": "00207",
-        "colorImage": "/productImages/LVP/VV023/Rocky-Mountain-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV023/Rocky-Mountain-Oak.jpg"
       },
       {
         "colorName": "Carolina Pine",
         "colorNumber": "00501",
-        "colorImage": "/productImages/LVP/VV023/Carolina-Pine.jpg"
+        "colorImage": "../productImages/LVP/VV023/Carolina-Pine.jpg"
       },
       {
         "colorName": "Black Walnut",
         "colorNumber": "00503",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Clear Lake Oak",
         "colorNumber": "00504",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Norwegian Maple",
         "colorNumber": "00505",
-        "colorImage": "/productImages/LVP/VV023/Norwegian-Maple.jpg"
+        "colorImage": "../productImages/LVP/VV023/Norwegian-Maple.jpg"
       },
       {
         "colorName": "Corvallis Pine",
         "colorNumber": "00506",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Dakota Walnut",
         "colorNumber": "00507",
-        "colorImage": "/productImages/LVP/VV023/Dakota-Walnut.jpg"
+        "colorImage": "../productImages/LVP/VV023/Dakota-Walnut.jpg"
       },
       {
         "colorName": "Red River Hickory",
         "colorNumber": "00508",
-        "colorImage": "/productImages/LVP/VV023/Red-River-Hickory.jpg"
+        "colorImage": "../productImages/LVP/VV023/Red-River-Hickory.jpg"
       },
       {
         "colorName": "Wheldon Oak",
         "colorNumber": "00509",
-        "colorImage": "/productImages/LVP/VV023/Wheldon-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV023/Wheldon-Oak.jpg"
       },
       {
         "colorName": "Durban Pear",
         "colorNumber": "00511",
-        "colorImage": "/productImages/LVP/VV023/Durban-Pear.jpg"
+        "colorImage": "../productImages/LVP/VV023/Durban-Pear.jpg"
       },
       {
         "colorName": "Brockport Oak",
         "colorNumber": "00513",
-        "colorImage": "/productImages/LVP/VV023/Brockport-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV023/Brockport-Oak.jpg"
       },
       {
         "colorName": "Ashton Woods Oak",
         "colorNumber": "00570",
-        "colorImage": "/productImages/LVP/VV023/Ashton-Woods-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV023/Ashton-Woods-Oak.jpg"
       },
       {
         "colorName": "Baywood Oak",
         "colorNumber": "00571",
-        "colorImage": "/productImages/LVP/VV023/Baywood-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV023/Baywood-Oak.jpg"
       },
       {
         "colorName": "Dodwell Oak",
         "colorNumber": "00573",
-        "colorImage": "/productImages/LVP/VV023/Dodwell-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV023/Dodwell-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -1862,7 +1862,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Better",
-    "image": "/productImages/LVP/VV024/Kingswood-Oak.jpg",
+    "image": "../productImages/LVP/VV024/Kingswood-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1877,77 +1877,77 @@
       {
         "colorName": "Dune",
         "colorNumber": "00105",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "St Andrew's Oak",
         "colorNumber": "00209",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Kingswood Oak",
         "colorNumber": "00210",
-        "colorImage": "/productImages/LVP/VV024/Kingswood-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Kingswood-Oak.jpg"
       },
       {
         "colorName": "Nantucket Oak",
         "colorNumber": "00211",
-        "colorImage": "/productImages/LVP/VV024/Nantucket-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Nantucket-Oak.jpg"
       },
       {
         "colorName": "Georgetown Oak",
         "colorNumber": "00701",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Waterfront Oak",
         "colorNumber": "00703",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Saginaw Oak",
         "colorNumber": "00704",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Ivory Coast Oak",
         "colorNumber": "00705",
-        "colorImage": "/productImages/LVP/VV024/Ivory-Coast-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Ivory-Coast-Oak.jpg"
       },
       {
         "colorName": "Alabaster Oak",
         "colorNumber": "00706",
-        "colorImage": "/productImages/LVP/VV024/Alabaster-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Alabaster-Oak.jpg"
       },
       {
         "colorName": "Blackstone Oak",
         "colorNumber": "00707",
-        "colorImage": "/productImages/LVP/VV024/Blackstone-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Blackstone-Oak.jpg"
       },
       {
         "colorName": "Hudson Valley Oak",
         "colorNumber": "00708",
-        "colorImage": "/productImages/LVP/VV024/Hudson-Valley-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Hudson-Valley-Oak.jpg"
       },
       {
         "colorName": "Amelia Oak",
         "colorNumber": "00712",
-        "colorImage": "/productImages/LVP/VV024/Amelia-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Amelia-Oak.jpg"
       },
       {
         "colorName": "Marsh Oak",
         "colorNumber": "00714",
-        "colorImage": "/productImages/LVP/VV024/Marsh-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Marsh-Oak.jpg"
       },
       {
         "colorName": "Fidalgo Oak",
         "colorNumber": "00715",
-        "colorImage": "/productImages/LVP/VV024/Fidalgo-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Fidalgo-Oak.jpg"
       },
       {
         "colorName": "Midway Oak",
         "colorNumber": "00716",
-        "colorImage": "/productImages/LVP/VV024/Midway-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV024/Midway-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -1968,7 +1968,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Better",
-    "image": "/productImages/LVP/VV012/Axial-Oak.jpg",
+    "image": "../productImages/LVP/VV012/Axial-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1983,82 +1983,82 @@
       {
         "colorName": "Axial Oak",
         "colorNumber": "00753",
-        "colorImage": "/productImages/LVP/VV012/Axial-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Axial-Oak.jpg"
       },
       {
         "colorName": "Nares Oak",
         "colorNumber": "00756",
-        "colorImage": "/productImages/LVP/VV012/Nares-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Nares-Oak.jpg"
       },
       {
         "colorName": "Marianas Oak",
         "colorNumber": "00757",
-        "colorImage": "/productImages/LVP/VV012/Marianas-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Marianas-Oak.jpg"
       },
       {
         "colorName": "Galathea Oak",
         "colorNumber": "00795",
-        "colorImage": "/productImages/LVP/VV012/Galathea-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Galathea-Oak.jpg"
       },
       {
         "colorName": "Manila Oak",
         "colorNumber": "00760",
-        "colorImage": "/productImages/LVP/VV012/Manila-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Manila-Oak.jpg"
       },
       {
         "colorName": "Calypso Oak",
         "colorNumber": "00761",
-        "colorImage": "/productImages/LVP/VV012/Calypso-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Calypso-Oak.jpg"
       },
       {
         "colorName": "Mornington Oak",
         "colorNumber": "00762",
-        "colorImage": "/productImages/LVP/VV012/Mornington-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Mornington-Oak.jpg"
       },
       {
         "colorName": "Enderbury Oak",
         "colorNumber": "00763",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Aden Oak",
         "colorNumber": "00765",
-        "colorImage": "/productImages/LVP/VV012/Aden-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Aden-Oak.jpg"
       },
       {
         "colorName": "Explorer Oak",
         "colorNumber": "00766",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Aurora Oak",
         "colorNumber": "00771",
-        "colorImage": "/productImages/LVP/VV012/Aurora-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Aurora-Oak.jpg"
       },
       {
         "colorName": "Pasadena Oak",
         "colorNumber": "00772",
-        "colorImage": "/productImages/LVP/VV012/Pasadena-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Pasadena-Oak.jpg"
       },
       {
         "colorName": "Tulsa Oak",
         "colorNumber": "00773",
-        "colorImage": "/productImages/LVP/VV012/Tulsa-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Tulsa-Oak.jpg"
       },
       {
         "colorName": "Bay Oak",
         "colorNumber": "04036",
-        "colorImage": "/productImages/LVP/VV012/Bay-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Bay-Oak.jpg"
       },
       {
         "colorName": "Jerome Oak",
         "colorNumber": "04033",
-        "colorImage": "/productImages/LVP/VV012/Jerome-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Jerome-Oak.jpg"
       },
       {
         "colorName": "Miles Oak",
         "colorNumber": "08006",
-        "colorImage": "/productImages/LVP/VV012/Miles-Oak.jpg"
+        "colorImage": "../productImages/LVP/VV012/Miles-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -2079,7 +2079,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Better",
-    "image": "/productImages/LVP/Ascent/Sierra.jpg",
+    "image": "../productImages/LVP/Ascent/Sierra.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2094,52 +2094,52 @@
       {
         "colorName": "Sierra",
         "colorNumber": "00931",
-        "colorImage": "/productImages/LVP/Ascent/Sierra.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Sierra.jpg"
       },
       {
         "colorName": "Alpine",
         "colorNumber": "01134",
-        "colorImage": "/productImages/LVP/Ascent/Alpine.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Alpine.jpg"
       },
       {
         "colorName": "Tundra",
         "colorNumber": "01135",
-        "colorImage": "/productImages/LVP/Ascent/Tundra.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Tundra.jpg"
       },
       {
         "colorName": "Wander",
         "colorNumber": "01136",
-        "colorImage": "/productImages/LVP/Ascent/Wander.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Wander.jpg"
       },
       {
         "colorName": "Escape",
         "colorNumber": "02069",
-        "colorImage": "/productImages/LVP/Ascent/Escape.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Escape.jpg"
       },
       {
         "colorName": "Lodge",
         "colorNumber": "02070",
-        "colorImage": "/productImages/LVP/Ascent/Lodge.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Lodge.jpg"
       },
       {
         "colorName": "Journal",
         "colorNumber": "05179",
-        "colorImage": "/productImages/LVP/Ascent/Journal.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Journal.jpg"
       },
       {
         "colorName": "Dwell",
         "colorNumber": "05180",
-        "colorImage": "/productImages/LVP/Ascent/Dwell.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Dwell.jpg"
       },
       {
         "colorName": "Legend",
         "colorNumber": "06036",
-        "colorImage": "/productImages/LVP/Ascent/Legend.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Legend.jpg"
       },
       {
         "colorName": "Habitat",
         "colorNumber": "07259",
-        "colorImage": "/productImages/LVP/Ascent/Habitat.jpg"
+        "colorImage": "../productImages/LVP/Ascent/Habitat.jpg"
       }
     ],
     "productSpecs": [
@@ -2160,7 +2160,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "NPR",
-    "image": "/productImages/LVP/Advanced/Ansley-Walnut.jpg",
+    "image": "../productImages/LVP/Advanced/Ansley-Walnut.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2175,52 +2175,52 @@
       {
         "colorName": "Ansley Walnut",
         "colorNumber": "03013",
-        "colorImage": "/productImages/LVP/Advanced/Ansley-Walnut.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Ansley-Walnut.jpg"
       },
       {
         "colorName": "Claverton Pine",
         "colorNumber": "03014",
-        "colorImage": "/productImages/LVP/Advanced/Claverton-Pine.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Claverton-Pine.jpg"
       },
       {
         "colorName": "Hastings Walnut",
         "colorNumber": "04014",
-        "colorImage": "/productImages/LVP/Advanced/Hastings-Walnut.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Hastings-Walnut.jpg"
       },
       {
         "colorName": "Garamond Oak",
         "colorNumber": "04015",
-        "colorImage": "/productImages/LVP/Advanced/Garamond-Oak.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Garamond-Oak.jpg"
       },
       {
         "colorName": "Morningside Oak",
         "colorNumber": "05014",
-        "colorImage": "/productImages/LVP/Advanced/Morningside-Oak.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Morningside-Oak.jpg"
       },
       {
         "colorName": "Pierpoint Walnut",
         "colorNumber": "05015",
-        "colorImage": "/productImages/LVP/Advanced/Pierpoint-Walnut.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Pierpoint-Walnut.jpg"
       },
       {
         "colorName": "Telford Pine",
         "colorNumber": "06009",
-        "colorImage": "/productImages/LVP/Advanced/Telford-Pine.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Telford-Pine.jpg"
       },
       {
         "colorName": "Privet Pine",
         "colorNumber": "07014",
-        "colorImage": "/productImages/LVP/Advanced/Privet-Pine.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Privet-Pine.jpg"
       },
       {
         "colorName": "Norwood Oak",
         "colorNumber": "07016",
-        "colorImage": "/productImages/LVP/Advanced/Norwood-Oak.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Norwood-Oak.jpg"
       },
       {
         "colorName": "Charter Oak",
         "colorNumber": "08003",
-        "colorImage": "/productImages/LVP/Advanced/Charter-Oak.jpg"
+        "colorImage": "../productImages/LVP/Advanced/Charter-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -2241,7 +2241,7 @@
     "brand": "Shaw Floors",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/Prodigy-HDR/Nomad.jpg",
+    "image": "../productImages/LVP/Prodigy-HDR/Nomad.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2256,52 +2256,52 @@
       {
         "colorName": "Nomad",
         "colorNumber": "01066",
-        "colorImage": "/productImages/LVP/Prodigy-HDR/Nomad.jpg"
+        "colorImage": "../productImages/LVP/Prodigy-HDR/Nomad.jpg"
       },
       {
         "colorName": "Ethereal",
         "colorNumber": "01069",
-        "colorImage": "/productImages/LVP/Prodigy-HDR/Ethereal.jpg"
+        "colorImage": "../productImages/LVP/Prodigy-HDR/Ethereal.jpg"
       },
       {
         "colorName": "Hygge",
         "colorNumber": "02025",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Mangata",
         "colorNumber": "02031",
-        "colorImage": "/productImages/LVP/Prodigy-HDR/Mangata.jpg"
+        "colorImage": "../productImages/LVP/Prodigy-HDR/Mangata.jpg"
       },
       {
         "colorName": "Cobblestone",
         "colorNumber": "05102",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Lagom",
         "colorNumber": "05103",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Mindful",
         "colorNumber": "06007",
-        "colorImage": "/productImages/LVP/Prodigy-HDR/Mindful.jpg"
+        "colorImage": "../productImages/LVP/Prodigy-HDR/Mindful.jpg"
       },
       {
         "colorName": "Simplicity",
         "colorNumber": "07095",
-        "colorImage": "/productImages/LVP/Prodigy-HDR/Simplicity.jpg"
+        "colorImage": "../productImages/LVP/Prodigy-HDR/Simplicity.jpg"
       },
       {
         "colorName": "Fika",
         "colorNumber": "07202",
-        "colorImage": "/productImages/LVP/Prodigy-HDR/Fika.jpg"
+        "colorImage": "../productImages/LVP/Prodigy-HDR/Fika.jpg"
       },
       {
         "colorName": "Glogg",
         "colorNumber": "07203",
-        "colorImage": ""
+        "colorImage": ".."
       }
     ],
     "productSpecs": [
@@ -2322,7 +2322,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Value",
-    "image": "/productImages/LVP/Galaxy/Whirlpool-Oak.jpg",
+    "image": "../productImages/LVP/Galaxy/Whirlpool-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2337,57 +2337,57 @@
       {
         "colorName": "Whirlpool Oak",
         "colorNumber": "02060",
-        "colorImage": "/productImages/LVP/Galaxy/Whirlpool-Oak.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Whirlpool-Oak.jpg"
       },
       {
         "colorName": "Cartwheel Oak",
         "colorNumber": "02061",
-        "colorImage": "/productImages/LVP/Galaxy/Cartwheel-Oak.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Cartwheel-Oak.jpg"
       },
       {
         "colorName": "Elliptical Oak",
         "colorNumber": "02062",
-        "colorImage": "/productImages/LVP/Galaxy/Elliptical-Oak.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Elliptical-Oak.jpg"
       },
       {
         "colorName": "Cigar Oak",
         "colorNumber": "02063",
-        "colorImage": "/productImages/LVP/Galaxy/Cigar-Oak.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Cigar-Oak.jpg"
       },
       {
         "colorName": "Andromeda Pine",
         "colorNumber": "02064",
-        "colorImage": "/productImages/LVP/Galaxy/Andromeda-Pine.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Andromeda-Pine.jpg"
       },
       {
         "colorName": "Sunflower Pine",
         "colorNumber": "02065",
-        "colorImage": "/productImages/LVP/Galaxy/Sunflower-Pine.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Sunflower-Pine.jpg"
       },
       {
         "colorName": "Spiral Pine",
         "colorNumber": "02066",
-        "colorImage": "/productImages/LVP/Galaxy/Spiral-Pine.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Spiral-Pine.jpg"
       },
       {
         "colorName": "Magellanic Oak",
         "colorNumber": "02080",
-        "colorImage": "/productImages/LVP/Galaxy/Magellanic-Oak.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Magellanic-Oak.jpg"
       },
       {
         "colorName": "Maffei Cherry",
         "colorNumber": "02081",
-        "colorImage": "/productImages/LVP/Galaxy/Maffei-Cherry.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Maffei-Cherry.jpg"
       },
       {
         "colorName": "Solstice Cherry",
         "colorNumber": "02082",
-        "colorImage": "/productImages/LVP/Galaxy/Solstice-Cherry.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Solstice-Cherry.jpg"
       },
       {
         "colorName": "Centaurus Oak",
         "colorNumber": "02083",
-        "colorImage": "/productImages/LVP/Galaxy/Centaurus-Oak.jpg"
+        "colorImage": "../productImages/LVP/Galaxy/Centaurus-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -2408,7 +2408,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/Anvil/Chatter-Oak.jpg",
+    "image": "../productImages/LVP/Anvil/Chatter-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2423,52 +2423,52 @@
       {
         "colorName": "Chatter Oak",
         "colorNumber": "00295",
-        "colorImage": "/productImages/LVP/Anvil/Chatter-Oak.jpg"
+        "colorImage": "../productImages/LVP/Anvil/Chatter-Oak.jpg"
       },
       {
         "colorName": "River Bend Oak",
         "colorNumber": "00296",
-        "colorImage": "/productImages/LVP/Anvil/River-Bend-Oak.jpg"
+        "colorImage": "../productImages/LVP/Anvil/River-Bend-Oak.jpg"
       },
       {
         "colorName": "Mineral Maple",
         "colorNumber": "00297",
-        "colorImage": "/productImages/LVP/Anvil/Mineral-Maple.jpg"
+        "colorImage": "../productImages/LVP/Anvil/Mineral-Maple.jpg"
       },
       {
         "colorName": "Dark Elm",
         "colorNumber": "00915",
-        "colorImage": "/productImages/LVP/Anvil/Dark-Elm.jpg"
+        "colorImage": "../productImages/LVP/Anvil/Dark-Elm.jpg"
       },
       {
         "colorName": "Beach Oak",
         "colorNumber": "01023",
-        "colorImage": "/productImages/LVP/Anvil/Beach-Oak.jpg"
+        "colorImage": "../productImages/LVP/Anvil/Beach-Oak.jpg"
       },
       {
         "colorName": "Clean Pine",
         "colorNumber": "05077",
-        "colorImage": "/productImages/LVP/Anvil/Clean-Pine.jpg"
+        "colorImage": "../productImages/LVP/Anvil/Clean-Pine.jpg"
       },
       {
         "colorName": "Greige Walnut",
         "colorNumber": "05078",
-        "colorImage": "/productImages/LVP/Anvil/Greige-Walnut.jpg"
+        "colorImage": "../productImages/LVP/Anvil/Greige-Walnut.jpg"
       },
       {
         "colorName": "Highlight Oak",
         "colorNumber": "07061",
-        "colorImage": "/productImages/LVP/Anvil/Highlight-Oak.jpg"
+        "colorImage": "../productImages/LVP/Anvil/Highlight-Oak.jpg"
       },
       {
         "colorName": "Grey Chestnut",
         "colorNumber": "07062",
-        "colorImage": "/productImages/LVP/Anvil/Grey-Chestnut.jpg"
+        "colorImage": "../productImages/LVP/Anvil/Grey-Chestnut.jpg"
       },
       {
         "colorName": "Accent Pine",
         "colorNumber": "07063",
-        "colorImage": "/productImages/LVP/Anvil/Accent-Pine.jpg"
+        "colorImage": "../productImages/LVP/Anvil/Accent-Pine.jpg"
       }
     ],
     "productSpecs": [
@@ -2489,7 +2489,7 @@
     "brand": "Philadelphia Commerical", 
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/In-The-Grain-2/Rye.jpg",
+    "image": "../productImages/LVP/In-The-Grain-2/Rye.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2504,117 +2504,117 @@
       {
         "colorName": "Rye",
         "colorNumber": "00116",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Rye.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Rye.jpg"
       },
       {
         "colorName": "Hemp",
         "colorNumber": "00216",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Hemp.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Hemp.jpg"
       },
       {
         "colorName": "Elmwood",
         "colorNumber": "00170",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Elmwood.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Elmwood.jpg"
       },
       {
         "colorName": "Millet",
         "colorNumber": "00256",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Millet.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Millet.jpg"
       },
       {
         "colorName": "Nutshell",
         "colorNumber": "00173",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Nutshell.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Nutshell.jpg"
       },
       {
         "colorName": "Frosted Oats",
         "colorNumber": "00559",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Frosted-Oats.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Frosted-Oats.jpg"
       },
       {
         "colorName": "Fir",
         "colorNumber": "00174",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Fir.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Fir.jpg"
       },
       {
         "colorName": "Freekeh",
         "colorNumber": "00564",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Freekeh.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Freekeh.jpg"
       },
       {
         "colorName": "Flaxseed",
         "colorNumber": "00568",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Flaxseed.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Flaxseed.jpg"
       },
       {
         "colorName": "Milo",
         "colorNumber": "00572",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Milo.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Milo.jpg"
       },
       {
         "colorName": "Farro",
         "colorNumber": "00684",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Farro.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Farro.jpg"
       },
       {
         "colorName": "Barley",
         "colorNumber": "00740",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Barley.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Barley.jpg"
       },
       {
         "colorName": "Amaranth",
         "colorNumber": "00769",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Amaranth.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Amaranth.jpg"
       },
       {
         "colorName": "Wheat",
         "colorNumber": "00774",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Wheat.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Wheat.jpg"
       },
       {
         "colorName": "Spelt",
         "colorNumber": "00775",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Spelt.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Spelt.jpg"
       },
       {
         "colorName": "English Grey",
         "colorNumber": "05012",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/English-Grey.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/English-Grey.jpg"
       },
       {
         "colorName": "Drift",
         "colorNumber": "05013",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Drift.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Drift.jpg"
       },
       {
         "colorName": "Ember",
         "colorNumber": "05016",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Ember.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Ember.jpg"
       },
       {
         "colorName": "Briarwood",
         "colorNumber": "05019",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Briarwood.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Briarwood.jpg"
       },
       {
         "colorName": "Sandalwood",
         "colorNumber": "07003",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Sandalwood.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Sandalwood.jpg"
       },
       {
         "colorName": "Cotton Seed",
         "colorNumber": "07004",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Cotton-Seed.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Cotton-Seed.jpg"
       },
       {
         "colorName": "Oakwood",
         "colorNumber": "07007",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Oakwood.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Oakwood.jpg"
       },
       {
         "colorName": "Burlwood",
         "colorNumber": "07008",
-        "colorImage": "/productImages/LVP/In-The-Grain-2/Burlwood.jpg"
+        "colorImage": "../productImages/LVP/In-The-Grain-2/Burlwood.jpg"
       }
     ],
     "productSpecs": [
@@ -2635,7 +2635,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV566/Arubani.jpg",
+    "image": "../productImages/LVP/VV566/Arubani.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2650,27 +2650,27 @@
       {
         "colorName": "Freonia",
         "colorNumber": "12241",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Arubani",
         "colorNumber": "12243",
-        "colorImage": "/productImages/LVP/VV566/Arubani.jpg"
+        "colorImage": "../productImages/LVP/VV566/Arubani.jpg"
       },
       {
         "colorName": "Mari",
         "colorNumber": "12245",
-        "colorImage": "/productImages/LVP/VV566/Mari.jpg"
+        "colorImage": "../productImages/LVP/VV566/Mari.jpg"
       },
       {
         "colorName": "Harmonia",
         "colorNumber": "12247",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Ashani",
         "colorNumber": "12249",
-        "colorImage": ""
+        "colorImage": ".."
       }
     ],
     "productSpecs": [
@@ -2691,7 +2691,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV566/Arubani.jpg",
+    "image": "../productImages/LVP/VV566/Arubani.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2706,32 +2706,32 @@
       {
         "colorName": "Egeria",
         "colorNumber": "18241",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Iona",
         "colorNumber": "18242",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Murcia",
         "colorNumber": "18247",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Russa",
         "colorNumber": "18250",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Ambienta",
         "colorNumber": "18251",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Lucetta",
         "colorNumber": "18252",
-        "colorImage": ""
+        "colorImage": ".."
       }
     ],
     "productSpecs": [
@@ -2752,7 +2752,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/VV568/Semonia.jpg",
+    "image": "../productImages/LVP/VV568/Semonia.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2767,22 +2767,22 @@
       {
         "colorName": "Semonia",
         "colorNumber": "18361",
-        "colorImage": "/productImages/LVP/VV568/Semonia.jpg"
+        "colorImage": "../productImages/LVP/VV568/Semonia.jpg"
       },
       {
         "colorName": "Pellonia",
         "colorNumber": "18362",
-        "colorImage": "/productImages/LVP/VV568/Pellonia.jpg"
+        "colorImage": "../productImages/LVP/VV568/Pellonia.jpg"
       },
       {
         "colorName": "Vesta",
         "colorNumber": "18363",
-        "colorImage": "/productImages/LVP/VV568/Vesta.jpg"
+        "colorImage": "../productImages/LVP/VV568/Vesta.jpg"
       },
       {
         "colorName": "Sirius",
         "colorNumber": "18366",
-        "colorImage": "/productImages/LVP/VV568/Sirius.jpg"
+        "colorImage": "../productImages/LVP/VV568/Sirius.jpg"
       }
     ],
     "productSpecs": [
@@ -2803,7 +2803,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/Northern-Voyage/Petaluma.jpg",
+    "image": "../productImages/LVP/Northern-Voyage/Petaluma.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2818,22 +2818,22 @@
       {
         "colorName": "Petaluma",
         "colorNumber": "01158",
-        "colorImage": "/productImages/LVP/Northern-Voyage/Petaluma.jpg"
+        "colorImage": "../productImages/LVP/Northern-Voyage/Petaluma.jpg"
       },
       {
         "colorName": "Napa",
         "colorNumber": "02082",
-        "colorImage": "/productImages/LVP/Northern-Voyage/Napa.jpg"
+        "colorImage": "../productImages/LVP/Northern-Voyage/Napa.jpg"
       },
       {
         "colorName": "Rutherford",
         "colorNumber": "07291",
-        "colorImage": "/productImages/LVP/Northern-Voyage/Rutherford.jpg"
+        "colorImage": "../productImages/LVP/Northern-Voyage/Rutherford.jpg"
       },
       {
         "colorName": "Calistoga",
         "colorNumber": "07292",
-        "colorImage": "/productImages/LVP/Northern-Voyage/Calistoga.jpg"
+        "colorImage": "../productImages/LVP/Northern-Voyage/Calistoga.jpg"
       }
     ],
     "productSpecs": [
@@ -2854,7 +2854,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "/productImages/LVP/Infinite/Raw-Sienna.jpg",
+    "image": "../productImages/LVP/Infinite/Raw-Sienna.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2869,52 +2869,52 @@
       {
         "colorName": "Raw Sienna",
         "colorNumber": "00825",
-        "colorImage": "/productImages/LVP/Infinite/Raw-Sienna.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Raw-Sienna.jpg"
       },
       {
         "colorName": "Grand Canyon",
         "colorNumber": "02027",
-        "colorImage": "/productImages/LVP/Infinite/Grand-Canyon.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Grand-Canyon.jpg"
       },
       {
         "colorName": "Salt River",
         "colorNumber": "02028",
-        "colorImage": "/productImages/LVP/Infinite/Salt-River.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Salt-River.jpg"
       },
       {
         "colorName": "Pampas",
         "colorNumber": "02029",
-        "colorImage": "/productImages/LVP/Infinite/Pampas.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Pampas.jpg"
       },
       {
         "colorName": "Drift",
         "colorNumber": "05100",
-        "colorImage": "/productImages/LVP/Infinite/Drift.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Drift.jpg"
       },
       {
         "colorName": "Boheme Brown",
         "colorNumber": "07099",
-        "colorImage": "/productImages/LVP/Infinite/Boheme-Brown.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Boheme-Brown.jpg"
       },
       {
         "colorName": "Route 66",
         "colorNumber": "07100",
-        "colorImage": "/productImages/LVP/Infinite/Route-66.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Route-66.jpg"
       },
       {
         "colorName": "Vista",
         "colorNumber": "07192",
-        "colorImage": "/productImages/LVP/Infinite/Vista.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Vista.jpg"
       },
       {
         "colorName": "Barley Field",
         "colorNumber": "07194",
-        "colorImage": "/productImages/LVP/Infinite/Barley-Field.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Barley-Field.jpg"
       },
       {
         "colorName": "Raconteur",
         "colorNumber": "07195",
-        "colorImage": "/productImages/LVP/Infinite/Raconteur.jpg"
+        "colorImage": "../productImages/LVP/Infinite/Raconteur.jpg"
       }
     ],
     "productSpecs": [
@@ -2935,7 +2935,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Value",
-    "image": "/productImages/LVP/Endura/Ivory-Oak.jpg",
+    "image": "../productImages/LVP/Endura/Ivory-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2950,122 +2950,122 @@
       {
         "colorName": "Ivory Oak",
         "colorNumber": "00138",
-        "colorImage": "/productImages/LVP/Endura/Ivory-Oak.jpg"
+        "colorImage": "../productImages/LVP/Endura/Ivory-Oak.jpg"
       },
       {
         "colorName": "Cinnamon Walnut",
         "colorNumber": "00150",
-        "colorImage": "/productImages/LVP/Endura/Cinnamon-Walnut.jpg"
+        "colorImage": "../productImages/LVP/Endura/Cinnamon-Walnut.jpg"
       },
       {
         "colorName": "Almond Oak",
         "colorNumber": "00154",
-        "colorImage": "/productImages/LVP/Endura/Almond-Oak.jpg"
+        "colorImage": "../productImages/LVP/Endura/Almond-Oak.jpg"
       },
       {
         "colorName": "Tawny Oak",
         "colorNumber": "00203",
-        "colorImage": "/productImages/LVP/Endura/Tawny-Oak.jpg"
+        "colorImage": "../productImages/LVP/Endura/Tawny-Oak.jpg"
       },
       {
         "colorName": "Smoky Oak",
         "colorNumber": "00556",
-        "colorImage": "/productImages/LVP/Endura/Smoky-Oak.jpg"
+        "colorImage": "../productImages/LVP/Endura/Smoky-Oak.jpg"
       },
       {
         "colorName": "Oyster Oak",
         "colorNumber": "00591",
-        "colorImage": "/productImages/LVP/Endura/Oyster-Oak.jpg"
+        "colorImage": "../productImages/LVP/Endura/Oyster-Oak.jpg"
       },
       {
         "colorName": "Shadow Oak",
         "colorNumber": "00592",
-        "colorImage": "/productImages/LVP/Endura/Shadow-Oak.jpg"
+        "colorImage": "../productImages/LVP/Endura/Shadow-Oak.jpg"
       },
       {
         "colorName": "Umber Oak",
         "colorNumber": "00734",
-        "colorImage": "/productImages/LVP/Endura/Umber-Oak.jpg"
+        "colorImage": "../productImages/LVP/Endura/Umber-Oak.jpg"
       },
       {
         "colorName": "Amber Oak",
         "colorNumber": "00820",
-        "colorImage": "/productImages/LVP/Endura/Amber-Oak.jpg"
+        "colorImage": "../productImages/LVP/Endura/Amber-Oak.jpg"
       },
       {
         "colorName": "Silver Dollar",
         "colorNumber": "01055",
-        "colorImage": "/productImages/LVP/Endura/Silver-Dollar.jpg"
+        "colorImage": "../productImages/LVP/Endura/Silver-Dollar.jpg"
       },
       {
         "colorName": "Driftwood",
         "colorNumber": "01056",
-        "colorImage": "/productImages/LVP/Endura/Driftwood.jpg"
+        "colorImage": "../productImages/LVP/Endura/Driftwood.jpg"
       },
       {
         "colorName": "Fresh Driftwood",
         "colorNumber": "01160",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Oceanfront",
         "colorNumber": "02012",
-        "colorImage": "/productImages/LVP/Endura/Oceanfront.jpg"
+        "colorImage": "../productImages/LVP/Endura/Oceanfront.jpg"
       },
       {
         "colorName": "White Sand",
         "colorNumber": "02013",
-        "colorImage": "/productImages/LVP/Endura/White-Sand.jpg"
+        "colorImage": "../productImages/LVP/Endura/White-Sand.jpg"
       },
       {
         "colorName": "Marina",
         "colorNumber": "02014",
-        "colorImage": "/productImages/LVP/Endura/Marina.jpg"
+        "colorImage": "../productImages/LVP/Endura/Marina.jpg"
       },
       {
         "colorName": "Simple Wash",
         "colorNumber": "02083",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Spalted Maple",
         "colorNumber": "020084",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Lighthouse",
         "colorNumber": "05091",
-        "colorImage": "/productImages/LVP/Endura/Lighthouse.jpg"
+        "colorImage": "../productImages/LVP/Endura/Lighthouse.jpg"
       },
       {
         "colorName": "Sea Glass",
         "colorNumber": "05092",
-        "colorImage": "/productImages/LVP/Endura/Sea-Glass.jpg"
+        "colorImage": "../productImages/LVP/Endura/Sea-Glass.jpg"
       },
       {
         "colorName": "Castaway",
         "colorNumber": "07087",
-        "colorImage": "/productImages/LVP/Endura/Castaway.jpg"
+        "colorImage": "../productImages/LVP/Endura/Castaway.jpg"
       },
       {
         "colorName": "Boardwalk",
         "colorNumber": "07088",
-        "colorImage": "/productImages/LVP/Endura/Boardwalk.jpg"
+        "colorImage": "../productImages/LVP/Endura/Boardwalk.jpg"
       },
       {
         "colorName": "Wild Dunes",
         "colorNumber": "07089",
-        "colorImage": "/productImages/LVP/Endura/Wild-Dunes.jpg"
+        "colorImage": "../productImages/LVP/Endura/Wild-Dunes.jpg"
       },
       {
         "colorName": "Casual Comfort",
         "colorNumber": "07294",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Modern Classic",
         "colorNumber": "07295",
-        "colorImage": ""
+        "colorImage": ".."
       }
     ],
     "productSpecs": [
@@ -3086,7 +3086,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Value",
-    "image": "/productImages/LVP/CT-PREM/Conch-Ash.jpg",
+    "image": "../productImages/LVP/CT-PREM/Conch-Ash.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3101,52 +3101,52 @@
       {
         "colorName": "Conch Ash",
         "colorNumber": "01024",
-        "colorImage": "/productImages/LVP/CT-PREM/Conch-Ash.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Conch-Ash.jpg"
       },
       {
         "colorName": "Midnight Oak",
         "colorNumber": "03019",
-        "colorImage": "/productImages/LVP/CT-PREM/Midnight-Oak.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Midnight-Oak.jpg"
       },
       {
         "colorName": "Vintage Taupe Ash",
         "colorNumber": "03021",
-        "colorImage": "/productImages/LVP/CT-PREM/Vintage-Taupe-Ash.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Vintage-Taupe-Ash.jpg"
       },
       {
         "colorName": "Cerith Oak",
         "colorNumber": "04027",
-        "colorImage": "/productImages/LVP/CT-PREM/Cerith-Oak.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Cerith-Oak.jpg"
       },
       {
         "colorName": "Mist Oak",
         "colorNumber": "04028",
-        "colorImage": "/productImages/LVP/CT-PREM/Mist-Oak.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Mist-Oak.jpg"
       },
       {
         "colorName": "Sand Dollar Oak",
         "colorNumber": "05024",
-        "colorImage": "/productImages/LVP/CT-PREM/Sand-Dollar-Oak.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Sand-Dollar-Oak.jpg"
       },
       {
         "colorName": "Flaxen Ash",
         "colorNumber": "05025",
-        "colorImage": "/productImages/LVP/CT-PREM/Flaxen-Ash.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Flaxen-Ash.jpg"
       },
       {
         "colorName": "Blonde Oak",
         "colorNumber": "05026",
-        "colorImage": "/productImages/LVP/CT-PREM/Blonde-Oak.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Blonde-Oak.jpg"
       },
       {
         "colorName": "Parchment Oak",
         "colorNumber": "05027",
-        "colorImage": "/productImages/LVP/CT-PREM/Parchment-Oak.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Parchment-Oak.jpg"
       },
       {
         "colorName": "Sea Salt Oak",
         "colorNumber": "05028",
-        "colorImage": "/productImages/LVP/CT-PREM/Sea-Salt-Oak.jpg"
+        "colorImage": "../productImages/LVP/CT-PREM/Sea-Salt-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -3167,7 +3167,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Value",
-    "image": "/productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg",
+    "image": "../productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3182,52 +3182,52 @@
       {
         "colorName": "Essex Maple",
         "colorNumber": "02035",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg"
       },
       {
         "colorName": "Fairhaven Oak",
         "colorNumber": "02036",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Fairhaven-Oak.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Fairhaven-Oak.jpg"
       },
       {
         "colorName": "Warwick Maple",
         "colorNumber": "03023",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Warwick-Maple.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Warwick-Maple.jpg"
       },
       {
         "colorName": "Stonehaven Maple",
         "colorNumber": "03024",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Stonehaven-Maple.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Stonehaven-Maple.jpg"
       },
       {
         "colorName": "Brookfield Maple",
         "colorNumber": "04039",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Brookfield-Maple.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Brookfield-Maple.jpg"
       },
       {
         "colorName": "Hatfield Maple",
         "colorNumber": "05034",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Hatfield-Maple.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Hatfield-Maple.jpg"
       },
       {
         "colorName": "Douglas Maple",
         "colorNumber": "05035",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Douglas-Maple.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Douglas-Maple.jpg"
       },
       {
         "colorName": "Lawrence Maple",
         "colorNumber": "07026",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Lawrence-Maple.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Lawrence-Maple.jpg"
       },
       {
         "colorName": "Norfolk Maple",
         "colorNumber": "08007",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Norfolk-Maple.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Norfolk-Maple.jpg"
       },
       {
         "colorName": "Mercer Oak",
         "colorNumber": "08008",
-        "colorImage": "/productImages/LVP/PP-HD-Integr-7/Mercer-Oak.jpg"
+        "colorImage": "../productImages/LVP/PP-HD-Integr-7/Mercer-Oak.jpg"
       }
     ],
     "productSpecs": [
@@ -3248,7 +3248,7 @@
     "brand": "Shaw Floors",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "/productImages/Hardwood/Expressions/Poetry.jpg",
+    "image": "../productImages/Hardwood/Expressions/Poetry.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3263,72 +3263,72 @@
       {
         "colorName": "Poetry",
         "colorNumber": "01071",
-        "colorImage": "/productImages/Hardwood/Expressions/Poetry.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Poetry.jpg"
       },
       {
         "colorName": "Lyric",
         "colorNumber": "01072",
-        "colorImage": "/productImages/Hardwood/Expressions/Lyric.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Lyric.jpg"
       },
       {
         "colorName": "Melody",
         "colorNumber": "01077",
-        "colorImage": "/productImages/Hardwood/Expressions/Melody.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Melody.jpg"
       },
       {
         "colorName": "Alla Prima",
         "colorNumber": "01094",
-        "colorImage": "/productImages/Hardwood/Expressions/Alla-Prima.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Alla-Prima.jpg"
       },
       {
         "colorName": "Fresco",
         "colorNumber": "02048",
-        "colorImage": "/productImages/Hardwood/Expressions/Fresco.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Fresco.jpg"
       },
       {
         "colorName": "Harmony",
         "colorNumber": "02050",
-        "colorImage": "/productImages/Hardwood/Expressions/Harmony.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Harmony.jpg"
       },
       {
         "colorName": "Watercolor",
         "colorNumber": "02053",
-        "colorImage": "/productImages/Hardwood/Expressions/Watercolor.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Watercolor.jpg"
       },
       {
         "colorName": "Mural",
         "colorNumber": "05080",
-        "colorImage": "/productImages/Hardwood/Expressions/Mural.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Mural.jpg"
       },
       {
         "colorName": "Artistry",
         "colorNumber": "07063",
-        "colorImage": "/productImages/Hardwood/Expressions/Artistry.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Artistry.jpg"
       },
       {
         "colorName": "Prose",
         "colorNumber": "07067",
-        "colorImage": "/productImages/Hardwood/Expressions/Prose.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Prose.jpg"
       },
       {
         "colorName": "Sonnet",
         "colorNumber": "07076",
-        "colorImage": "/productImages/Hardwood/Expressions/Sonnet.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Sonnet.jpg"
       },
       {
         "colorName": "Muse",
         "colorNumber": "07078",
-        "colorImage": "/productImages/Hardwood/Expressions/Muse.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Muse.jpg"
       },
       {
         "colorName": "Coda",
         "colorNumber": "09045",
-        "colorImage": "/productImages/Hardwood/Expressions/Coda.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Coda.jpg"
       },
       {
         "colorName": "Freeform",
         "colorNumber": "09047",
-        "colorImage": "/productImages/Hardwood/Expressions/Freeform.jpg"
+        "colorImage": "../productImages/Hardwood/Expressions/Freeform.jpg"
       }
     ],
     "productSpecs": [
@@ -3348,7 +3348,7 @@
     "brand": "Shaw Floors",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "/productImages/Hardwood/Cornerstone-Oak/Slate.jpg",
+    "image": "../productImages/Hardwood/Cornerstone-Oak/Slate.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3363,27 +3363,27 @@
       {
         "colorName": "Slate",
         "colorNumber": "05056",
-        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Slate.jpg"
+        "colorImage": "../productImages/Hardwood/Cornerstone-Oak/Slate.jpg"
       },
       {
         "colorName": "Alabaster",
         "colorNumber": "11070",
-        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Alabaster.jpg"
+        "colorImage": "../productImages/Hardwood/Cornerstone-Oak/Alabaster.jpg"
       },
       {
         "colorName": "Limestone",
         "colorNumber": "12020",
-        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Limestone.jpg"
+        "colorImage": "../productImages/Hardwood/Cornerstone-Oak/Limestone.jpg"
       },
       {
         "colorName": "Shale",
         "colorNumber": "17050",
-        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Shale.jpg"
+        "colorImage": "../productImages/Hardwood/Cornerstone-Oak/Shale.jpg"
       },
       {
         "colorName": "Basalt",
         "colorNumber": "19016",
-        "colorImage": "/productImages/Hardwood/Cornerstone-Oak/Basalt.jpg"
+        "colorImage": "../productImages/Hardwood/Cornerstone-Oak/Basalt.jpg"
       }
     ],
     "productSpecs": [
@@ -3403,7 +3403,7 @@
     "brand": "Shaw Floors",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "/productImages/Hardwood/Utmost/Base.jpg",
+    "image": "../productImages/Hardwood/Utmost/Base.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3418,32 +3418,32 @@
       {
         "colorName": "Base",
         "colorNumber": "11066",
-        "colorImage": "/productImages/Hardwood/Utmost/Base.jpg"
+        "colorImage": "../productImages/Hardwood/Utmost/Base.jpg"
       },
       {
         "colorName": "Endeavor",
         "colorNumber": "11068",
-        "colorImage": "/productImages/Hardwood/Utmost/Endeavor.jpg"
+        "colorImage": "../productImages/Hardwood/Utmost/Endeavor.jpg"
       },
       {
         "colorName": "Perpetual",
         "colorNumber": "12019",
-        "colorImage": "/productImages/Hardwood/Utmost/Perpetual.jpg"
+        "colorImage": "../productImages/Hardwood/Utmost/Perpetual.jpg"
       },
       {
         "colorName": "Mindful",
         "colorNumber": "17046",
-        "colorImage": "/productImages/Hardwood/Utmost/Mindful.jpg"
+        "colorImage": "../productImages/Hardwood/Utmost/Mindful.jpg"
       },
       {
         "colorName": "Grounded",
         "colorNumber": "17047",
-        "colorImage": "/productImages/Hardwood/Utmost/Grounded.jpg"
+        "colorImage": "../productImages/Hardwood/Utmost/Grounded.jpg"
       },
       {
         "colorName": "Intent",
         "colorNumber": "17048",
-        "colorImage": "/productImages/Hardwood/Utmost/Intent.jpg"
+        "colorImage": "../productImages/Hardwood/Utmost/Intent.jpg"
       }
     ],
     "productSpecs": [
@@ -3463,7 +3463,7 @@
     "brand": "Anderson Tuftex",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "/productImages/Hardwood/Imperial-Pecan/Fawn.jpg",
+    "image": "../productImages/Hardwood/Imperial-Pecan/Fawn.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3478,52 +3478,52 @@
       {
         "colorName": "Antique",
         "colorNumber": "11054",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Fawn",
         "colorNumber": "11055",
-        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Fawn.jpg"
+        "colorImage": "../productImages/Hardwood/Imperial-Pecan/Fawn.jpg"
       },
       {
         "colorName": "Barley",
         "colorNumber": "11061",
-        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Barley.jpg"
+        "colorImage": "../productImages/Hardwood/Imperial-Pecan/Barley.jpg"
       },
       {
         "colorName": "Harvest",
         "colorNumber": "11063",
-        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Harvest.jpg"
+        "colorImage": "../productImages/Hardwood/Imperial-Pecan/Harvest.jpg"
       },
       {
         "colorName": "Flaxen",
         "colorNumber": "12014",
-        "colorImage": ""
+        "colorImage": ".."
       },
       {
         "colorName": "Origin",
         "colorNumber": "15030",
-        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Origin.jpg"
+        "colorImage": "../productImages/Hardwood/Imperial-Pecan/Origin.jpg"
       },
       {
         "colorName": "Dove",
         "colorNumber": "15031",
-        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Dove.jpg"
+        "colorImage": "../productImages/Hardwood/Imperial-Pecan/Dove.jpg"
       },
       {
         "colorName": "Umber",
         "colorNumber": "17033",
-        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Umber.jpg"
+        "colorImage": "../productImages/Hardwood/Imperial-Pecan/Umber.jpg"
       },
       {
         "colorName": "Hazel",
         "colorNumber": "17036",
-        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Hazel.jpg"
+        "colorImage": "../productImages/Hardwood/Imperial-Pecan/Hazel.jpg"
       },
       {
         "colorName": "Chestnut",
         "colorNumber": "17040",
-        "colorImage": "/productImages/Hardwood/Imperial-Pecan/Chestnut.jpg"
+        "colorImage": "../productImages/Hardwood/Imperial-Pecan/Chestnut.jpg"
       }
     ],
     "productSpecs": [
@@ -3543,7 +3543,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Value",
-    "image": "/productImages/Carpet/QS854/Bali-Sand.jpg",
+    "image": "../productImages/Carpet/QS854/Bali-Sand.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3558,47 +3558,47 @@
       {
         "colorName": "Bali Sand",
         "colorNumber": "00110",
-        "colorImage": "/productImages/Carpet/QS854/Bali-Sand.jpg"
+        "colorImage": "../productImages/Carpet/QS854/Bali-Sand.jpg"
       },
       {
         "colorName": "Shooting Star",
         "colorNumber": "00111",
-        "colorImage": "/productImages/Carpet/QS854/Shooting-Star.jpg"
+        "colorImage": "../productImages/Carpet/QS854/Shooting-Star.jpg"
       },
       {
         "colorName": "Wind Chill",
         "colorNumber": "00510",
-        "colorImage": "/productImages/Carpet/QS854/Wind-Chill.jpg"
+        "colorImage": "../productImages/Carpet/QS854/Wind-Chill.jpg"
       },
       {
         "colorName": "Meteor",
         "colorNumber": "00511",
-        "colorImage": "/productImages/Carpet/QS854/Meteor.jpg"
+        "colorImage": "../productImages/Carpet/QS854/Meteor.jpg"
       },
       {
         "colorName": "Castle Wall",
         "colorNumber": "00512",
-        "colorImage": "/productImages/Carpet/QS854/Castle-Wall.jpg"
+        "colorImage": "../productImages/Carpet/QS854/Castle-Wall.jpg"
       },
       {
         "colorName": "Pier",
         "colorNumber": "00513",
-        "colorImage": "/productImages/Carpet/QS854/Pier.jpg"
+        "colorImage": "../productImages/Carpet/QS854/Pier.jpg"
       },
       {
         "colorName": "Pecan Sandie",
         "colorNumber": "00710",
-        "colorImage": "/productImages/Carpet/QS854/Pecan-Sandie.jpg"
+        "colorImage": "../productImages/Carpet/QS854/Pecan-Sandie.jpg"
       },
       {
         "colorName": "Desert Dune",
         "colorNumber": "00711",
-        "colorImage": "/productImages/Carpet/QS854/Desert-Dune.jpg"
+        "colorImage": "../productImages/Carpet/QS854/Desert-Dune.jpg"
       },
       {
         "colorName": "Afternoon Tea",
         "colorNumber": "00712",
-        "colorImage": "/productImages/Carpet/QS854/Afternoon-Tea.jpg"
+        "colorImage": "../productImages/Carpet/QS854/Afternoon-Tea.jpg"
       }
     ],
     "productSpecs": [
@@ -3619,7 +3619,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Value",
-    "image": "/productImages/Carpet/QS858/Sea-Salt.jpg",
+    "image": "../productImages/Carpet/QS858/Sea-Salt.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3634,47 +3634,47 @@
       {
         "colorName": "Sea Salt",
         "colorNumber": "00100",
-        "colorImage": "/productImages/Carpet/QS858/Sea-Salt.jpg"
+        "colorImage": "../productImages/Carpet/QS858/Sea-Salt.jpg"
       },
       {
         "colorName": "Cottage",
         "colorNumber": "00103",
-        "colorImage": "/productImages/Carpet/QS858/Cottage.jpg"
+        "colorImage": "../productImages/Carpet/QS858/Cottage.jpg"
       },
       {
         "colorName": "Parchment",
         "colorNumber": "00104",
-        "colorImage": "/productImages/Carpet/QS858/Parchment.jpg"
+        "colorImage": "../productImages/Carpet/QS858/Parchment.jpg"
       },
       {
         "colorName": "Cork",
         "colorNumber": "00110",
-        "colorImage": "/productImages/Carpet/QS858/Cork.jpg"
+        "colorImage": "../productImages/Carpet/QS858/Cork.jpg"
       },
       {
         "colorName": "Woodcraft",
         "colorNumber": "00112",
-        "colorImage": "/productImages/Carpet/QS858/Woodcraft.jpg"
+        "colorImage": "../productImages/Carpet/QS858/Woodcraft.jpg"
       },
       {
         "colorName": "Sterling",
         "colorNumber": "00500",
-        "colorImage": "/productImages/Carpet/QS858/Sterling.jpg"
+        "colorImage": "../productImages/Carpet/QS858/Sterling.jpg"
       },
       {
         "colorName": "Graphite",
         "colorNumber": "00510",
-        "colorImage": "/productImages/Carpet/QS858/Graphite.jpg"
+        "colorImage": "../productImages/Carpet/QS858/Graphite.jpg"
       },
       {
         "colorName": "Nantucket",
         "colorNumber": "00520",
-        "colorImage": "/productImages/Carpet/QS858/Nantucket.jpg"
+        "colorImage": "../productImages/Carpet/QS858/Nantucket.jpg"
       },
       {
         "colorName": "Jamestown",
         "colorNumber": "00521",
-        "colorImage": "/productImages/Carpet/QS858/Jamestown.jpg"
+        "colorImage": "../productImages/Carpet/QS858/Jamestown.jpg"
       }
     ],
     "productSpecs": [
@@ -3695,7 +3695,7 @@
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
     "rating": "Good",
-    "image": "/productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Compose.jpg",
+    "image": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Compose.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3710,42 +3710,42 @@
       {
         "colorName": "Compose",
         "colorNumber": "00200",
-        "colorImage": "/productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Compose.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Compose.jpg"
       },
       {
         "colorName": "Imagine",
         "colorNumber": "00300",
-        "colorImage": "/productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Imagine.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Imagine.jpg"
       },
       {
         "colorName": "Sculpt",
         "colorNumber": "00400",
-        "colorImage": "/productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Sculpt.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Sculpt.jpg"
       },
       {
         "colorName": "Shape",
         "colorNumber": "00500",
-        "colorImage": "/productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Shape.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Shape.jpg"
       },
       {
         "colorName": "Model",
         "colorNumber": "00505",
-        "colorImage": "/productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Model.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Model.jpg"
       },
       {
         "colorName": "Construct",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Construct.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Construct.jpg"
       },
       {
         "colorName": "Form",
         "colorNumber": "00705",
-        "colorImage": "/productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Form.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Form.jpg"
       },
       {
         "colorName": "Produce",
         "colorNumber": "00800",
-        "colorImage": "/productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Produce.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Produce.jpg"
       }
     ],
     "productSpecs": [
@@ -3762,7 +3762,7 @@
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
     "rating": "Good",
-    "image": "/productImages/Carpet-Tile/Biotic-Esthetic/Colors/Character.jpg",
+    "image": "../productImages/Carpet-Tile/Biotic-Esthetic/Colors/Character.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3777,27 +3777,27 @@
       {
         "colorName": "Character",
         "colorNumber": "00400",
-        "colorImage": "/productImages/Carpet-Tile/Biotic-Esthetic/Colors/Character.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Biotic-Esthetic/Colors/Character.jpg"
       },
       {
         "colorName": "Biomimicry",
         "colorNumber": "00500",
-        "colorImage": "/productImages/Carpet-Tile/Biotic-Esthetic/Colors/Biomimicry.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Biotic-Esthetic/Colors/Biomimicry.jpg"
       },
       {
         "colorName": "Composition",
         "colorNumber": "00505",
-        "colorImage": "/productImages/Carpet-Tile/Biotic-Esthetic/Colors/Composition.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Biotic-Esthetic/Colors/Composition.jpg"
       },
       {
         "colorName": "Inherent",
         "colorNumber": "00515",
-        "colorImage": "/productImages/Carpet-Tile/Biotic-Esthetic/Colors/Inherent.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Biotic-Esthetic/Colors/Inherent.jpg"
       },
       {
         "colorName": "Distinction",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet-Tile/Biotic-Esthetic/Colors/Distinction.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Biotic-Esthetic/Colors/Distinction.jpg"
       }
     ],
     "productSpecs": [
@@ -3814,7 +3814,7 @@
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
     "rating": "Good",
-    "image": "/productImages/Carpet-Tile/Sort-Stack/Colors/Twist.jpg",
+    "image": "../productImages/Carpet-Tile/Sort-Stack/Colors/Twist.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3829,32 +3829,32 @@
       {
         "colorName": "Twist",
         "colorNumber": "00210",
-        "colorImage": "/productImages/Carpet-Tile/Sort-Stack/Colors/Twist.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Sort-Stack/Colors/Twist.jpg"
       },
       {
         "colorName": "Bunch",
         "colorNumber": "00400",
-        "colorImage": "/productImages/Carpet-Tile/Sort-Stack/Colors/Bunch.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Sort-Stack/Colors/Bunch.jpg"
       },
       {
         "colorName": "Pleat",
         "colorNumber": "00500",
-        "colorImage": "/productImages/Carpet-Tile/Sort-Stack/Colors/Pleat.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Sort-Stack/Colors/Pleat.jpg"
       },
       {
         "colorName": "Bind",
         "colorNumber": "00510",
-        "colorImage": "/productImages/Carpet-Tile/Sort-Stack/Colors/Bind.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Sort-Stack/Colors/Bind.jpg"
       },
       {
         "colorName": "Fold",
         "colorNumber": "00700",
-        "colorImage": "/productImages/Carpet-Tile/Sort-Stack/Colors/Fold.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Sort-Stack/Colors/Fold.jpg"
       },
       {
         "colorName": "Wrap",
         "colorNumber": "00706",
-        "colorImage": "/productImages/Carpet-Tile/Sort-Stack/Colors/Wrap.jpg"
+        "colorImage": "../productImages/Carpet-Tile/Sort-Stack/Colors/Wrap.jpg"
       }
     ],
     "productSpecs": [
@@ -3871,7 +3871,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Cream.jpg",
+    "image": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Cream.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3886,47 +3886,47 @@
       {
         "colorName": "Cream",
         "colorNumber": "00101",
-        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Cream.jpg"
+        "colorImage": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Cream.jpg"
       },
       {
         "colorName": "Oat",
         "colorNumber": "00105",
-        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Oat.jpg"
+        "colorImage": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Oat.jpg"
       },
       {
         "colorName": "Flax",
         "colorNumber": "00116",
-        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Flax.jpg"
+        "colorImage": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Flax.jpg"
       },
       {
         "colorName": "Silver",
         "colorNumber": "00530",
-        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Silver.jpg"
+        "colorImage": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Silver.jpg"
       },
       {
         "colorName": "Mineral",
         "colorNumber": "00532",
-        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Mineral.jpg"
+        "colorImage": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Mineral.jpg"
       },
       {
         "colorName": "Iron",
         "colorNumber": "00555",
-        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Iron.jpg"
+        "colorImage": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Iron.jpg"
       },
       {
         "colorName": "Sandalwood",
         "colorNumber": "00722",
-        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Sandalwood.jpg"
+        "colorImage": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Sandalwood.jpg"
       },
       {
         "colorName": "Walnut",
         "colorNumber": "00752",
-        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Walnut.jpg"
+        "colorImage": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Walnut.jpg"
       },
       {
         "colorName": "Bronze",
         "colorNumber": "00761",
-        "colorImage": "/productImages/Carpet/Blocking-Parallel-Lattice/Colors/Bronze.jpg"
+        "colorImage": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Bronze.jpg"
       }
     ],
     "productSpecs": [
