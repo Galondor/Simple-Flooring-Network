@@ -46,13 +46,14 @@ async function getProducts() {
       }
       for (let i = 0; i < productData[product - 1].colors.length; i++) {
         menuEl.innerHTML += `<li>
-        <img class="color_image" src="../${productData[product - 1].colors[i].colorImage}" alt="No Image">
+        <img class="color_image" src="../${productData[product - 1].colors[i].colorImage}" alt="No Image" value="${productData[product - 1].colors[i].colorNumber}">
         <span>${productData[product - 1].colors[i].colorName}</span>
       </li>`
       //Dropdown Menu
     selectedEl.innerHTML = `<img class="color_image" 
     src="../${productData[product - 1].colors[0].colorImage}" alt="">
-    <span>${color.textContent}</span>`
+    <span>${color.textContent}</span>
+    `
       }
     } catch (error) {
       console.log(error);
@@ -97,6 +98,7 @@ async function addProductToCart() {
   const response = await fetch('../products.json');
   const data = await response.json();
   const productData = data;
+  const btn = document.querySelector('.add_to_cart');
 
   let cart = JSON.parse(localStorage.getItem("cart")) || [];
   let newItem = {
@@ -105,10 +107,14 @@ async function addProductToCart() {
     color: color.textContent,
     image: currentColor,
   };
-
+  console.log(currentColor)
   cart.push(newItem);
 
   localStorage.setItem("cart", JSON.stringify(cart));
+  btn.textContent = "Added To Cart!";
+  setTimeout(() => {
+    btn.textContent = "Add To Cart";
+  }, 800);
 
   updateCart();
 }

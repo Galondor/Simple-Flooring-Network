@@ -90,28 +90,23 @@ if (cart.length > 0) {
     for (let i = 0; i < 3; i++) {
         if (navBar) {
             cartContents.innerHTML += `
-        <div class="cart_products">
             <div class="cart_product">
                 <div class="cart_product_wrapper">
                     <span class="cart_product_name">${cart[i].name}</span>
                     <span class="cart_product_color">${cart[i].color}</span>
                 </div>
                 <img src="../${cart[i].image}" alt="No Image" class="cart_product_image"> 
-            </div>
-        </div>`;
+            </div>`;
         } 
         if (navBar === null) {
             cartContents.innerHTML += `
-        <div class="cart_products">
             <div class="cart_product">
                 <div class="cart_product_wrapper">
                     <span class="cart_product_name">${cart[i].name}</span>
                     <span class="cart_product_color">${cart[i].color}</span>
                 </div>
                 <img src="${cart[i].image}" alt="No Image" class="cart_product_image"> 
-            </div>
-        </div>
-    `;
+            </div>`;
         }
     }
     cartContents.innerHTML += `

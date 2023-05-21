@@ -260,7 +260,8 @@ footer .row {
     overflow-y: hidden;
 }
 
-.tooltip:hover .tooltip_container {
+.tooltip:hover 
+.tooltip_container {
     visibility: visible;
 }
 
@@ -282,7 +283,7 @@ footer .row {
     width: 40px;
     margin-right: 16px;
     border-radius: 8px;
-    transition: all 300ms ease;
+
 }
 
 .cart_product_image:hover {
@@ -291,6 +292,7 @@ footer .row {
 
 .cart_btn {
     margin: 8px;
+    transition: all 0ms;
 }
 
 .cart_overflow {
