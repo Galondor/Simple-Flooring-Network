@@ -34,8 +34,8 @@ async function getProducts() {
             rating.innerHTML = `<h3 class="rating">Rating: ${productData[i].rating}</h3>`;
             color.textContent = productData[i].colors[0].colorName;
             //Initial Color
-            currentColor = "../" + productData[i].colors[0].colorImage;
-            productWrapper.innerHTML = `<img src="${currentColor}" alt="" class="product_img">`;
+            currentColor = productData[i].colors[0].colorImage;
+            productWrapper.innerHTML = `<img src="../${currentColor}" alt="" class="product_img">`;
 
             step2.innerHTML = `<div class="step-2">
             <h2>Order a Sample</h2>
@@ -84,6 +84,7 @@ async function getProducts() {
           option.classList.remove('active');
           color.textContent = option.textContent;
           currentColor = selectedEl.getElementsByTagName('img')[0].src = option.getElementsByTagName('img')[0].src;
+          console.log(currentColor);
           productWrapper.innerHTML = `<img src="${currentColor}" alt="" class="product_img">`;
         });
         option.classList.add('active');

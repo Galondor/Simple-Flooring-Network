@@ -96,7 +96,7 @@ if (cart.length > 0) {
                     <span class="cart_product_name">${cart[i].name}</span>
                     <span class="cart_product_color">${cart[i].color}</span>
                 </div>
-                <img src="${cart[i].image}" alt="No Image" class="cart_product_image"> 
+                <img src="../${cart[i].image}" alt="No Image" class="cart_product_image"> 
             </div>
         </div>`;
         } 
