@@ -28,10 +28,10 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
-            <figure class="color_wrapper"><img src="${productData[i].colors[0].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[1].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[2].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
-            <figure class="color_wrapper"><img src="${productData[i].colors[3].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[0].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[1].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[2].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[3].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
         </div>
         </div>
     </div></a>`;
