@@ -7,7 +7,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "../productImages/Carpet/Without-Limits-2/Heather.JPG",
+    "image": "productImages/Carpet/Without-Limits-2/Heather.JPG",
     "price": [
       {
         "priceType": "Regular",
@@ -113,7 +113,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "../productImages/Carpet/Montage-1/Painters-Canvas.JPG",
+    "image": "productImages/Carpet/Montage-1/Painters-Canvas.JPG",
     "price": [
       {
         "priceType": "Regular",
@@ -234,7 +234,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "../productImages/Carpet/Boundless-4/White-Wash.JPG",
+    "image": "productImages/Carpet/Boundless-4/White-Wash.JPG",
     "price": [
       {
         "priceType": "Regular",
@@ -335,7 +335,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "../productImages/Carpet/Yes-You-Can/Seashell.jpg",
+    "image": "productImages/Carpet/Yes-You-Can/Seashell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -486,7 +486,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "../productImages/Carpet/Yes-You-Can/Seashell.jpg",
+    "image": "productImages/Carpet/Yes-You-Can/Seashell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -637,7 +637,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "../productImages/Carpet/Run-Free/Almond-Silk.jpg",
+    "image": "productImages/Carpet/Run-Free/Almond-Silk.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -743,7 +743,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "NPR",
-    "image": "../productImages/Carpet/Take-The-Floor-Accent-2/Italiano.jpg",
+    "image": "productImages/Carpet/Take-The-Floor-Accent-2/Italiano.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -824,7 +824,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "NPR",
-    "image": "../productImages/Carpet/Take-The-Floor-Tonal-2/Shoreline-Haze.jpg",
+    "image": "productImages/Carpet/Take-The-Floor-Tonal-2/Shoreline-Haze.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -945,7 +945,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Better",
-    "image": "../productImages/Carpet/Creating-Making-Warm-Memories/Colors/Clean-Linen.JPG",
+    "image": "productImages/Carpet/Creating-Making-Warm-Memories/Colors/Clean-Linen.JPG",
     "creatingImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Creating.JPG",
     "makingImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Making.JPG",
     "warmImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Warm.JPG",
@@ -1079,7 +1079,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Better",
-    "image": "../productImages/Carpet/Artistic-Fusion-2/Sea-Shell.JPG",
+    "image": "productImages/Carpet/Artistic-Fusion-2/Sea-Shell.JPG",
     "price": [
       {
         "priceType": "Regular",
@@ -1200,7 +1200,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "../productImages/Carpet/Perpetual-2/Eggshell.jpg",
+    "image": "productImages/Carpet/Perpetual-2/Eggshell.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1291,7 +1291,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "../productImages/Carpet/Home-Within/Frozen.JPG",
+    "image": "productImages/Carpet/Home-Within/Frozen.JPG",
     "price": [
       {
         "priceType": "Regular",
@@ -1402,7 +1402,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Value",
-    "image": "../productImages/Carpet/Right-Choice/Gallery-Opening.jpg",
+    "image": "productImages/Carpet/Right-Choice/Gallery-Opening.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1478,7 +1478,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Value",
-    "image": "../productImages/Carpet/Break-Away-S/Gentle-Breeze.JPG",
+    "image": "productImages/Carpet/Break-Away-S/Gentle-Breeze.JPG",
     "price": [
       {
         "priceType": "Regular",
@@ -1584,7 +1584,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/One-Plus/Salton-Chestnut.jpg",
+    "image": "productImages/LVP/One-Plus/Salton-Chestnut.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1660,7 +1660,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/Distinction/Timeless-Oak.jpg",
+    "image": "productImages/LVP/Distinction/Timeless-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1741,7 +1741,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Better",
-    "image": "../productImages/LVP/VV023/Gold-Coast-Acacia.jpg",
+    "image": "productImages/LVP/VV023/Gold-Coast-Acacia.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1862,7 +1862,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Better",
-    "image": "../productImages/LVP/VV024/Kingswood-Oak.jpg",
+    "image": "productImages/LVP/VV024/Kingswood-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -1968,7 +1968,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Better",
-    "image": "../productImages/LVP/VV012/Axial-Oak.jpg",
+    "image": "productImages/LVP/VV012/Axial-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2079,7 +2079,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Better",
-    "image": "../productImages/LVP/Ascent/Sierra.jpg",
+    "image": "productImages/LVP/Ascent/Sierra.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2160,7 +2160,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "NPR",
-    "image": "../productImages/LVP/Advanced/Ansley-Walnut.jpg",
+    "image": "productImages/LVP/Advanced/Ansley-Walnut.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2241,7 +2241,7 @@
     "brand": "Shaw Floors",
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/Prodigy-HDR/Nomad.jpg",
+    "image": "productImages/LVP/Prodigy-HDR/Nomad.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2322,7 +2322,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Value",
-    "image": "../productImages/LVP/Galaxy/Whirlpool-Oak.jpg",
+    "image": "productImages/LVP/Galaxy/Whirlpool-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2408,7 +2408,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/Anvil/Chatter-Oak.jpg",
+    "image": "productImages/LVP/Anvil/Chatter-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2489,7 +2489,7 @@
     "brand": "Philadelphia Commerical", 
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/In-The-Grain-2/Rye.jpg",
+    "image": "productImages/LVP/In-The-Grain-2/Rye.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2635,7 +2635,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/VV566/Arubani.jpg",
+    "image": "productImages/LVP/VV566/Arubani.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2691,7 +2691,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/VV566/Arubani.jpg",
+    "image": "productImages/LVP/VV566/Arubani.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2752,7 +2752,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/VV568/Semonia.jpg",
+    "image": "productImages/LVP/VV568/Semonia.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2803,7 +2803,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/Northern-Voyage/Petaluma.jpg",
+    "image": "productImages/LVP/Northern-Voyage/Petaluma.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2854,7 +2854,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Good",
-    "image": "../productImages/LVP/Infinite/Raw-Sienna.jpg",
+    "image": "productImages/LVP/Infinite/Raw-Sienna.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -2935,7 +2935,7 @@
     "brand": "Floorte",
     "productType": "LVP",
     "rating": "Value",
-    "image": "../productImages/LVP/Endura/Ivory-Oak.jpg",
+    "image": "productImages/LVP/Endura/Ivory-Oak.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3086,7 +3086,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Value",
-    "image": "../productImages/LVP/CT-PREM/Conch-Ash.jpg",
+    "image": "productImages/LVP/CT-PREM/Conch-Ash.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3167,7 +3167,7 @@
     "brand": "COREtec",
     "productType": "LVP",
     "rating": "Value",
-    "image": "../productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg",
+    "image": "productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3248,7 +3248,7 @@
     "brand": "Shaw Floors",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "../productImages/Hardwood/Expressions/Poetry.jpg",
+    "image": "productImages/Hardwood/Expressions/Poetry.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3348,7 +3348,7 @@
     "brand": "Shaw Floors",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "../productImages/Hardwood/Cornerstone-Oak/Slate.jpg",
+    "image": "productImages/Hardwood/Cornerstone-Oak/Slate.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3403,7 +3403,7 @@
     "brand": "Shaw Floors",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "../productImages/Hardwood/Utmost/Base.jpg",
+    "image": "productImages/Hardwood/Utmost/Base.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3463,7 +3463,7 @@
     "brand": "Anderson Tuftex",
     "productType": "Hardwood",
     "rating": "Value",
-    "image": "../productImages/Hardwood/Imperial-Pecan/Fawn.jpg",
+    "image": "productImages/Hardwood/Imperial-Pecan/Fawn.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3543,7 +3543,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Value",
-    "image": "../productImages/Carpet/QS854/Bali-Sand.jpg",
+    "image": "productImages/Carpet/QS854/Bali-Sand.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3619,7 +3619,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Value",
-    "image": "../productImages/Carpet/QS858/Sea-Salt.jpg",
+    "image": "productImages/Carpet/QS858/Sea-Salt.jpg",
     "price": [
       {
         "priceType": "Regular",
@@ -3695,7 +3695,7 @@
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
     "rating": "Good",
-    "image": "../productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Compose.JPG",
+    "image": "productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Compose.JPG",
     "price": [
       {
         "priceType": "Regular",
@@ -3762,7 +3762,7 @@
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
     "rating": "Good",
-    "image": "../productImages/Carpet-Tile/Biotic-Esthetic/Colors/Character.JPG",
+    "image": "productImages/Carpet-Tile/Biotic-Esthetic/Colors/Character.JPG",
     "price": [
       {
         "priceType": "Regular",
@@ -3814,7 +3814,7 @@
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
     "rating": "Good",
-    "image": "../productImages/Carpet-Tile/Sort-Stack/Colors/Twist.JPG",
+    "image": "productImages/Carpet-Tile/Sort-Stack/Colors/Twist.JPG",
     "price": [
       {
         "priceType": "Regular",
@@ -3871,7 +3871,7 @@
     "brand": "Shaw Floors",
     "productType": "Carpet",
     "rating": "Good",
-    "image": "../productImages/Carpet/Blocking-Parallel-Lattice/Colors/Cream.JPG",
+    "image": "productImages/Carpet/Blocking-Parallel-Lattice/Colors/Cream.JPG",
     "price": [
       {
         "priceType": "Regular",

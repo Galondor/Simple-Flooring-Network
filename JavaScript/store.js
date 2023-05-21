@@ -82,7 +82,7 @@ async function getProducts() {
     if (currentPage == 1) {
       for (let i = 0; i < productData.length; i++) {
         products.innerHTML += `<a href="itemPage.html" class="product_wrapper" onclick="selectedProduct(${productData[i].sfnStyleNumber})" >
-        <div class="product" id="product" value="${productData[i].rating}" style="background-image: url(${productData[i].image})" loading="lazy" type="jpeg">
+        <div class="product" id="product" value="${productData[i].rating}" style="background-image: url(../${productData[i].image})" loading="lazy" type="jpeg">
         <div class="product_banner">
             <h3 class="product_name">${productData[i].sfnName}</h3>
             <h4 class="product_brand">${productData[i].brand}</h4>
