@@ -85,3 +85,38 @@ rightArrow.addEventListener('click', function() {
 function togglePopup(){
     document.getElementById("popup-1").classList.toggle("active");
 }
+
+recentlyViewed();
+
+async function recentlyViewed() {
+    try {
+        const response = await fetch('../products.json');
+        const data = await response.json();
+
+        const recentlyViewedStorage = JSON.parse(localStorage.getItem("recentlyViewed").split(','));
+        const header = document.querySelector('.recently_viewed_header');
+    recentlyViewed = document.querySelector('.recently_viewed');
+    if (recentlyViewedStorage.length > 0) {
+        header.style.display = "flex";
+        recentlyViewed.style.display = "flex";
+        for (let i = 0; i < recentlyViewedStorage.length; i++) {
+            recentlyViewed.innerHTML += `
+            <a href="../HTML/itemPage.html" onclick="selectedProduct(${recentlyViewedStorage[i].sfnNum})">
+        <div class="recently_viewed_product">
+        <img src="${data[recentlyViewedStorage[i].sfnNum - 1].image}" alt="No Image" Class="recently_viewed_img">
+        <div class="recently_viewed_product_wrapper">
+            <h3 class="recently_viewed_product_title">${data[recentlyViewedStorage[i].sfnNum - 1].sfnName}</h3>
+            <p class="recently_viewed_product_price">${data[recentlyViewedStorage[i].sfnNum - 1].price[0].priceValue}<span class="uom">/sqft</span></p>
+        </div>
+    </div>
+    </a>`
+        }
+    }
+    } catch (error) {
+        console.log(error);
+    }
+}
+
+function selectedProduct(product) {
+    localStorage.setItem("selectedProduct", product);
+}

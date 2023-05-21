@@ -44,4 +44,23 @@ async function getProducts() {
 function selectedProduct(product) {
   //Get the poduct data from the clicked product
   localStorage.setItem('selectedProduct', product);
+
+  let recent = JSON.parse(localStorage.getItem("recentlyViewed")) || [];
+  let newItem = {sfnNum: product,};
+
+  //Check to make sure the product isn't a duplicate
+  for (let i = 0; i < recent.length; i++) {
+    if (recent[i].sfnNum === product) {
+      recent.splice(i, 1);
+    }
+  }
+  
+  if (recent.length > 4) {
+    recent.shift();
+    recent.push(newItem);
+  } else {
+    recent.push(newItem);
+  }
+
+  localStorage.setItem("recentlyViewed", JSON.stringify(recent));
 }
