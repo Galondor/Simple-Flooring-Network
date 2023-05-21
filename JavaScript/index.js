@@ -1,6 +1,6 @@
 async function getMonthlyProduct() {
     try {
-        const response = await fetch('../products.json');
+        const response = await fetch('products.json');
         const data = await response.json();
 
         localStorage.setItem("selectedProduct", data[16].sfnStyleNumber);
@@ -90,7 +90,7 @@ recentlyViewed();
 
 async function recentlyViewed() {
     try {
-        const response = await fetch('../products.json');
+        const response = await fetch('products.json');
         const data = await response.json();
 
         const recentlyViewedStorage = JSON.parse(localStorage.getItem("recentlyViewed").split(','));
