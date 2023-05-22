@@ -35,7 +35,7 @@ navBar.innerHTML = `
         <a href="#about" class="nav_link link_hover-effect">About Us</a>
         <a href="#contact" class="nav_link link_hover-effect">Contact</a>
         <a href="homepage.html" class="nav_link link_hover-effect">Home</a>
-        <a href="" class="tooltip">
+        <a href="cart.html" class="tooltip">
             <img class="cart_img" src="../assets/shopping-cart.svg" alt="Shopping-Cart">
             <img class="cart_contents_img" src="../assets/circle.svg" alt=""><span class="cart_amount_img">1</span>
             <div class="tooltip_container" id="bottom">
@@ -95,7 +95,7 @@ if (cart.length > 0) {
                     <span class="cart_product_name">${cart[i].name}</span>
                     <span class="cart_product_color">${cart[i].color}</span>
                 </div>
-                <img src="../${cart[i].image}" alt="No Image" class="cart_product_image"> 
+                <img src="${cart[i].image}" alt="No Image" class="cart_product_image"> 
             </div>`;
         } 
     }

@@ -106,6 +106,7 @@ async function addProductToCart() {
     price: productData[product - 1].price[0].priceValue,
     color: color.textContent,
     image: currentColor,
+    type: productData[product - 1].productType,
   };
   console.log(currentColor)
   cart.push(newItem);

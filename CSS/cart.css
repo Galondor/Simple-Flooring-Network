@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+
+#main {
+    height: 100vh;
+}
+
+.products_container {
+    text-align: center;
+}
+
+.product {
+    display: flex;
+    flex-direction: row;
+}
+
+.product_info {
+    width: 100%;
+}
