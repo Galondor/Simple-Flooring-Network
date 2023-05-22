@@ -243,7 +243,7 @@ footer .row {
 
 .tooltip_container {
     z-index: 2;
-    visibility: hidden;
+    opacity: 0;
     position: absolute;
     background-color: #fff;
     color: #242424;
@@ -256,13 +256,14 @@ footer .row {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    max-height: 400px;
+    max-height: 420px;
     overflow-y: hidden;
+    transition: opacity 150ms ease-in, transform 150ms ease-in-out;
 }
 
 .tooltip:hover 
 .tooltip_container {
-    visibility: visible;
+    opacity: 1;
 }
 
 .cart_product_name {
@@ -283,7 +284,7 @@ footer .row {
     width: 40px;
     margin-right: 16px;
     border-radius: 8px;
-
+    transition: all 300ms ease;
 }
 
 .cart_product_image:hover {
@@ -292,13 +293,19 @@ footer .row {
 
 .cart_btn {
     margin: 8px;
-    transition: all 0ms;
+    transition: all 300ms ease;
 }
 
 .cart_overflow {
     font-size: 16px;
     text-decoration: none;
     color: #5c5857;
+    transition: all 300ms ease;
+}
+
+.cart_overflow:hover {
+    color: #242424;
+    transform: scale(1.07);
 }
 
 .cart_product {
