@@ -107,6 +107,7 @@ async function addProductToCart() {
     color: color.textContent,
     image: currentColor,
     type: productData[product - 1].productType,
+    styleNumber: productData[product - 1].sfnStyleNumber,
   };
   console.log(currentColor)
   cart.push(newItem);

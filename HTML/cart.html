@@ -10,34 +10,50 @@
     <script src="../JavaScript/global.js" defer></script>
     <script src="../JavaScript/cart.js" defer></script>
 </head>
-<body>
+<body onload="renderPage()">
     <nav id="nav_bar"></nav>
     <section id="main">
-        <div class="container">
-            <div class="row">
-                <div class="products_container">
-                    <div class="product_info">
-                        <h1 class="product_style">Item</h1>
-                        <h1 class="product_color">Price</h1>
-                        <h1 class="product_type">Qty</h1>
-                        <h1 class="product_price">Subtotal</h1>
-                    </div>
-                    <div class="product">
-                        <div class="product_info">
-                            <div class="product_info_container">
-                                <img src="../productImages/Default-Image.jpg" alt="" style="height: 128px;">
-                                <h1>Product Name</h1>
-                                <h2>Color Name</h2>
-                                <h3>Product Type</h3>
-                            </div>
-                            <h2 class="product_price">$0.00</h2>
-                            <h3 class="qty">10</h3>
-                            <h4 class="subtotal">$10.00</h4>
-                        </div>
+        <section id="cart">
+            <div class="container">
+                <div class="row">
+                    <div class="cart_wrapper">
+                        <table>
+                                <thead>
+                                    <tr class="headers">
+                                        <th class="header_product">Product</th>
+                                        <th class="header_price">Price</th>
+                                        <th class="header_qty">Quantity</th>
+                                        <th class="header_total">Subtotal</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="products"> 
+                                </tbody>
+                        </table>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
+        <section id="summary">
+            <div class="container">
+                <div class="summary_wrapper">
+                    <h1 class="summary_title">Summary</h1>
+                    <div class="summary_info">
+                        <div class="totals totals_sub">
+                            <h4 class="total_title">Sub Total</h4>
+                            <h4 class="total_value" id="subtotal"></h4>           
+                        </div>
+                        <div class="totals totals_tax">
+                            <h4 class="total_title">Tax</h4>
+                            <h4 class="total_value" id="taxtotal"></h4>
+                        </div>
+                    </div>
+                    <div class="totals order_total">
+                        <h1 class="order_total_title">Order Total</h1>
+                        <h1 class="total_value" id="ordertotal"></h1>
+                    </div>
+                </div>
+            </div>
+        </section>
     </section>
     <footer id="footer"></footer>
 </body>
