@@ -103,7 +103,9 @@ if (cart.length > 0) {
                         <span class="cart_product_name">${cart[i].name}</span>
                         <span class="cart_product_color">${cart[i].color}</span>
                     </div>
-                    <img src="${cart[i].image}" alt="No Image" class="cart_product_image"> 
+                    <a href="itemPage.html" onclick="selectedProduct(${cart[i].styleNumber})">
+                        <img src="${cart[i].image}" alt="No Image" class="cart_product_image"> 
+                    </a>
                 </div>`;
             }
         } 
@@ -118,3 +120,28 @@ if (cart.length <= 0) {
     cartContents.innerHTML = `<span>Your Cart is Empty :(</span>`;
 } 
 }
+
+function selectedProduct(product) {
+    //Get the poduct data from the clicked product
+    localStorage.setItem('selectedProduct', product);
+  
+    let recent = JSON.parse(localStorage.getItem("recentlyViewed")) || [];
+    let newItem = {sfnNum: product,};
+  
+    //Check to make sure the product isn't a duplicate
+    for (let i = 0; i < recent.length; i++) {
+      if (recent[i].sfnNum === product) {
+        recent.splice(i, 1);
+      }
+    }
+    
+    if (recent.length > 4) {
+      recent.shift();
+      recent.push(newItem);
+    } else {
+      recent.push(newItem);
+    }
+  
+    localStorage.setItem("recentlyViewed", JSON.stringify(recent));
+  }
+  

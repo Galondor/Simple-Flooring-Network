@@ -291,6 +291,7 @@ footer .row {
     margin-right: 16px;
     border-radius: 8px;
     transition: all 300ms ease;
+    cursor: pointer;
 }
 
 .cart_product_image:hover {
