@@ -35,12 +35,15 @@ navBar.innerHTML = `
         <a href="#about" class="nav_link link_hover-effect">About Us</a>
         <a href="#contact" class="nav_link link_hover-effect">Contact</a>
         <a href="homepage.html" class="nav_link link_hover-effect">Home</a>
-        <a href="" class="tooltip">
+        <div class="tooltip">
             <img class="cart_img" src="../assets/shopping-cart.svg" alt="Shopping-Cart">
             <img class="cart_contents_img" src="../assets/circle.svg" alt=""><span class="cart_amount_img">1</span>
             <div class="tooltip_container" id="bottom">
+            <div class="cart_products"></div>
+            <button onclick="clearCart()" class="btn cart_btn cart_btn-1">Clear Cart</button>
+            <a class="btn cart_btn cart_btn-2" href="cart.html">Checkout</a>
             </div>
-        </a>
+        </div>
     </div>
 </div>`;}
 
@@ -83,32 +86,62 @@ function clearCart() {
 }
 
 function renderCart() {
-cartContents = document.querySelector(".tooltip_container");
+cartContents = document.querySelector(".cart_products");
+cartContainer = document.querySelector(".tooltip_container");
+const cartBtn1 = document.querySelector(".cart_btn-1");
+const cartBtn2 = document.querySelector(".cart_btn-2");
 const cart = JSON.parse(localStorage.getItem("cart")) || [];
 cartContents.innerHTML = "";
 if (cart.length > 0) {
-    for (let i = 0; i < 3; i++) {
+    cartBtn1.style.display = "flex";
+    cartBtn2.style.display = "flex";
         if (navBar) {
-            cartContents.innerHTML += `
-            <div class="cart_product">
-                <div class="cart_product_wrapper">
-                    <span class="cart_product_name">${cart[i].name}</span>
-                    <span class="cart_product_color">${cart[i].color}</span>
-                </div>
-                <img src="../${cart[i].image}" alt="No Image" class="cart_product_image"> 
-            </div>`;
+            for (let i = 0; i < 3; i++) {
+                cartContents.innerHTML += `
+                <div class="cart_product">
+                    <div class="cart_product_wrapper">
+                        <span class="cart_product_name">${cart[i].name}</span>
+                        <span class="cart_product_color">${cart[i].color}</span>
+                    </div>
+                    <a href="itemPage.html" onclick="selectedProduct(${cart[i].styleNumber})">
+                        <img src="${cart[i].image}" alt="No Image" class="cart_product_image"> 
+                    </a>
+                </div>`;
+            }
         } 
-    }
-    cartContents.innerHTML += `
-    <button onclick="clearCart()" class="btn cart_btn">Clear Cart</button>
-    <button onclick="" class="btn cart_btn">Checkout</button>
-    `;
-    if (cart.length > 3) {
-        cartContents.innerHTML += `<a href="#" class="cart_overflow" >See (${cart.length - 3}) More Items</a>`;
-    }
+        if (cart.length > 3) {
+            cartContents.innerHTML += `<a href="cart.html" class="cart_overflow" >See (${cart.length - 3}) More Items</a>`;
+        }
 }
 
 if (cart.length <= 0) {
+    cartBtn1.style.display = "none";
+    cartBtn2.style.display = "none";
     cartContents.innerHTML = `<span>Your Cart is Empty :(</span>`;
+} 
 }
-}
+
+function selectedProduct(product) {
+    //Get the poduct data from the clicked product
+    localStorage.setItem('selectedProduct', product);
+  
+    let recent = JSON.parse(localStorage.getItem("recentlyViewed")) || [];
+    let newItem = {sfnNum: product,};
+  
+    //Check to make sure the product isn't a duplicate
+    for (let i = 0; i < recent.length; i++) {
+      if (recent[i].sfnNum === product) {
+        recent.splice(i, 1);
+      }
+    }
+    
+    if (recent.length > 4) {
+      recent.shift();
+      recent.push(newItem);
+    } else {
+      recent.push(newItem);
+    }
+  
+    localStorage.setItem("recentlyViewed", JSON.stringify(recent));
+  }
+  

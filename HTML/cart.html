@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Flooring Solutions</title>
+    <link rel="stylesheet" href="../CSS/global.css">
+    <link rel="stylesheet" href="../CSS/cart.css">
+    <script src="../JavaScript/global.js" defer></script>
+    <script src="../JavaScript/cart.js" defer></script>
+</head>
+<body onload="renderPage()">
+    <nav id="nav_bar"></nav>
+    <section id="main">
+        <section id="cart">
+            <div class="container">
+                <div class="row">
+                    <div class="cart_wrapper">
+                        <table>
+                                <thead>
+                                    <tr class="headers">
+                                        <th class="header_product">Product</th>
+                                        <th class="header_price">Price</th>
+                                        <th class="header_qty">Quantity</th>
+                                        <th class="header_total">Subtotal</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="products"> 
+                                </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="summary">
+            <div class="container">
+                <div class="summary_wrapper">
+                    <h1 class="summary_title">Summary</h1>
+                    <div class="summary_info">
+                        <div class="totals totals_sub">
+                            <h4 class="total_title">Sub Total</h4>
+                            <h4 class="total_value" id="subtotal"></h4>           
+                        </div>
+                        <div class="totals totals_tax">
+                            <h4 class="total_title">Tax</h4>
+                            <h4 class="total_value" id="taxtotal"></h4>
+                        </div>
+                    </div>
+                    <div class="totals order_total">
+                        <h1 class="order_total_title">Order Total</h1>
+                        <h1 class="total_value" id="ordertotal"></h1>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </section>
+    <footer id="footer"></footer>
+</body>
+</html>

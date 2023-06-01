@@ -90,7 +90,7 @@ recentlyViewed();
 
 async function recentlyViewed() {
     try {
-        const response = await fetch('products.json');
+        const response = await fetch('../products.json');
         const data = await response.json();
 
         const recentlyViewedStorage = JSON.parse(localStorage.getItem("recentlyViewed").split(','));
@@ -103,7 +103,7 @@ async function recentlyViewed() {
             recentlyViewed.innerHTML += `
             <a href="itemPage.html" onclick="selectedProduct(${recentlyViewedStorage[i].sfnNum})">
         <div class="recently_viewed_product">
-        <img src="${data[recentlyViewedStorage[i].sfnNum - 1].image}" alt="No Image" Class="recently_viewed_img">
+        <img src="../${data[recentlyViewedStorage[i].sfnNum - 1].image}" alt="No Image" Class="recently_viewed_img">
         <div class="recently_viewed_product_wrapper">
             <h3 class="recently_viewed_product_title">${data[recentlyViewedStorage[i].sfnNum - 1].sfnName}</h3>
             <p class="recently_viewed_product_price">${data[recentlyViewedStorage[i].sfnNum - 1].price[0].priceValue}<span class="uom">/sqft</span></p>
