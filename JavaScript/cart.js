@@ -56,6 +56,8 @@ function renderPage() {
         </section>`
 
         for (let i = 0; i < cart.length; i++) {
+            let currentProduct = 0;
+            currentProduct = cart[i].styleNumber;
             document.querySelector(".products").innerHTML += 
             `<tr class="product">
             <td class="item">
@@ -63,13 +65,13 @@ function renderPage() {
                 <h1>${cart[i].name}</h1>
                 <h2>${cart[i].color}</h2>
                 <h3>${cart[i].type}</h3>
-                <h4 id="remove_item" onclick="removeItem(${cart[i].styleNumber})">Remove Item</h4>
+                <h4 id="remove_item" onclick="removeItem(${currentProduct})">Remove Item</h4>
             </td>
             <td class="price">
                 <h1>${cart[i].price}</h1>
             </td>
             <td class="qty">
-                <input type="number" name="quantity" id="quantity${i}" min="1" max="100" value="1" onchange="updateQuantity()">
+                <input type="number" name="quantity" id="quantity${i}" min="1" max="5" value="1" onchange="updateQuantity()">
             </td>
             <td class="total">
                 <h1 id="total_price${i}">${cart[i].price}</h1>

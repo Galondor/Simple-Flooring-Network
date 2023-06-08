@@ -10,8 +10,12 @@ const dropdowns = document.querySelectorAll('.color_dropdown');
 const menuEl = document.querySelector('.menu');
 const selectedEl = document.querySelector('.selected');
 
+const sizeDropdowns = document.querySelectorAll('.size_dropdown');
+const sizeMenuEl = document.querySelector('.size_menu');
+const sizeSelectedEl = document.querySelector('.size_selected');
+
 const addToCart = document.querySelector('.add_to_cart');
-const step2 = document.querySelector('.step-2');
+const step3 = document.querySelector('.step-3');
 const productImages = document.querySelector('.product_images');
 const productWrapper = document.querySelector('.product_wrapper');
 const colorImage = document.querySelector('.color_image');
@@ -37,8 +41,8 @@ async function getProducts() {
             currentColor = productData[i].colors[0].colorImage;
             productWrapper.innerHTML = `<img src="../${currentColor}" alt="" class="product_img">`;
 
-            step2.innerHTML = `<div class="step-2">
-            <h2>Order a Sample</h2>
+            step3.innerHTML = `<div class="step-3">
+            <h2>Order The Sample</h2>
             <button class="btn add_to_cart" onclick="addProductToCart()">Add to Cart</button>
         </div>`
           break;
@@ -54,6 +58,15 @@ async function getProducts() {
     src="../${productData[product - 1].colors[0].colorImage}" alt="">
     <span>${color.textContent}</span>
     `
+      }
+
+      const testData = [{size: 'Small'},{size: 'Medium'},{size: 'Large'}];
+
+      for (let i = 0; i < testData.length; i++) {
+        sizeMenuEl.innerHTML += `
+        <li><span>${testData[i].size}</span></li>`;
+        sizeSelectedEl.innerHTML = `
+        <span>Sample Size</span>`;
       }
     } catch (error) {
       console.log(error);
@@ -91,6 +104,31 @@ async function getProducts() {
         option.classList.add('active');
       });
     })
+    
+    sizeDropdowns.forEach(dropdown => {
+      const select = dropdown.querySelector('.size_select');
+      const caret = dropdown.querySelector('.size_caret');
+      const menu = dropdown.querySelector('.size_menu');
+      const options = dropdown.querySelectorAll('.size_menu li');
+      const selected = dropdown.querySelector('.size_selected');
+
+      select.addEventListener('click', () => {
+        select.classList.toggle('size_select_clicked');
+        caret.classList.toggle('size_caret_rotate');
+        menu.classList.toggle('size_menu_open');
+      });
+
+      options.forEach(option => {
+        option.addEventListener('click', () => {
+          selected.innerHTML = option.innerHTML;
+          select.classList.remove('size_select_clicked');
+          caret.classList.remove('size_caret_rotate');
+          menu.classList.remove('size_menu_open');
+          option.classList.remove('active');
+        });
+        option.classList.add('active');
+      });
+    })
   }
 
   //Add Product To Cart
@@ -100,6 +138,11 @@ async function addProductToCart() {
   const productData = data;
   const btn = document.querySelector('.add_to_cart');
 
+  if (sizeSelectedEl.textContent === '\n        Sample Size') {
+    alert('Please Select A Size');
+    return;
+  }
+
   let cart = JSON.parse(localStorage.getItem("cart")) || [];
   let newItem = {
     name: productData[product - 1].sfnName,
@@ -108,6 +151,7 @@ async function addProductToCart() {
     image: currentColor,
     type: productData[product - 1].productType,
     styleNumber: productData[product - 1].sfnStyleNumber,
+    size: sizeSelectedEl.textContent
   };
   console.log(currentColor)
   cart.push(newItem);

@@ -1,9 +1,28 @@
 async function getMonthlyProduct() {
     try {
-        const response = await fetch('products.json');
+        const response = await fetch('../products.json');
         const data = await response.json();
 
         localStorage.setItem("selectedProduct", data[16].sfnStyleNumber);
+
+        let recent = JSON.parse(localStorage.getItem("recentlyViewed")) || [];
+        let newItem = {sfnNum: data[16].sfnStyleNumber};
+      
+        //Check to make sure the product isn't a duplicate
+        for (let i = 0; i < recent.length; i++) {
+          if (recent[i].sfnNum === data[16].sfnStyleNumber) {
+            recent.splice(i, 1);
+          }
+        }
+        
+        if (recent.length > 4) {
+          recent.shift();
+          recent.push(newItem);
+        } else {
+          recent.push(newItem);
+        }
+      
+        localStorage.setItem("recentlyViewed", JSON.stringify(recent));
     } catch (error) {
         console.log(error);
     }
