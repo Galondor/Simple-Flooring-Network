@@ -114,7 +114,6 @@ submitBtn.addEventListener("click", () => {
     const answer = getSelected();
     if (answer || answer === 0) {
         score += answer;
-        console.log(score);
         currentQuiz++;
 
         if(currentQuiz < quizData.length) {
@@ -166,4 +165,16 @@ function results() {
     } else if (score > 84) {
         document.querySelector(".npr").classList += " highlight";
     }
+    
+
+    let storage = JSON.parse(localStorage.getItem("userQuizData")) || [];
+    let newItem = {
+        score: score,
+        date: Date(),
+        completed: true,
+    };
+    //Delete any old data
+    storage.splice(0, 1);
+    storage.push(newItem);
+    localStorage.setItem("userQuizData", JSON.stringify(storage));
 }

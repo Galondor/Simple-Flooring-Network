@@ -8,6 +8,12 @@
     "productType": "Carpet",
     "rating": "Good",
     "image": "productImages/Carpet/Without-Limits-2/Heather.JPG",
+    "sampleSizes": [
+      {
+        "sampleSize": "12x24",
+        "samplePrice": "$1.00"
+      }
+    ],
     "price": [
       {
         "priceType": "Regular",

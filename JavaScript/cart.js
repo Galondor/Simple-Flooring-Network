@@ -64,7 +64,7 @@ function renderPage() {
                 <img src="${cart[i].image}" alt="" class="product_image popout">
                 <h1>${cart[i].name}</h1>
                 <h2>${cart[i].color}</h2>
-                <h3>${cart[i].type}</h3>
+                <h3>${cart[i].type} / ${cart[i].size}</h3>
                 <h4 id="remove_item" onclick="removeItem(${currentProduct})">Remove Item</h4>
             </td>
             <td class="price">
