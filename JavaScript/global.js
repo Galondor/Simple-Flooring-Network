@@ -21,7 +21,8 @@ navBar.innerHTML = `
 <div class="row">
     <figure class="logo"><a href="homepage.html"><img src="../assets/SFS Logo.png" alt="Logo" class="logo_img"></a></figure>
     <div class="nav_links">
-        <a href="quiz.html" class="nav_link link_hover-effect">Flooring Quiz</a>
+        <a href="quiz.html" class="nav_link link_hover-effect quiz_link">Flooring Quiz
+        <img class="quiz_notif" src="../assets/circle.svg"></a>
         <div class="dropdown" data-dropdown="">
             <button class="nav_link dropdown_btn" data-dropdown-button>Products</button>
             <div class="dropdown_menu">
@@ -60,6 +61,14 @@ if (footer) {
             <a href="homepage.html" class="footer_link link_hover-effect">Home</a>
     </div>
 <p>Copyright &copy Simple Flooring Solutions. All Rights Reserved.</p>`;
+}
+
+const quizNotif = document.querySelector(".quiz_notif");
+const quizStorage = JSON.parse(localStorage.getItem("userQuizData")) || [];
+if (quizStorage[0].completed === true) {
+    quizNotif.style.opacity = "0";
+} else if (quizStorage[0].completed === false) {
+    quizNotif.style.opacity = "1";
 }
 
 
