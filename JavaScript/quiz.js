@@ -80,13 +80,17 @@ const tenText = document.getElementById("10_text");
 const fifteenText = document.getElementById("15_text");
 const submitBtn = document.getElementById("submit");
 const loader = document.querySelector(".loader");
+const recSection = document.getElementById("rec_products");
 
 let currentQuiz = 0;
 let score = 0;
+let rating = "";
+let userAnswers = [];
 
 renderQuiz();
 
 function renderQuiz() {
+    recSection.style.display = "none";
     deselectAnswers();
     const currentQuizData = quizData[currentQuiz];
     questionEl.innerText = currentQuizData.question;
@@ -114,8 +118,8 @@ submitBtn.addEventListener("click", () => {
     const answer = getSelected();
     if (answer || answer === 0) {
         score += answer;
-        console.log(score);
         currentQuiz++;
+        userAnswers.push(answer);
 
         if(currentQuiz < quizData.length) {
             setTimeout(() => {
@@ -129,7 +133,7 @@ submitBtn.addEventListener("click", () => {
             setTimeout(() => {
                 quiz.innerHTML = `
             <div class="quiz_header">
-            <h2 id="question">Please tell your sales rep that your score is: ${score}</h2>
+            <h2 id="question">Your Floor Score is: ${score}</h2>
             <div class="results">
                             <h3 class="value">VALUE: 0 - 35</h3>
                             <p>Selling soon, rentals & barely used areas</p>
@@ -143,6 +147,7 @@ submitBtn.addEventListener("click", () => {
                             <p>Superior cleanability & waterproof backing</p>
                         </div>
             <button id="submit" onclick="location.reload()">Reload</button>
+            <h2>Scroll Down For Some Recommendations!</h2>
             </div>
             `;
             results();
@@ -155,15 +160,93 @@ submitBtn.addEventListener("click", () => {
 });
 
 function results() {
+
     if (score < 35) {
         document.querySelector(".value").classList += " highlight";
+        rating = "Value";
     } else if (score > 35 && score < 56) {
         document.querySelector(".good").classList += " highlight";
+        rating = "Good";
     } else if (score > 59 && score < 71) {
         document.querySelector(".better").classList += " highlight";
+        rating = "Better";
     } else if (score > 74 && score < 81) {
         document.querySelector(".best").classList += " highlight";
+        rating = "Best";
     } else if (score > 84) {
         document.querySelector(".npr").classList += " highlight";
+        rating = "NPR";
+    }
+    
+
+    let storage = JSON.parse(localStorage.getItem("userQuizData")) || [];
+    let newItem = {
+        score: score,
+        date: Date(),
+        completed: true,
+    };
+    //Delete any old data
+    storage.splice(0, 1);
+    storage.push(newItem);
+    localStorage.setItem("userQuizData", JSON.stringify(storage));
+
+   renderProducts();
+}
+
+async function renderProducts() {
+    const hardwoodEl = document.querySelector(".hardwood");
+    const carpetProducts = document.querySelector(".carpet_products");
+    const lvpProducts = document.querySelector(".lvp_products");
+    const hardProducts = document.querySelector(".hardwood_products");
+
+    recSection.style.display = "block";
+
+    if (rating === "NPR" || rating === "Good" || userAnswers[6] >= 10) {
+        hardwoodEl.style.display = "none";
+    }
+    
+    if (userAnswers[6] <= 5 && userAnswers[9] === 15 && rating !== "NPR" && rating !== "Good") {
+        hardwoodEl.style.display = "flex";
+    }
+
+    try {
+        const response = await fetch('../products.json');
+        const data = await response.json();
+
+        const preCarpetData = data.filter(product => product.productType === "Carpet");
+        const preLvpData = data.filter(product => product.productType === "LVP");
+        const preHardData = data.filter(product => product.productType === "Hardwood");
+
+        const carpetData = preCarpetData.filter(product => product.rating === rating);
+        const lvpData = preLvpData.filter(product => product.rating === rating);
+        const hardData = preHardData.filter(product => product.rating === rating);
+        console.log(carpetData);
+        console.log(lvpData);
+        console.log(hardData);
+
+        for (let i = 0; i < 4; i++) {
+            carpetProducts.innerHTML += `
+            <a class="product_wrapper" href=itemPage.html onclick="selectedProduct(${carpetData[i].sfnStyleNumber})"><div class="product">
+            <img class="product_image" src="../${carpetData[i].image}" alt="No Image">
+            <h3 class="product_name">${carpetData[i].sfnName}</h3>
+            </div></a>`; 
+
+            lvpProducts.innerHTML += `
+            <a class="product_wrapper" href=itemPage.html onclick="selectedProduct(${lvpData[i].sfnStyleNumber})"><div class="product">
+            <img class="product_image" src="../${lvpData[i].image}" alt="No Image">
+            <h3 class="product_name">${lvpData[i].sfnName}</h3>
+            </div></a>`;
+
+            if (userAnswers[6] <= 5 && userAnswers[9] === 15 && rating !== "NPR" && rating !== "Good") {
+                hardProducts.innerHTML += `
+                <a class="product_wrapper" href=itemPage.html onclick="selectedProduct(${hardData[i].sfnStyleNumber})"><div class="product">
+                <img class="product_image" src="../${hardData[i].image}" alt="No Image">
+                <h3 class="product_name">${hardData[i].sfnName}</h3>
+                </div></a>`;
+            }
+        }
+
+    } catch (error) {
+        console.log(error);
     }
 }

@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+#main {
+    min-height: 100vh;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+}
+
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+h1 {
+    text-align: center;
+}
+
+.phone {
+    text-decoration: none;
+
+}
+
+figure img {
+    padding-right: 8px;
+}

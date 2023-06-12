@@ -335,3 +335,17 @@ footer .row {
     align-items: center;
     text-align: center;
 }
+
+.quiz_notif {
+    position: absolute;
+    background-color: #FF0000;
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    margin-left: 2px;
+}
+
+.quiz_link {
+    position: relative;
+    margin-right: 24px;
+}
