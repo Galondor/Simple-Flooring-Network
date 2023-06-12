@@ -35,7 +35,7 @@ body {
 }
 
 #deals .container {
-    top: 520px;
+    top: 480px;
     position: absolute;
     width: 100%;
     padding: 0;
@@ -181,6 +181,12 @@ body {
     background-size: cover;
 }
 
+/* REVIEWS */
+
+#reviews {
+    background-color: #fff;
+}
+
 /* QUIZ */
 
 #quiz {
@@ -213,177 +219,6 @@ body {
 .quiz_btn a{
     text-decoration: none;
     color: #fff;
-}
-
-/* ABOUT US */
-
-#about {
-    background-color: #fff;
-    background-image: linear-gradient(315deg, #242424 0%, #5c5857 100%);
-}
-
-.content_container .para_title {
-    color: #fff;
-}
-
-.about_header {
-    color: #fff;
-}
-
-.about_container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 48px;
-    margin-top: 48px;
-}
-
-.store_img {
-    height: 352px;
-    border: 1px solid #fff;
-    border-radius: 16px;
-    margin-right: 24px;
-}
-
-.sfn_store-img {
-    height: 352px;
-    width: 352px;
-    border: 1px solid #fff;
-    border-radius: 16px;
-    margin-right: 24px;
-}
-
-.sfn_container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 48px;
-    margin-top: 48px;
-}
-
-.about_para {
-    font-size: 18px;
-    font-weight: 500;
-    text-align: center;
-    width: 500px;
-    color: #fff;
-}
-
-.roomvo_header {
-    text-align: right;
-}
-
-.roomvo_img {
-    height: 352px;
-    border: 1px solid #fff;
-    border-radius: 16px;
-    margin-left: 24px;
-}
-
-.roomvo_container {
-    display: flex;
-    flex-direction: row-reverse;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 48px;
-    margin-top: 48px;
-}
-
-.roomvo_para {
-    font-size: 18px;
-    font-weight: 500;
-    text-align: center;
-    width: 500px;
-    color: #fff;
-}
-
-/* CONTACT */
-
-#contact .row {
-    display: flex;
-    flex-direction: column;
-}
-
-#contact .row h2 {
-    text-align: center;
-    margin-left: 32px;
-    font-size: 48px;
-}
-
-.contact_container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 48px;
-    margin-top: 48px;
-    border: 2px solid black;
-    background-color: whitesmoke;
-}
-
-.store-1,
-.store-2 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 48px;
-}
-
-.store-1 h3, .store-2 h3 {
-    font-size: 22px;
-}
-
-.store-1 p, .store-2 p {
-    margin: 8px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 18px;
-}
-
-.store-1 p img, .store-2 p img {
-    margin-right: 12px;
-}
-
-.divider {
-    background-color: #242424;
-    padding: 1px;
-    height: 242px;
-    width: 1px;
-    margin-right: 82px;
-    margin-left: 82px;
-}
-
-.maps {
-    display: flex;
-    flex-direction: row;
-}
-
-.map-1 {
-    margin-right: 82px;
-}
-
-.call_number {
-    text-decoration: none;
-    color: blue;
-    transition: all 300ms ease;
-}
-
-.call_number:hover {
-    transform: scale(1.07);
-}
-
-.mail_email {
-    text-decoration: none;
-    color: blue;
-    transition: all 300ms ease;
-}
-
-.mail_email:hover {
-    transform: scale(1.07);
 }
 
 /* CAROUSEL */
@@ -523,10 +358,12 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
+    border: none;
 }
 
-.samples p {
+.quick_nav_title {
     font-size: 18px;
+    margin-top: 16px;
 }
 
 /* HEADER */
