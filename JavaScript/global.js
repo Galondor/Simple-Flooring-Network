@@ -64,6 +64,14 @@ if (footer) {
 
 const quizNotif = document.querySelector(".quiz_notif");
 const quizStorage = JSON.parse(localStorage.getItem("userQuizData")) || [];
+
+if (localStorage.getItem("userQuizData") === null) {
+    quizStorage.push({
+        completed: false
+    });
+    localStorage.setItem("userQuizData", JSON.stringify(quizStorage));
+}
+
 if (quizStorage[0].completed === true) {
     quizNotif.style.opacity = "0";
 } else if (quizStorage[0].completed === false) {
