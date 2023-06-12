@@ -320,6 +320,8 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
 }
 
 #quick_nav .container {
@@ -366,6 +368,11 @@ body {
     margin-top: 16px;
 }
 
+.middle_link {
+    margin-right: 72px;
+    margin-left: 72px;
+}
+
 /* HEADER */
 
 header {
@@ -373,7 +380,7 @@ header {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin-top: 48px;
+    margin-top: 24px;
 }
 
 #motd {
