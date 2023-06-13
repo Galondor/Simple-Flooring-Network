@@ -10,6 +10,7 @@
     <script src="../JavaScript/global.js" defer></script>
 </head>
 <body style="margin: 0;">
+    <div class="mobile_menu"></div>
     <nav id="nav_bar">
     </nav>
     <section id="main" style="height: 250vh; padding: 32px; padding-top: 64px; background-color: #f4f4f4;">
@@ -23,6 +24,12 @@
             @media (max-width: 768px) {
                 .tooltip_container {
                     top: 11% !important;
+                }
+            }
+
+            @media (max-width: 426px) {
+                #main {
+                    padding: 0 !important;
                 }
             }
         </style>

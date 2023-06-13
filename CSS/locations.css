@@ -52,3 +52,11 @@ figure img {
         top: 11% !important;
     }
 }
+
+@media (max-width: 426px) {
+    #main .row {
+        flex-direction: column;
+        align-items: center;
+        margin-right: 20px;
+    }
+}

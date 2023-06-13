@@ -722,3 +722,108 @@ header {
         top: 8% !important;
     }
 }
+
+@media (max-width: 426px) {
+    #carousel {
+        padding: 0px;
+    }
+
+    .quick_nav_link svg {
+        height: 40px;
+    }
+
+    .quick_nav_link img {
+        height: 40px;
+    }
+
+    .middle_link {
+        margin-right: 16px;
+        margin-left: 16px;
+    }
+
+    .recently_viewed {
+        max-width: 425px;
+        flex-flow: row wrap;
+    }
+
+    .recently_viewed a {
+        width: calc(100% / 3)
+    }
+
+    .recently_viewed_img {
+        height: 60px;
+    }
+
+    .recently_viewed_product {
+        margin: 4px;
+    }
+
+    .recently_viewed_product_title {
+        font-size: 14px;
+        max-width: 100px;
+    }
+
+    .recently_viewed_product_price {
+        font-size: 12px;
+    }
+    
+    .uom {
+        font-size: 8px;
+    }
+
+    .hot_products {
+        max-width: 425px;
+        flex-flow: row wrap;
+    }
+
+    .hot_product_img {
+        height: 80px;
+    }
+
+    #motd {
+        text-align: center;
+        margin-bottom: 16px;
+        font-size: 20px;
+    }
+
+    #deals {
+        max-width: 425px;
+    }
+
+    #deals .container {
+        top: 0;
+    }
+
+    .deals_container {
+        flex-flow: column wrap;
+    }
+
+    .deals_container h2 {
+        color: #242424;
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .deal_content-container {
+        text-align: center;
+        width: 100%;
+    }
+
+    .deal_content-container p{
+        font-size: 14px;
+        text-align: center;
+        color: #242424;
+        background-color: #fff;
+        border-radius: 8px;
+        padding: 8px;
+    }
+
+    .deal_item {
+        margin-top: 64px;
+    }
+
+    .quiz_content-container p {
+        text-align: center;
+    }
+
+}

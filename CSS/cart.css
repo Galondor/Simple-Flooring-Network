@@ -215,3 +215,27 @@ input {
         top: 8% !important;
     }
 }
+
+@media (max-width: 426px) {
+    #main {
+        display: flex;
+        flex-direction: column;
+    }
+    #cart {
+        width: 100%;
+    }
+
+    .cart_wrapper {
+        width: 100%;
+    }
+
+    #summary {
+        width: 100%;
+    }
+
+    #summary .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

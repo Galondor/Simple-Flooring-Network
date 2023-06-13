@@ -350,6 +350,11 @@ footer .row {
     margin-right: 24px;
 }
 
+.mobile_menu_btn {
+    fill: #fff;
+    display: none;
+}
+
 @media (max-width: 1024px) {
     .row {
         max-width: 1000px;
@@ -389,5 +394,116 @@ footer .row {
 
     .tooltip_container {
         left: 72%;
+    }
+}
+
+@media (max-width: 426px) {
+    .mobile_menu_btn {
+        fill: #fff;
+        display: flex;
+        height: 40px;
+        margin-right: 20px;
+        transition: all 300ms ease;
+        cursor: pointer;
+    }
+
+    .nav_links {
+        display: none;
+    }
+
+    .row {
+        max-width: 425px;
+    }
+
+    nav .row {
+        align-items: center;
+    }
+
+    .mobile_menu_btn:hover {
+        transform: scale(1.07);
+    }
+
+    .mobile_menu {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100vw;
+        height: 100vh;
+        background: #fff;
+        z-index: 2;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .menu_background {
+        background-color: #f9f9f9;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 8px;
+        border-radius: 16px;
+        z-index: 2;
+    }
+
+    .menu_item,
+    .store_item {
+        position: relative;
+        z-index: 2;
+        margin: 4px;
+    }
+
+    .menu_item a,
+    .store_item a {
+        text-decoration: none;
+        color: #242424;
+        font-size: 28px;
+        font-weight: 800;
+    }
+
+    .mobile_menu .menu_overlay {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100vw;
+        height: 100vh;
+        background: rgba(0,0,0,0.7);
+        z-index: 1;
+        display: block;
+    }
+
+    .close_menu_btn {
+        display: none;
+        cursor: pointer;
+        position: absolute;
+        fill: #fff;
+        background-color: #242424;
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        padding: 8px;
+        right: 0px;
+        top: 0px;
+        margin-right: 20px;
+        margin-top: 20px;
+        z-index: 2;
+    }
+
+    .mobile_cart_amt {
+        color: #FF0000;
+    }
+
+    .menu_divider {
+        width: 100%;
+        height: 4px;
+        background-color: #242424;
+        border-radius: 16px;
+        margin: 8px;
+        padding: 4px;
+    }
+
+    #footer p {
+        text-align: center;
     }
 }
