@@ -440,4 +440,18 @@ body {
     .step-3 {
         align-items: center;
     }
+
+    .product_wrapper {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .product_slide_show {
+        width: 400px;
+    }
+
+    .product_image {
+        height: 64px;
+        width: 64px;
+    }
 }

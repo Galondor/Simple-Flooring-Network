@@ -238,4 +238,8 @@ input {
         align-items: center;
         justify-content: center;
     }
+
+    .empty_cart {
+        text-align: center;
+    }
 }
