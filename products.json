@@ -8,6 +8,7 @@
     "productType": "Carpet",
     "rating": "Good",
     "image": "productImages/Carpet/Without-Limits-2/Heather.JPG",
+    "hot": true,
     "sampleSizes": [
       {
         "sampleSize": "17x13.5",
@@ -342,6 +343,7 @@
     "productType": "Carpet",
     "rating": "Better",
     "image": "productImages/Carpet/Yes-You-Can/Seashell.jpg",
+    "hot": true,
     "price": [
       {
         "priceType": "Regular",
@@ -1591,6 +1593,7 @@
     "productType": "LVP",
     "rating": "Good",
     "image": "productImages/LVP/One-Plus/Salton-Chestnut.jpg",
+    "hot": true,
     "price": [
       {
         "priceType": "Regular",
@@ -2329,6 +2332,7 @@
     "productType": "LVP",
     "rating": "Value",
     "image": "productImages/LVP/Galaxy/Whirlpool-Oak.jpg",
+    "hot": true,
     "price": [
       {
         "priceType": "Regular",
@@ -2415,6 +2419,7 @@
     "productType": "LVP",
     "rating": "Value",
     "image": "productImages/LVP/Anvil/Chatter-Oak.jpg",
+    "hot": true,
     "price": [
       {
         "priceType": "Regular",
@@ -3174,6 +3179,7 @@
     "productType": "LVP",
     "rating": "Better",
     "image": "productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg",
+    "hot": true,
     "price": [
       {
         "priceType": "Regular",
