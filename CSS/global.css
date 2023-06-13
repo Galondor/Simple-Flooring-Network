@@ -349,3 +349,45 @@ footer .row {
     position: relative;
     margin-right: 24px;
 }
+
+@media (max-width: 1024px) {
+    .row {
+        max-width: 1000px;
+    }
+
+    .logo_img {
+        height: 100px;
+        margin-left: 48px;
+    }
+
+    .footer_logo_img {
+        margin: 0;
+    }
+
+    .tooltip_container {
+        width: auto;
+        top: 13%;
+        left: 79%;
+        margin: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav_link {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .logo_img {
+        margin: 0;
+        height: 80px;
+    }
+
+    .row {
+        max-width: 768px;
+    }
+
+    .tooltip_container {
+        left: 72%;
+    }
+}

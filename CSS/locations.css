@@ -36,3 +36,19 @@ h1 {
 figure img {
     padding-right: 8px;
 }
+
+@media (max-width: 1024px) {
+    .location_description {
+        padding: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    #main .row {
+        margin-left: 20px;
+    }
+
+    .tooltip_container {
+        top: 11% !important;
+    }
+}

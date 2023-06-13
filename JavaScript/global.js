@@ -52,7 +52,7 @@ const footer = document.getElementById("footer");
 if (footer) {
     footer.innerHTML = `
 <div class="row">
-    <figure class="logo"><img src="../assets/SFS Logo.png" alt="Logo" class="logo_img"><a href="homepage.html"></a></figure>
+    <figure class="logo"><img src="../assets/SFS Logo.png" alt="Logo" class="logo_img footer_logo_img"><a href="homepage.html"></a></figure>
         <div class="footer_links">
             <a href="quiz.html" class="footer_link link_hover-effect">Flooring Quiz</a>
             <a href="store.html" class="footer_link link_hover-effect">Products</a>

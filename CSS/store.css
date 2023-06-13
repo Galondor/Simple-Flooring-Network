@@ -271,3 +271,23 @@
 .hardwood_container {
     display: block;
 }
+
+@media (max-width: 1024px) {
+    .tooltip_container {
+        top: 10%;
+    }
+}
+
+@media (max-width: 768px) {
+    .product_wrapper {
+        width: calc(100% / 3);
+    }
+
+    .products {
+        padding: 4px;
+    }
+
+    .tooltip_container {
+        top: 8% !important;
+    }
+}

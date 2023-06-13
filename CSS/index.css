@@ -641,3 +641,84 @@ header {
 .hot_product .uom {
     color: #fff;
 }
+
+@media (max-width: 1024px) {
+    .recently_viewed {
+        width: 1000px;
+    }
+
+    .recently_viewed_img {
+        height: 120px;
+    }
+
+    .recently_viewed_product_title {
+        font-size: 16px;
+    }
+
+    #deals .container {
+        top: 360px;
+    }
+
+    .panel {
+        width: 100%;
+    }
+
+    #material {
+        height: 180vh;
+    }
+
+    .tooltip_container {
+        top: 10% !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .recently_viewed {
+        max-width: 768px;
+    }
+
+    .recently_viewed_img {
+        height: 100px;
+    }
+
+    .recently_viewed_product {
+        margin: 8px;
+    }
+    
+    .hot_products {
+        max-width: 768px;
+    }
+
+    .hot_product_img {
+        height: 80px;
+    }
+
+    .quick_nav_link svg {
+        height: 100px;
+    }
+
+    .quick_nav_link img {
+        height: 100px;
+    }
+
+    #deals .container {
+        top: 444px;
+    }
+
+    .deal_content-container p{
+        font-size: 16px;
+    }
+
+    .deal_content-container h2{
+        font-size: 32px;
+    }
+
+    .deal_img_figure {
+        height: 150px;
+        width: 150px;
+    }
+
+    .tooltip_container {
+        top: 8% !important;
+    }
+}

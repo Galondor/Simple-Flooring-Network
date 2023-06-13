@@ -364,3 +364,48 @@ body {
 .move:hover {
     transform: scale(1.15);
 }
+
+@media (max-width: 768px) {
+    .product_wrapper {
+        height: 400px;
+        width: 400px;
+    }
+
+    .product_name {
+        font-size: 40px;
+    }
+
+    .price {
+        font-size: 36px;
+    }
+
+    .product_information {
+        width: 40%;
+        align-items: center;
+    }
+
+    .product_img_container {
+        width: 60%;
+    }
+
+    .product_description {
+        width: 60%;
+    }
+
+    .product_image {
+        height: 80px;
+        width: 80px;
+    }
+
+    #color_name {
+        text-align: center;
+    }
+
+    .product_description p {
+        width: 100%;
+    }
+
+    .tooltip_container {
+        top: 11% !important;
+    }
+}
