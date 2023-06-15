@@ -136,6 +136,31 @@ async function recentlyViewed() {
     }
 }
 
+renderHotProducts();
+
+async function renderHotProducts() {
+    const hotProducts = document.querySelector('.hot_products');
+
+    try {
+        const response = await fetch('../products.json');
+        const tempData = await response.json();
+        const data = tempData.filter(product => product.hot === true)
+
+        for (let i = 0; i < 6; i++) {
+            hotProducts.innerHTML += `
+                <div class="hot_product">
+                    <a href="itemPage.html" class="hot_product_wrapper" onclick="selectedProduct(${data[i].sfnStyleNumber})">
+                        <img src="../${data[i].image}" alt="" class="hot_product_img">
+                        <span class="hot_product_title">${data[i].sfnName}</span>
+                        <span class="hot_product_price">${data[i].price[1].priceValue}<span class="uom">/sqft</span></span>
+                    </a>
+                </div>`;
+        }
+    } catch (error) {
+        console.log(error);
+    }
+}
+
 function selectedProduct(product) {
     localStorage.setItem("selectedProduct", product);
 }

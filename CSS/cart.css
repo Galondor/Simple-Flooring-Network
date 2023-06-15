@@ -180,3 +180,66 @@ input {
     align-items: center;
     padding-top: 24px;
 }
+
+@media (max-width: 768px) {
+    #main .container {
+        margin: 0;
+    }
+
+    #summary {
+        width: 30%;
+    }
+
+    .summary_title {
+        font-size: 24px;
+    }
+
+    .total_title {
+        font-size: 18px;
+    }
+
+    .order_total_title {
+        font-size: 18px;
+    }
+
+    .summary_wrapper {
+        width: 80%;
+    }
+
+    .total_value {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .tooltip_container {
+        top: 8% !important;
+    }
+}
+
+@media (max-width: 426px) {
+    #main {
+        display: flex;
+        flex-direction: column;
+    }
+    #cart {
+        width: 100%;
+    }
+
+    .cart_wrapper {
+        width: 100%;
+    }
+
+    #summary {
+        width: 100%;
+    }
+
+    #summary .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .empty_cart {
+        text-align: center;
+    }
+}

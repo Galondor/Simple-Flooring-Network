@@ -246,16 +246,18 @@ footer .row {
     color: #242424;
 }
 
-@media (max-width: 425px) {
-    .nav_links {
-        display: none;
+@media (max-width: 1024px) {
+    .carpet,
+    .lvp {
+        margin: 0;
     }
 
-    nav .row {
-        align-items: center;
-        justify-content: center;
+    .tooltip_container {
+        top: 10% !important;
     }
+}
 
+@media (max-width: 426px) {
     .intro_para {
         font-size: 16px;
         margin: 0px 12px;
@@ -263,6 +265,9 @@ footer .row {
 
     #question {
         font-size: 18px;
+        text-align: center;
+        width: 100%;
+        padding: 0;
     }
 
     .quiz_header {
@@ -271,6 +276,10 @@ footer .row {
 
     .results {
         text-align: center;
+    }
+
+    h2 {
+        font-size: 18px;
     }
 }
 
@@ -301,5 +310,19 @@ footer .row {
 @media (max-width: 768px) {
     .results {
         text-align: center;
+    }
+
+    .product_image {
+        height: 100px;
+    }
+
+    .content {
+        flex-flow: column wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .tooltip_container {
+        top: 8% !important;
     }
 }
