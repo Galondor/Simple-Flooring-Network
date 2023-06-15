@@ -452,6 +452,10 @@ footer .row {
         position: relative;
         z-index: 2;
         margin: 4px;
+        width: 100%;
+        height: calc(500px / 10);
+        text-align: center;
+        border-radius: 8px;
     }
 
     .menu_item a,
@@ -460,6 +464,11 @@ footer .row {
         color: #242424;
         font-size: 28px;
         font-weight: 800;
+    }
+
+    .store_item a {
+        color: #242424;
+        opacity: 1 !important;
     }
 
     .mobile_menu .menu_overlay {
