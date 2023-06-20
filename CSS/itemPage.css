@@ -444,6 +444,8 @@ body {
     .product_wrapper {
         margin-right: 0;
         margin-left: 0;
+        height: 360px;
+        width: 360px;
     }
 
     .product_slide_show {
@@ -453,5 +455,17 @@ body {
     .product_image {
         height: 64px;
         width: 64px;
+    }
+    
+    #product .container {
+        padding-top: 42px;
+    }
+
+    .product_description {
+        width: 80%;
+    }
+
+    .product_description p {
+        font-size: 16px;
     }
 }

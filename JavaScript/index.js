@@ -152,6 +152,7 @@ async function renderHotProducts() {
                     <a href="itemPage.html" class="hot_product_wrapper" onclick="selectedProduct(${data[i].sfnStyleNumber})">
                         <img src="../${data[i].image}" alt="" class="hot_product_img">
                         <span class="hot_product_title">${data[i].sfnName}</span>
+                        <span class="color_options">${data[i].colors.length} Colors Available</span>
                         <span class="hot_product_price">${data[i].price[1].priceValue}<span class="uom">/sqft</span></span>
                     </a>
                 </div>`;

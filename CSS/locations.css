@@ -9,7 +9,7 @@ body {
 .row {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center
 }
 
 .information {
@@ -37,6 +37,10 @@ figure img {
     padding-right: 8px;
 }
 
+.location_description {
+    margin-left: 48px;
+}
+
 @media (max-width: 1024px) {
     .location_description {
         padding: 16px;
@@ -50,6 +54,10 @@ figure img {
 
     .tooltip_container {
         top: 11% !important;
+    }
+
+    .location_description {
+        margin: 0;
     }
 }
 

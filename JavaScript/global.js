@@ -186,19 +186,19 @@ function selectedProduct(product) {
                 <a href="cart.html">View Cart <span class="mobile_cart_amt" >(${cart.length})<span></a>
             </div>
             <div class="menu_divider"></div>
-            <div class="menu-item store_item" onclick="closeMenu()">
+            <div class="menu-item store_item all_products" onclick="closeMenu()">
                 <a href="store.html">All Products</a>
             </div>
-            <div class="menu-item store_item" onclick="closeMenu()">
+            <div class="menu-item store_item carpet_products" onclick="closeMenu()">
                 <a href="carpet.html">Carpet</a>
             </div>
-            <div class="menu-item store_item" onclick="closeMenu()">
+            <div class="menu-item store_item lvp_products" onclick="closeMenu()">
                 <a href="LVP.html">Luxury Vinyl Plank</a>
             </div>
-            <div class="menu-item store_item" onclick="closeMenu()">
+            <div class="menu-item store_item hardwood_products" onclick="closeMenu()">
                 <a href="hardwood.html">Hardwood</a>
             </div>
-            <div class="menu-item store_item" onclick="closeMenu()">
+            <div class="menu-item store_item carpet_tile_products" onclick="closeMenu()">
                 <a href="carpetTile.html">Carpet Tile</a>
             </div></div>`
             const closeMenu = document.querySelector(".close_menu_btn");
