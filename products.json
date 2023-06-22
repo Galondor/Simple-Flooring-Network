@@ -6,6 +6,7 @@
     "shawStyleNumber": "5E483",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Good",
     "image": "productImages/Carpet/Without-Limits-2/Heather.JPG",
     "hot": true,
@@ -119,6 +120,7 @@
     "shawStyleNumber": "5E081",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Good",
     "image": "productImages/Carpet/Montage-1/Painters-Canvas.JPG",
     "price": [
@@ -240,6 +242,7 @@
     "shawStyleNumber": "5E488",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/Carpet/Boundless-4/White-Wash.JPG",
     "price": [
@@ -341,6 +344,7 @@
     "shawStyleNumber": "5E569",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/Carpet/Yes-You-Can/Seashell.jpg",
     "hot": true,
@@ -493,6 +497,7 @@
     "shawStyleNumber": "5E572",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/Carpet/Yes-You-Can/Seashell.jpg",
     "price": [
@@ -644,6 +649,7 @@
     "shawStyleNumber": "5E588",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/Carpet/Run-Free/Almond-Silk.jpg",
     "price": [
@@ -750,6 +756,7 @@
     "shawStyleNumber": "5E012",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/Carpet/Take-The-Floor-Accent-2/Italiano.jpg",
     "price": [
@@ -831,6 +838,7 @@
     "shawStyleNumber": "5E009",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/Carpet/Take-The-Floor-Tonal-2/Shoreline-Haze.jpg",
     "price": [
@@ -952,6 +960,7 @@
     "shawStyleNumber": "EA823 - EA825",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/Carpet/Creating-Making-Warm-Memories/Colors/Clean-Linen.JPG",
     "creatingImage": "/productImages/Carpet/Creating-Making-Warm-Memories/Creating.JPG",
@@ -1086,6 +1095,7 @@
     "shawStyleNumber": "5E575",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "NPR",
     "image": "productImages/Carpet/Artistic-Fusion-2/Sea-Shell.JPG",
     "price": [
@@ -1207,6 +1217,7 @@
     "shawStyleNumber": "E9693",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "NPR",
     "image": "productImages/Carpet/Perpetual-2/Eggshell.jpg",
     "price": [
@@ -1298,6 +1309,7 @@
     "shawStyleNumber": "5E583",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "NPR",
     "image": "productImages/Carpet/Home-Within/Frozen.JPG",
     "price": [
@@ -1409,6 +1421,7 @@
     "shawStyleNumber": "5E442",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/Carpet/Right-Choice/Gallery-Opening.jpg",
     "price": [
@@ -1485,6 +1498,7 @@
     "shawStyleNumber": "5E243",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/Carpet/Break-Away-S/Gentle-Breeze.JPG",
     "price": [
@@ -1591,6 +1605,7 @@
     "shawStyleNumber": "VV585",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Good",
     "image": "productImages/LVP/One-Plus/Salton-Chestnut.jpg",
     "hot": true,
@@ -1668,6 +1683,7 @@
     "shawStyleNumber": "2045V",
     "brand": "Floorte",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Good",
     "image": "productImages/LVP/Distinction/Timeless-Oak.jpg",
     "price": [
@@ -1749,6 +1765,7 @@
     "shawStyleNumber": "VV023",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/LVP/VV023/Gold-Coast-Acacia.jpg",
     "price": [
@@ -1870,6 +1887,7 @@
     "shawStyleNumber": "VV024",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/LVP/VV024/Kingswood-Oak.jpg",
     "price": [
@@ -1976,6 +1994,7 @@
     "shawStyleNumber": "VV012",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/LVP/VV012/Axial-Oak.jpg",
     "price": [
@@ -2087,6 +2106,7 @@
     "shawStyleNumber": "2832V",
     "brand": "Floorte",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/LVP/Ascent/Sierra.jpg",
     "price": [
@@ -2168,6 +2188,7 @@
     "shawStyleNumber": "VV674",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "NPR",
     "image": "productImages/LVP/Advanced/Ansley-Walnut.jpg",
     "price": [
@@ -2249,6 +2270,7 @@
     "shawStyleNumber": "2038V",
     "brand": "Shaw Floors",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "NPR",
     "image": "productImages/LVP/Prodigy-HDR/Nomad.jpg",
     "price": [
@@ -2330,6 +2352,7 @@
     "shawStyleNumber": "VV465",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/LVP/Galaxy/Whirlpool-Oak.jpg",
     "hot": true,
@@ -2417,6 +2440,7 @@
     "shawStyleNumber": "2357V",
     "brand": "Floorte",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/LVP/Anvil/Chatter-Oak.jpg",
     "hot": true,
@@ -2499,6 +2523,7 @@
     "shawStyleNumber": "5525V",
     "brand": "Philadelphia Commerical", 
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Good",
     "image": "productImages/LVP/In-The-Grain-2/Rye.jpg",
     "price": [
@@ -2645,6 +2670,7 @@
     "shawStyleNumber": "VV566",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/LVP/VV566/Arubani.jpg",
     "price": [
@@ -2701,6 +2727,7 @@
     "shawStyleNumber": "VV567",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/LVP/VV566/Arubani.jpg",
     "price": [
@@ -2762,6 +2789,7 @@
     "shawStyleNumber": "VV568",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/LVP/VV568/Semonia.jpg",
     "price": [
@@ -2813,6 +2841,7 @@
     "shawStyleNumber": "3363V",
     "brand": "Floorte",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/LVP/Northern-Voyage/Petaluma.jpg",
     "price": [
@@ -2864,6 +2893,7 @@
     "shawStyleNumber": "3100V",
     "brand": "Floorte",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/LVP/Infinite/Raw-Sienna.jpg",
     "price": [
@@ -2945,6 +2975,7 @@
     "shawStyleNumber": "0736V",
     "brand": "Floorte",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/LVP/Endura/Ivory-Oak.jpg",
     "price": [
@@ -3096,6 +3127,7 @@
     "shawStyleNumber": "VV810",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/LVP/CT-PREM/Conch-Ash.jpg",
     "price": [
@@ -3177,6 +3209,7 @@
     "shawStyleNumber": "VV800",
     "brand": "COREtec",
     "productType": "LVP",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/LVP/PP-HD-Integr-7/Essex-Maple.jpg",
     "hot": true,
@@ -3259,6 +3292,7 @@
     "shawStyleNumber": "SW707",
     "brand": "Shaw Floors",
     "productType": "Hardwood",
+    "description": "Product Description",
     "rating": "Best",
     "image": "productImages/Hardwood/Expressions/Poetry.jpg",
     "price": [
@@ -3359,6 +3393,7 @@
     "shawStyleNumber": "SW755",
     "brand": "Shaw Floors",
     "productType": "Hardwood",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/Hardwood/Cornerstone-Oak/Slate.jpg",
     "price": [
@@ -3414,6 +3449,7 @@
     "shawStyleNumber": "SW753",
     "brand": "Shaw Floors",
     "productType": "Hardwood",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/Hardwood/Utmost/Base.jpg",
     "price": [
@@ -3474,6 +3510,7 @@
     "shawStyleNumber": "AA828",
     "brand": "Anderson Tuftex",
     "productType": "Hardwood",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/Hardwood/Imperial-Pecan/Fawn.jpg",
     "price": [
@@ -3554,6 +3591,7 @@
     "shawStyleNumber": "QS854",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/Carpet/QS854/Bali-Sand.jpg",
     "price": [
@@ -3630,6 +3668,7 @@
     "shawStyleNumber": "QS858",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Value",
     "image": "productImages/Carpet/QS858/Sea-Salt.jpg",
     "price": [
@@ -3706,6 +3745,7 @@
     "shawStyleNumber": "54870 - 54872",
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/Carpet-Tile/Chiseled-Crackled-Fractured/Colors/Compose.JPG",
     "price": [
@@ -3773,6 +3813,7 @@
     "shawStyleNumber": "54917 - 54918",
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/Carpet-Tile/Biotic-Esthetic/Colors/Character.JPG",
     "price": [
@@ -3825,6 +3866,7 @@
     "shawStyleNumber": "54919 - 54920",
     "brand": "Philadelphia Commerical",
     "productType": "Carpet Tile",
+    "description": "Product Description",
     "rating": "Better",
     "image": "productImages/Carpet-Tile/Sort-Stack/Colors/Twist.JPG",
     "price": [
@@ -3882,6 +3924,7 @@
     "shawStyleNumber": "E9413",
     "brand": "Shaw Floors",
     "productType": "Carpet",
+    "description": "Product Description",
     "rating": "Good",
     "image": "productImages/Carpet/Blocking-Parallel-Lattice/Colors/Cream.JPG",
     "price": [

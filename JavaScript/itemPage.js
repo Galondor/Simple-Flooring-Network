@@ -5,6 +5,7 @@ const brand = document.getElementById('brand_name');
 const productPrice = document.querySelector('.price');
 const rating = document.querySelector('.rating');
 const color = document.getElementById('color_name');
+const description = document.getElementById("product_description");
 
 const dropdowns = document.querySelectorAll('.color_dropdown');
 const menuEl = document.querySelector('.menu');
@@ -16,7 +17,9 @@ const sizeSelectedEl = document.querySelector('.size_selected');
 
 const addToCart = document.querySelector('.add_to_cart');
 const step3 = document.querySelector('.step-3');
+const productImageWrapper = document.querySelectorAll('.product_image_wrapper');
 const productImages = document.querySelector('.product_images');
+const productImg = document.querySelectorAll('.product_image');
 const productWrapper = document.querySelector('.product_wrapper');
 const colorImage = document.querySelector('.color_image');
 
@@ -36,6 +39,7 @@ async function getProducts() {
             brand.textContent = productData[i].brand;
             productPrice.innerHTML = `${productData[i].price[0].priceValue}<span class="uom">/sqft</span>`;
             rating.innerHTML = `<h3 class="rating">Rating: ${productData[i].rating}</h3>`;
+            description.textContent = productData[i].description + ` For ${productData[i].sfnName}`;
             color.textContent = productData[i].colors[0].colorName;
             //Initial Color
             currentColor = productData[i].colors[0].colorImage;
@@ -72,8 +76,20 @@ async function getProducts() {
       console.log(error);
     }
 
+    const roomScenes = [{
+      image: "../productImages/Room-Scene/Ancestry-ROOM.jpg",
+    },
+    {
+      image: "../productImages/Room-Scene/SERENADE-ZZ057-PASHIMA-00754-RUG-DTL-V.jpg",
+    },
+    {
+      image: "../productImages/Room-Scene/Carpet-Panel.jpg",
+    }];
+
     for (let i = 0; i < 3; i++) {
-      productImages.innerHTML += `<img class="product_image" src="../productImages/Default-Image.jpg" alt="Product Image">`;
+      productImages.innerHTML += `<figure class = "product_image_wrapper" onclick="changeImage(${i})">
+      <img class="product_image image${i}" src="../${roomScenes[i].image}" alt="Product Image">
+      </figure>`;
     }
 
     dropdowns.forEach(dropdown => {
@@ -100,6 +116,7 @@ async function getProducts() {
           currentColor = selectedEl.getElementsByTagName('img')[0].src = option.getElementsByTagName('img')[0].src;
           console.log(currentColor);
           productWrapper.innerHTML = `<img src="${currentColor}" alt="Product Image" class="product_img">`;
+          renderSpecs();
         });
         option.classList.add('active');
       });
@@ -129,6 +146,15 @@ async function getProducts() {
         option.classList.add('active');
       });
     })
+    renderSpecs();
+  }
+
+  function changeImage(image) {
+    const mainImage = document.querySelector('.product_img');
+    let prevImage = mainImage.src;
+
+    mainImage.src = document.querySelector(`.image${image}`).src;
+    document.querySelector(`.image${image}`).src = prevImage;
   }
 
   //Add Product To Cart
@@ -163,4 +189,155 @@ async function addProductToCart() {
   }, 800);
 
   updateCart();
+}
+
+async function renderSpecs() {
+  const tableContainer = document.querySelector('.table_container');
+  
+  try {
+    const response = await fetch('../products.json');
+    const data = await response.json();
+    console.log(data);
+
+    for (let i = 0; i < data.length; i++) {
+      if (data[i].sfnStyleNumber === product && data[product].productType === "Carpet") {
+        tableContainer.innerHTML = `
+        <table class="spec_table">
+          <tbody>
+            <tr>
+              <th>Brand</th>
+              <td data-th="Brand">${data[product - 1].brand}</td>
+            </tr>
+            <tr>
+              <th>Style Name</th>
+              <td data-th="StyleName">${data[product - 1].sfnName}</td>
+            </tr>
+            <tr>
+              <th>Color</th>
+              <td data-th="Color">${color.textContent}</td>
+              </tr>
+              <tr>
+                <th>Roll Width</th>
+                <td data-th="RollWidth">${data[product - 1].productSpecs[0].rollWidth}</td>
+              </tr>
+              <tr>
+                <th>Face Weight</th>
+                <td data-th="FaceWeight">${data[product - 1].productSpecs[0].faceWeight}</td>
+              </tr>
+              <tr>
+                <th>Carpet Fiber</th>
+                <td data-th="CarpetFiber">${data[product - 1].productSpecs[0].fiber}</td>
+              </tr>
+              <tr>
+                <th>Backing</th>
+                <td data-th="Backing">${data[product - 1].productSpecs[0].backing}</td>
+              </tr>
+              <tr>
+                <th>Thickness</th>
+                <td data-th="Thickness">${data[product - 1].productSpecs[0].thickness}</td>
+              </tr>
+            </tbody>
+          </table>`;
+      } else if (data[i].sfnStyleNumber === product && data[product].productType === "LVP") {
+        tableContainer.innerHTML = `
+        <table class="spec_table">
+          <tbody>
+            <tr>
+              <th>Brand</th>
+              <td data-th="Brand">${data[product - 1].brand}</td>
+            </tr>
+            <tr>
+              <th>Style Name</th>
+              <td data-th="StyleName">${data[product - 1].sfnName}</td>
+            </tr>
+            <tr>
+              <th>Color</th>
+              <td data-th="Color">${color.textContent}</td>
+              </tr>
+              <tr>
+                <th>Dimensions</th>
+                <td data-th="Dimensions">${data[product - 1].productSpecs[0].dimensions}</td>
+              </tr>
+              <tr>
+                <th>Underlayment</th>
+                <td data-th="Underlayment">${data[product - 1].productSpecs[0].underlayment}</td>
+              </tr>
+              <tr>
+                <th>Installation Method</th>
+                <td data-th="InstallationMethod">${data[product - 1].productSpecs[0].installation}</td>
+              </tr>
+              <tr>
+                <th>Wear Layer</th>
+                <td data-th="WearLayer">${data[product - 1].productSpecs[0].wearLayer}</td>
+              </tr>
+              <tr>
+                <th>Thickness</th>
+                <td data-th="Thickness">${data[product - 1].productSpecs[0].thickness}</td>
+              </tr>
+            </tbody>
+          </table>`;
+      } else if (data[i].sfnStyleNumber === product && data[product].productType === "Hardwood") {
+        tableContainer.innerHTML = `
+        <table class="spec_table">
+          <tbody>
+            <tr>
+              <th>Brand</th>
+              <td data-th="Brand">${data[product - 1].brand}</td>
+            </tr>
+            <tr>
+              <th>Style Name</th>
+              <td data-th="StyleName">${data[product - 1].sfnName}</td>
+            </tr>
+            <tr>
+              <th>Color</th>
+              <td data-th="Color">${color.textContent}</td>
+              </tr>
+              <tr>
+                <th>Species</th>
+                <td data-th="Species">${data[product - 1].productSpecs[0].species}</td>
+              </tr>
+              <tr>
+                <th>Finish</th>
+                <td data-th="Finish">${data[product - 1].productSpecs[0].finish}</td>
+              </tr>
+              <tr>
+                <th>Installation Method</th>
+                <td data-th="InstallationMethod">${data[product - 1].productSpecs[0].installation}</td>
+              </tr>
+              <tr>
+                <th>Thickness</th>
+                <td data-th="Thickness">${data[product - 1].productSpecs[0].thickness}</td>
+              </tr>
+            </tbody>
+          </table>`;
+      } else if (data[i].sfnStyleNumber === product && data[product].productType === "Carpet Tile") {
+        tableContainer.innerHTML = `
+        <table class="spec_table">
+          <tbody>
+            <tr>
+              <th>Brand</th>
+              <td data-th="Brand">${data[product - 1].brand}</td>
+            </tr>
+            <tr>
+              <th>Style Name</th>
+              <td data-th="StyleName">${data[product - 1].sfnName}</td>
+            </tr>
+            <tr>
+              <th>Color</th>
+              <td data-th="Color">${color.textContent}</td>
+              </tr>
+              <tr>
+                <th>Dimensions</th>
+                <td data-th="Dimensions">${data[product - 1].productSpecs[0].dimensions}</td>
+              </tr>
+            </tbody>
+          </table>`;
+      }
+    }
+
+ 
+
+  } catch (error) {
+    console.log(error);
+  }
 }
