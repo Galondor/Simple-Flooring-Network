@@ -39,7 +39,7 @@ async function getProducts() {
             color.textContent = productData[i].colors[0].colorName;
             //Initial Color
             currentColor = productData[i].colors[0].colorImage;
-            productWrapper.innerHTML = `<img src="../${currentColor}" alt="" class="product_img">`;
+            productWrapper.innerHTML = `<img src="../${currentColor}" alt="Product Image" class="product_img">`;
 
             step3.innerHTML = `<div class="step-3">
             <h2>Order The Sample</h2>
@@ -55,7 +55,7 @@ async function getProducts() {
       </li>`
       //Dropdown Menu
     selectedEl.innerHTML = `<img class="color_image" 
-    src="../${productData[product - 1].colors[0].colorImage}" alt="">
+    src="../${productData[product - 1].colors[0].colorImage}" alt="Color Image">
     <span>${color.textContent}</span>
     `
       }
@@ -73,7 +73,7 @@ async function getProducts() {
     }
 
     for (let i = 0; i < 3; i++) {
-      productImages.innerHTML += `<img class="product_image" src="../productImages/Default-Image.jpg" alt="">`;
+      productImages.innerHTML += `<img class="product_image" src="../productImages/Default-Image.jpg" alt="Product Image">`;
     }
 
     dropdowns.forEach(dropdown => {
@@ -99,7 +99,7 @@ async function getProducts() {
           color.textContent = option.textContent;
           currentColor = selectedEl.getElementsByTagName('img')[0].src = option.getElementsByTagName('img')[0].src;
           console.log(currentColor);
-          productWrapper.innerHTML = `<img src="${currentColor}" alt="" class="product_img">`;
+          productWrapper.innerHTML = `<img src="${currentColor}" alt="Product Image" class="product_img">`;
         });
         option.classList.add('active');
       });

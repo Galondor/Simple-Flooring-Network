@@ -61,7 +61,7 @@ function renderPage() {
             document.querySelector(".products").innerHTML += 
             `<tr class="product">
             <td class="item">
-                <img src="${cart[i].image}" alt="" class="product_image popout">
+                <img src="${cart[i].image}" alt="Product Image" class="product_image popout">
                 <h1>${cart[i].name}</h1>
                 <h2>${cart[i].color}</h2>
                 <h3>${cart[i].type} / ${cart[i].size}</h3>
