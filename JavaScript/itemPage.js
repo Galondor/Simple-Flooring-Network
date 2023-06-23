@@ -39,7 +39,7 @@ async function getProducts() {
             brand.textContent = productData[i].brand;
             productPrice.innerHTML = `${productData[i].price[0].priceValue}<span class="uom">/sqft</span>`;
             rating.innerHTML = `<h3 class="rating">Rating: ${productData[i].rating}</h3>`;
-            description.textContent = productData[i].description + ` For ${productData[i].sfnName}`;
+            description.textContent = productData[i].description;
             color.textContent = productData[i].colors[0].colorName;
             //Initial Color
             currentColor = productData[i].colors[0].colorImage;
@@ -200,7 +200,7 @@ async function renderSpecs() {
     console.log(data);
 
     for (let i = 0; i < data.length; i++) {
-      if (data[i].sfnStyleNumber === product && data[product].productType === "Carpet") {
+      if (data[i].sfnStyleNumber === product && data[i].productType === "Carpet") {
         tableContainer.innerHTML = `
         <table class="spec_table">
           <tbody>
@@ -238,7 +238,7 @@ async function renderSpecs() {
               </tr>
             </tbody>
           </table>`;
-      } else if (data[i].sfnStyleNumber === product && data[product].productType === "LVP") {
+      } else if (data[i].sfnStyleNumber === product && data[i].productType === "LVP") {
         tableContainer.innerHTML = `
         <table class="spec_table">
           <tbody>
@@ -276,7 +276,7 @@ async function renderSpecs() {
               </tr>
             </tbody>
           </table>`;
-      } else if (data[i].sfnStyleNumber === product && data[product].productType === "Hardwood") {
+      } else if (data[i].sfnStyleNumber === product && data[i].productType === "Hardwood") {
         tableContainer.innerHTML = `
         <table class="spec_table">
           <tbody>
@@ -310,7 +310,7 @@ async function renderSpecs() {
               </tr>
             </tbody>
           </table>`;
-      } else if (data[i].sfnStyleNumber === product && data[product].productType === "Carpet Tile") {
+      } else if (data[i].sfnStyleNumber === product && data[i].productType === "Carpet Tile") {
         tableContainer.innerHTML = `
         <table class="spec_table">
           <tbody>
