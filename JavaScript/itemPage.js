@@ -30,7 +30,6 @@ async function getProducts() {
       const response = await fetch('../products.json');
       const data = await response.json();
       const productData = data;
-      console.log(productData);
 
       for (let i = 0; i < productData.length; i++) {
         if (productData[i].sfnStyleNumber === product) {
@@ -114,7 +113,6 @@ async function getProducts() {
           option.classList.remove('active');
           color.textContent = option.textContent;
           currentColor = selectedEl.getElementsByTagName('img')[0].src = option.getElementsByTagName('img')[0].src;
-          console.log(currentColor);
           productWrapper.innerHTML = `<img src="${currentColor}" alt="Product Image" class="product_img">`;
           renderSpecs();
         });
@@ -179,7 +177,6 @@ async function addProductToCart() {
     styleNumber: productData[product - 1].sfnStyleNumber,
     size: sizeSelectedEl.textContent
   };
-  console.log(currentColor)
   cart.push(newItem);
 
   localStorage.setItem("cart", JSON.stringify(cart));
@@ -197,7 +194,6 @@ async function renderSpecs() {
   try {
     const response = await fetch('../products.json');
     const data = await response.json();
-    console.log(data);
 
     for (let i = 0; i < data.length; i++) {
       if (data[i].sfnStyleNumber === product && data[i].productType === "Carpet") {
