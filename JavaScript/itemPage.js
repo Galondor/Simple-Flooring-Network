@@ -20,7 +20,7 @@ const step3 = document.querySelector('.step-3');
 const productImageWrapper = document.querySelectorAll('.product_image_wrapper');
 const productImages = document.querySelector('.product_images');
 const productImg = document.querySelectorAll('.product_image');
-const productWrapper = document.querySelector('.product_wrapper');
+const mainImage = document.getElementById('product_img');
 const colorImage = document.querySelector('.color_image');
 
 getProducts();
@@ -42,7 +42,7 @@ async function getProducts() {
             color.textContent = productData[i].colors[0].colorName;
             //Initial Color
             currentColor = productData[i].colors[0].colorImage;
-            productWrapper.innerHTML = `<img src="../${currentColor}" alt="Product Image" class="product_img">`;
+            mainImage.src = `../${currentColor}`;
 
             step3.innerHTML = `<div class="step-3">
             <h2>Order The Sample</h2>
@@ -113,7 +113,7 @@ async function getProducts() {
           option.classList.remove('active');
           color.textContent = option.textContent;
           currentColor = selectedEl.getElementsByTagName('img')[0].src = option.getElementsByTagName('img')[0].src;
-          productWrapper.innerHTML = `<img src="${currentColor}" alt="Product Image" class="product_img">`;
+          mainImage.src = `${currentColor}`;
           renderSpecs();
         });
         option.classList.add('active');
@@ -186,6 +186,65 @@ async function addProductToCart() {
   }, 800);
 
   updateCart();
+}
+
+function imageZoom(imgID, resultID) {
+  if (window.innerWidth > 768) {
+  var img, lens, result, cx, cy;
+  img = document.getElementById(imgID);
+  result = document.getElementById(resultID);
+  /* Create lens: */
+  lens = document.createElement("DIV");
+  lens.setAttribute("class", "zoom_lens");
+  /* Insert lens: */
+  img.parentElement.insertBefore(lens, img);
+  /* Calculate the ratio between result DIV and lens: */
+  cx = result.offsetWidth / lens.offsetWidth;
+  cy = result.offsetHeight / lens.offsetHeight;
+  /* Set background properties for the result DIV */
+  img.onload = function () {result.style.backgroundImage = "url('" + img.src + "')";}
+  result.style.backgroundImage = "url('" + img.src + "')";
+  result.style.backgroundSize = (img.width * cx) + "px " + (img.height * cy) + "px";
+  /* Execute a function when someone moves the cursor over the image, or the lens: */
+  lens.addEventListener("mousemove", moveLens);
+  img.addEventListener("mousemove", moveLens);
+  /* And also for touch screens: */
+  lens.addEventListener("touchmove", moveLens);
+  img.addEventListener("touchmove", moveLens);
+  function moveLens(e) {
+    var pos, x, y;
+    /* Prevent any other actions that may occur when moving over the image */
+    e.preventDefault();
+    /* Get the cursor's x and y positions: */
+    pos = getCursorPos(e);
+    /* Calculate the position of the lens: */
+    x = pos.x - (lens.offsetWidth / 2);
+    y = pos.y - (lens.offsetHeight / 2);
+    /* Prevent the lens from being positioned outside the image: */
+    if (x > img.width - lens.offsetWidth) {x = img.width - lens.offsetWidth;}
+    if (x < 0) {x = 0;}
+    if (y > img.height - lens.offsetHeight) {y = img.height - lens.offsetHeight;}
+    if (y < 0) {y = 0;}
+    /* Set the position of the lens: */
+    lens.style.left = x + "px";
+    lens.style.top = y + "px";
+    /* Display what the lens "sees": */
+    result.style.backgroundPosition = "-" + (x * cx) + "px -" + (y * cy) + "px";
+  }
+  function getCursorPos(e) {
+    var a, x = 0, y = 0;
+    e = e || window.event;
+    /* Get the x and y positions of the image: */
+    a = img.getBoundingClientRect();
+    /* Calculate the cursor's x and y coordinates, relative to the image: */
+    x = e.pageX - a.left;
+    y = e.pageY - a.top;
+    /* Consider any page scrolling: */
+    x = x - window.pageXOffset;
+    y = y - window.pageYOffset;
+    return {x : x, y : y};
+    }
+  }
 }
 
 async function renderSpecs() {
