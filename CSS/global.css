@@ -7,6 +7,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .row {
     max-width: 1200px;
     margin: 0 auto;
@@ -212,6 +216,20 @@ footer .row {
 .cart_img {
     position: relative;
     z-index: 1;
+    transition: all 300ms ease;
+}
+
+.cart_link {
+    display: block;
+    height: 24px;
+    width: 24px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.cart_link:hover + .cart_img {
+    transform: scale(1.2);
 }
 
 .cart_contents_img {
@@ -354,6 +372,7 @@ footer .row {
     fill: #fff;
     display: none;
 }
+
 
 @media (max-width: 1024px) {
     .row {

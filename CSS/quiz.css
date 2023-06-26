@@ -258,6 +258,10 @@ footer .row {
 }
 
 @media (max-width: 426px) {
+    .quiz_container {
+        width: 90%;
+    }
+
     .intro_para {
         font-size: 16px;
         margin: 0px 12px;

@@ -37,6 +37,7 @@ navBar.innerHTML = `
         <a href="locations.html" class="nav_link link_hover-effect">Contact</a>
         <a href="homepage.html" class="nav_link link_hover-effect">Home</a>
         <div class="tooltip">
+            <a class="cart_link" href="cart.html"></a>
             <img class="cart_img" src="../assets/shopping-cart.svg" alt="Shopping-Cart">
             <img class="cart_contents_img" src="../assets/circle.svg" alt="Cart Amount"><span class="cart_amount_img">1</span>
             <div class="tooltip_container" id="bottom">
