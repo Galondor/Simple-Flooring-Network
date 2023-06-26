@@ -3,6 +3,8 @@ const product = document.getElementById('product');
 const productName = document.querySelector('.product_name');
 const productPrice = document.querySelector('.product_price');
 const productImg = document.getElementById('product_img');
+const filters = document.getElementsByName('vgbbnpr');
+let productData = [];
 
 getProducts();
 
@@ -13,8 +15,13 @@ async function getProducts() {
   try {
     const response = await fetch('../products.json');
     const data = await response.json();
-    const productData = data.filter(product => product.productType === "Carpet");
-    console.log(productData);
+    const carpetData = data.filter(product => product.productType === "Carpet");
+    productData = carpetData;
+    filters.forEach((filter) => {
+      if (filter.checked) {
+        filterByRating(filter.value, productData);
+      } 
+    });
 
     if (window.innerWidth > 425) {
       for (let i = 0; i < productData.length; i++) {
@@ -85,4 +92,8 @@ function selectedProduct(product) {
   }
 
   localStorage.setItem("recentlyViewed", JSON.stringify(recent));
+}
+
+function filterByRating(rating, data) {
+  productData = data.filter(elem => elem.rating === rating);
 }

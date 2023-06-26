@@ -167,7 +167,5 @@ function selectedProduct(product) {
 }
 
 function filterByRating(rating, data) {
-  console.log(rating, data);
   productData = data.filter(elem => elem.rating === rating);
-  console.log(productData);
 }
