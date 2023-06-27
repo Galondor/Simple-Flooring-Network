@@ -4,6 +4,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="The simplest way to buy flooring!">
+    <meta name="keywords" content="flooring, carpet, lvp, hardwood, carpet installation, lvp installation, flooring store, carpet store, carpet samples, lvp samples, flooring samples, shaw floors, coretec">
     <title>Simple Flooring Network</title>
     <link rel="icon" href="../assets/SFS Logo Bg.png" />
     <link rel="stylesheet" href="../CSS/global.css" media="all"/>
@@ -35,28 +37,31 @@
                 <h3>Product Rating</h3>
                 <div class="filter_options">
                   <div class="filter_option">
-                    <input type="checkbox" name="vgbbnpr" id="Value" />
+                    <input type="checkbox" class="rating_filter" name="vgbbnpr" value="Value" id="Value" onclick="getProducts()"/>
                     <label for="Value">Value</label>
                   </div>
                   <div class="filter_option">
-                    <input type="checkbox" name="vgbbnpr" id="Good" />
+                    <input type="checkbox" class="rating_filter" name="vgbbnpr" value="Good" id="Good" onclick="getProducts()"/>
                     <label for="Good">Good</label>
                   </div>
                   <div class="filter_option">
-                    <input type="checkbox" name="vgbbnpr" id="Better" />
+                    <input type="checkbox" class="rating_filter" name="vgbbnpr" value="Better" id="Better" onclick="getProducts()"/>
                     <label for="Better">Better</label>
                   </div>
                   <div class="filter_option">
-                    <input type="checkbox" name="vgbbnpr" id="Best" />
+                    <input type="checkbox" class="rating_filter" name="vgbbnpr" value="Best" id="Best" onclick="getProducts()"/>
                     <label for="Best">Best</label>
                   </div>
                   <div class="filter_option">
-                    <input type="checkbox" name="vgbbnpr" id="NPR" />
+                    <input type="checkbox" class="rating_filter" name="vgbbnpr" value="NPR" id="NPR" onclick="getProducts()"/>
                     <label for="NPR">No Pet Regret</label>
                   </div>
                 </div>
               </div>
             </div>
+            <style>
+              
+            </style>
             <div class="products" id="products"></div>
           </div>
         </div>

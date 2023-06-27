@@ -64,10 +64,10 @@ const quizData = [
     },
     {
         question: "If you were to sell your home, how much would you expect to get?",
-        zero: ">$50,000",
+        zero: "<$50,000",
         five: "$50,000 - $100,000",
         ten: "$100,000 - $200,000",
-        fifteen: "$250,000 or more",
+        fifteen: "$200,000+",
     },
 ];
 

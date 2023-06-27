@@ -3,6 +3,8 @@ const product = document.getElementById('product');
 const productName = document.querySelector('.product_name');
 const productPrice = document.querySelector('.product_price');
 const productImg = document.getElementById('product_img');
+const filters = document.getElementsByName('vgbbnpr');
+let productData = [];
 
 getProducts();
 
@@ -13,8 +15,13 @@ async function getProducts() {
   try {
     const response = await fetch('../products.json');
     const data = await response.json();
-    const productData = data.filter(product => product.productType === "Hardwood");
-    console.log(productData);
+    const hardWoodData = data.filter(product => product.productType === "Hardwood");
+    productData = hardWoodData;
+    filters.forEach((filter) => {
+      if (filter.checked) {
+        filterByRating(filter.value, productData);
+      } 
+    });
 
     if (window.innerWidth > 425) {
       for (let i = 0; i < productData.length; i++) {
@@ -29,10 +36,10 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
-            <figure class="color_wrapper"><img src="../${productData[i].colors[0].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
-            <figure class="color_wrapper"><img src="../${productData[i].colors[1].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
-            <figure class="color_wrapper"><img src="../${productData[i].colors[2].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
-            <figure class="color_wrapper"><img src="../${productData[i].colors[3].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[0].colorImage}" alt="Color Image" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[1].colorImage}" alt="Color Image" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[2].colorImage}" alt="Color Image" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[3].colorImage}" alt="Color Image" loading="lazy" type="jpeg"></figure>
         </div>
         </div>
     </div></a>`;
@@ -50,9 +57,9 @@ async function getProducts() {
             </div>
             <p class="total_colors">${productData[i].colors.length} Color Options Available</p>
             <div class="colors">
-            <figure class="color_wrapper"><img src="../${productData[i].colors[0].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
-            <figure class="color_wrapper"><img src="../${productData[i].colors[1].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
-            <figure class="color_wrapper"><img src="../${productData[i].colors[2].colorImage}" alt="" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[0].colorImage}" alt="Color Image" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[1].colorImage}" alt="Color Image" loading="lazy" type="jpeg"></figure>
+            <figure class="color_wrapper"><img src="../${productData[i].colors[2].colorImage}" alt="Color Image" loading="lazy" type="jpeg"></figure>
         </div>
         </div>
     </div></a>`;
@@ -85,4 +92,8 @@ function selectedProduct(product) {
   }
 
   localStorage.setItem("recentlyViewed", JSON.stringify(recent));
+}
+
+function filterByRating(rating, data) {
+  productData = data.filter(elem => elem.rating === rating);
 }

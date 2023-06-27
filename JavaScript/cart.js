@@ -61,7 +61,8 @@ function renderPage() {
             document.querySelector(".products").innerHTML += 
             `<tr class="product">
             <td class="item">
-                <img src="${cart[i].image}" alt="" class="product_image popout">
+                <img src="${cart[i].image}" alt="Product Image" class="product_image popout">
+                <a href="itemPage.html" class="product_link" onclick="selectedProduct(${cart[i].styleNumber})">View Item</a>
                 <h1>${cart[i].name}</h1>
                 <h2>${cart[i].color}</h2>
                 <h3>${cart[i].type} / ${cart[i].size}</h3>

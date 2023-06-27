@@ -37,8 +37,9 @@ navBar.innerHTML = `
         <a href="locations.html" class="nav_link link_hover-effect">Contact</a>
         <a href="homepage.html" class="nav_link link_hover-effect">Home</a>
         <div class="tooltip">
+            <a class="cart_link" href="cart.html"></a>
             <img class="cart_img" src="../assets/shopping-cart.svg" alt="Shopping-Cart">
-            <img class="cart_contents_img" src="../assets/circle.svg" alt=""><span class="cart_amount_img">1</span>
+            <img class="cart_contents_img" src="../assets/circle.svg" alt="Cart Amount"><span class="cart_amount_img">1</span>
             <div class="tooltip_container" id="bottom">
             <div class="cart_products"></div>
             <button onclick="clearCart()" class="btn cart_btn cart_btn-1">Clear Cart</button>
@@ -52,13 +53,23 @@ navBar.innerHTML = `
 const footer = document.getElementById("footer");
 if (footer) {
     footer.innerHTML = `
-<div class="row">
+    <div class="row">
     <figure class="logo"><img src="../assets/SFS Logo.png" alt="Logo" class="logo_img footer_logo_img"><a href="homepage.html"></a></figure>
         <div class="footer_links">
-            <a href="quiz.html" class="footer_link link_hover-effect">Flooring Quiz</a>
-            <a href="store.html" class="footer_link link_hover-effect">Products</a>
-            <a href="locations.html" class="footer_link link_hover-effect">Contact</a>
-            <a href="homepage.html" class="footer_link link_hover-effect">Home</a>
+            <div class="footer_col">
+                <span class="footer_title">Products</span>
+                <a href="store.html" class="footer_link link_hover-effect">All Products</a>
+                <a href="LVP.html" class="footer_link link_hover-effect">Luxury Vinyl Plank</a>
+                <a href="carpet.html" class="footer_link link_hover-effect">Carpet</a>
+                <a href="hardwood.html" class="footer_link link_hover-effect">Hardwood</a>
+                <a href="carpetTile.html" class="footer_link link_hover-effect">Carpet Tile</a>
+            </div>
+            <div class="footer_col">
+                <span class="footer_title">Information</span>
+                <a href="bookings.html" class="footer_link link_hover-effect">Free Estimate</a>
+                <a href="contact.html" class="footer_link link_hover-effect">Contact Us</a>
+                <a href="quiz.html" class="footer_link link_hover-effect">Find Your Perfect Floor</a>
+            </div>
     </div>
 <p>Copyright &copy Simple Flooring Solutions. All Rights Reserved.</p>`;
 }

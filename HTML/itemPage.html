@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The simplest way to buy flooring!">
+    <meta name="keywords" content="flooring, carpet, lvp, hardwood, carpet installation, lvp installation, flooring store, carpet store, carpet samples, lvp samples, flooring samples, shaw floors, coretec">
     <title>Simple Flooring Network</title>
     <link rel="icon" href="../assets/SFS Logo Bg.png">
     <link rel="stylesheet" href="../CSS/global.css" media="all">
@@ -19,7 +21,7 @@
    src="https://www.roomvo.com/static/scripts/b2b/common/assistant.js"
 ></script>
 </head>
-<body>
+<body onload="imageZoom('product_img', 'zoom_result')">
     <div class="mobile_menu"></div>
     <nav id="nav_bar">
     </nav>
@@ -28,19 +30,20 @@
             <div class="row">
                 <div class="product_container">
                     <div class="product_img_container">
-                        <figure class="product_wrapper"></figure>
+                        <div class="product_wrapper">
+                            <img src="" alt="Product Image" class="product_img" id="product_img">
+                            <div id="zoom_result" class="zoom_result"></div>
+                        </div>
                         <div class="product_description">
+                            <span class="hover_msg">Hover Over Image To Zoom</span>
                             <h2 id="color_name">Color Name</h2>
                             <div class="product_slide_show">
-                                <img src="../assets/chevron-left.svg" alt="" id="move_left" class="move">
+                                <img src="../assets/chevron-left.svg" alt="Move Left" id="move_left" class="move">
                                 <div class="product_images">
                                 </div>
-                                <img src="../assets/chevron-right.svg" alt="" id="move_right" class="move">
+                                <img src="../assets/chevron-right.svg" alt="Move Right" id="move_right" class="move">
                             </div>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                                Minus sit aspernatur autem fuga dignissimos? Tempore temporibus recusandae,
-                                eveniet eum pariatur, neque molestiae ipsam voluptatem possimus velit quas natus officiis tempora.
-                            </p>
+                            <p id="product_description"></p>
                         </div>
                     </div>
                     <div class="product_information">
@@ -87,6 +90,14 @@
                         </div>
                     </div>
                 </div>
+    </section>
+    <section id="product_details">
+        <div class="container">
+            <div class="row">
+                <h1>Product Specifications</h1>
+                <div class="table_container"></div>
+            </div>
+        </div>
     </section>
     <footer id="footer">
     </footer>
