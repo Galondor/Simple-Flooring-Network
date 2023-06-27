@@ -192,9 +192,22 @@ footer .row {
 .footer_links {
     display: flex;
     justify-content: center;
-    align-items: center;
-    flex-flow: column wrap;
+    flex-direction: row;
     min-height: 8vh;
+    text-align: center;
+}
+
+.footer_col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 16px;
+}
+
+.footer_title {
+    font-size: 24px;
+    margin-bottom: 12px;
+    font-weight: 700;
 }
 
 .footer_link {
@@ -203,8 +216,7 @@ footer .row {
     color: #fff;
     font-size: 16px;
     font-weight: 700;
-    margin-bottom: 16px;
-    margin-top: 6px;
+    margin: 6px;
     padding-bottom: 6px;
     transition: all 300ms ease;
 }
