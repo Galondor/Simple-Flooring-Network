@@ -87,7 +87,7 @@ async function getProducts() {
 
     for (let i = 0; i < 3; i++) {
       productImages.innerHTML += `<figure class = "product_image_wrapper" onclick="changeImage(${i})">
-      <img class="product_image image${i}" src="../${roomScenes[i].image}" alt="Product Image">
+      <img class="product_image image${i}" src="${roomScenes[i].image}" alt="Product Image">
       </figure>`;
     }
 
